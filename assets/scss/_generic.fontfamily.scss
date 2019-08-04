@@ -1,0 +1,159 @@
+@mixin weight-style() {
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mallory';
+  src: url($fonts-path+$font-mallory+'Mallory-Book.ttf') format('truetype'), url($fonts-path+$font-mallory+'Mallory-Book.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Book';
+  src: url($fonts-path+$font-mallory+'Mallory-Book.ttf') format('truetype'), url($fonts-path+$font-mallory+'Mallory-Book.otf') format('opentype'), url($fonts-path+$font-mallory+'Mallory-Book.woff') format('woff');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Medium';
+  src: url($fonts-path+$font-mallory+'Mallory-Medium.otf') format('opentype'), url($fonts-path+$font-mallory+'Mallory-Medium.otf') format('opentype'),  url($fonts-path+$font-mallory+'Mallory-Medium.woff') format('woff');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Book-Italic';
+  src: url($fonts-path+$font-mallory+'Mallory-BookItalic.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Bold';
+  src: url($fonts-path+$font-mallory+'Mallory-Bold.ttf') format('truetype'), url($fonts-path+$font-mallory+'Mallory-Bold.otf') format('opentype'), url($fonts-path+$font-mallory+'Mallory-Bold.woff') format('woff');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Bold-Italic';
+  src: url($fonts-path+$font-mallory+'Mallory-BoldItalic.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Black';
+  src: url($fonts-path+$font-mallory+'Mallory-Black.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Black-Italic';
+  src: url($fonts-path+$font-mallory+'Mallory-BlackItalic.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Medium';
+  src: url($fonts-path+$font-mallory+'Mallory-Medium.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Medium-Italic';
+  src: url($fonts-path+$font-mallory+'Mallory-MediumItalic.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Thin';
+  src: url($fonts-path+$font-mallory+'Mallory-Thin.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Thin-Italic';
+  src: url($fonts-path+$font-mallory+'Mallory-ThinItalic.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Ultra';
+  src: url($fonts-path+$font-mallory+'Mallory-Ultra.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Ultra-Italic';
+  src: url($fonts-path+$font-mallory+'Mallory-UltraItalic.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Light';
+  src: url($fonts-path+$font-mallory+'Mallory-Light.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-Light-Italic';
+  src: url($fonts-path+$font-mallory+'Mallory-LightItalic.otf') format('opentype');
+  @include weight-style();
+}
+
+/**
+ * Mallory-ExtraLight
+ **/
+
+@font-face {
+  font-family: 'Mallory-ExtraLight';
+  src: url($fonts-path+$font-mallory+'Mallory-ExtraLight.otf') format('opentype');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'Mallory-ExtraLight-Italic';
+  src: url($fonts-path+$font-mallory+'Mallory-ExtraLightItalic.otf') format('opentype');
+  @include weight-style();
+}
+
+/**
+ * MalloryCond-Black
+ **/
+
+@font-face {
+  font-family: 'Mallory-Condensed-Black';
+  src: url($fonts-path+$font-mallory+'MalloryCond-Black.otf') format('opentype'),
+    url($fonts-path+$font-mallory+'MalloryCond-Black.woff') format('woff');
+  @include weight-style();
+}
+
+/**
+ * MalloryCond-Medium
+ **/
+
+@font-face {
+  font-family: 'Mallory-Condensed-Medium';
+  src: url($fonts-path+$font-mallory+'MalloryCond-Medium.otf') format('opentype'),
+    url($fonts-path+$font-mallory+'MalloryCond-Medium.woff') format('woff');
+  @include weight-style();
+}
+
+/**
+ * MalloryCond-Light
+ **/
+
+@font-face {
+  font-family: 'Mallory-Condensed-Light';
+  src: url($fonts-path+$font-mallory+'MalloryCond-Light.otf') format('opentype'),
+    url($fonts-path+$font-mallory+'MalloryCond-Light.woff') format('woff');
+  @include weight-style();
+}
+
+@font-face {
+  font-family: 'academy';
+  src:  url($fonts-path + $font-academy + 'academy.eot?sz7yut');
+  src:  url($fonts-path + $font-academy + 'academy.eot?sz7yut#iefix') format('embedded-opentype'),
+    url($fonts-path + $font-academy + 'academy.ttf?sz7yut') format('truetype'),
+    url($fonts-path + $font-academy + 'academy.woff?sz7yut') format('woff'),
+    url($fonts-path + $font-academy + 'academy.svg?sz7yut#academy') format('svg');
+ @include weight-style();
+}

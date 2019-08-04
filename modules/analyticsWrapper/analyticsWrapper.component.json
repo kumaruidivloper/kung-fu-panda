@@ -1,0 +1,11 @@
+{
+  "title": "Analytics Wrapper",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Analytics Wrapper works!"
+      }
+    }
+  }
+}

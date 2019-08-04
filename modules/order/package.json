@@ -1,0 +1,15 @@
+{
+  "name": "order",
+  "version": "1.0.0",
+  "description": "Order component",
+  "main": "order.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "^1.0.52",
+    "react-router-dom": "^4.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

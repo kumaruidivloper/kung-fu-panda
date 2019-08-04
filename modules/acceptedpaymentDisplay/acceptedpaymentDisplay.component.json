@@ -1,0 +1,39 @@
+{
+  "title": "Accepted Payment Display",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "cardsAccepted": [{
+            "text": "/content/dam/academysports/Lighthouse.jpg"
+          },
+          {
+            "text": "/content/dam/academysports/Lighthouse.jpg"
+          },
+          {
+            "text": "/content/dam/academysports/Lighthouse.jpg"
+          }]
+        },
+        "yourCartTitle": "YOUR CART",
+        "shopWithConfidenceTitle": "SHOP WITH CONFIDENCE",
+        "shopWithConfidenceSubHeading": "Shop with Academy.com is safe and secure",
+        "freeInStoreReturns": "FREE IN STORE RETURNS",
+        "weAcceptLabel": "WE ACCEPT",
+        "legalLinks": [{
+          "label": "Shipping Policy",
+          "url": "www.google.com"
+        },
+        {
+          "label": "Return Policy",
+          "url": "www.google.com"
+        }],
+          "enterPromoCodeLabel": "Enter Promo Code",
+          "hidePromoCodeLabel": "Hide Promo Code",
+          "emptyCartHeading": "YOUR CART IS EMPTY",
+          "emptyCartSubHeading": "Looks like you forgot to load up,but dont worry! Sign in to see if you have any saved items or simply continue shopping for great gear. "
+      }
+  }
+}
+}

@@ -1,0 +1,19 @@
+{
+  "name": "find-a-store-modal-r-two",
+  "version": "1.0.0",
+  "description": "Find A Store Modal R Two component",
+  "main": "findAStoreModalRTwo.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "^1.0.24",
+    "classnames": "^2.2.6",
+    "react-modal": "^3.4.5"
+  },
+  "devDependencies": {
+    "mockserver": "^1.11.0"
+  }
+}

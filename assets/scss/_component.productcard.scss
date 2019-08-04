@@ -1,0 +1,303 @@
+@mixin c-price__36 {
+  font-size: 2.25rem;
+  line-height: 2.25rem;
+}
+@mixin c-price__28 {
+  font-size: 1.75rem;
+  line-height: 1.75rem;
+}
+@mixin c-price__24 {
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+@mixin c-price__20 {
+  font-size: 1.25rem;
+  line-height: 1.25rem;
+}
+@mixin c-price__16 {
+  font-size: 1rem;
+  line-height: 1rem;
+}
+@mixin c-price__14 {
+  font-size: 0.875rem;
+  line-height: 0.875rem;
+}
+@mixin c-price__12 {
+  font-size: 0.75rem;
+  line-height: 0.75rem;
+}
+@mixin c-price__10 {
+  font-size: 0.625rem;
+  line-height: 0.625rem;
+}
+@mixin c-price__8 {
+  font-size: 0.5rem;
+  line-height: 0.5rem;
+}
+
+.c-product__title {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-family: $font-family-medium;
+  color: $academy-gray3;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem !important;
+  @media (max-width: 576px) {
+    color: $academy-gray2;
+  }
+}
+.c-product__description {
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  font-family: $font-family-base;
+  color: $academy-gray;
+  height: 3.375rem;
+  overflow: hidden;
+  @media (min-width: 576px) {
+    font-size: 1rem;
+    line-height: 1.25rem;
+    height: 3.75rem;
+  }
+}
+.c-product__ratings-reviews {
+  height: 2rem;
+}
+.c-product__colors-available {
+  font-size: 0.625rem;
+  line-height: 0.875rem;
+  font-family: $font-family-base;
+  color: $academy-gray;
+  // TO move the harded coded value to media.js for min-width values
+  @media (min-width: 768px) {
+    height: 1rem;
+  }
+  @media (min-width: 864px) {
+    font-size: 0.75rem;
+    line-height: 1rem;
+  }
+}
+
+.c-price__sub,
+.c-price__super {
+  font-family: $font-family-cond-black;
+  letter-spacing: 0;
+}
+.c-price__super {
+  top: 0.1rem;
+  vertical-align: text-top;
+}
+.c-price__sub {
+  @include c-price__36;
+}
+.c-price__super {
+  @include c-price__14;
+}
+.list-price {
+  .c-price__sub {
+    @include c-price__24;
+  }
+  .c-price__super {
+    @include c-price__10;
+  }
+}
+.c-price-in-cart {
+  font-family: $font-family-cond-black;
+  @include c-price__24;
+}
+.c-price-compare {
+  @include c-price__12;
+}
+.c-price__tooltip-icon {
+  @include c-price__16;
+  color: $gray-65;
+  padding-left: 5px;
+}
+.c-price__tooltip-text {
+  width: 250px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 6px 16px 0px, rgba(0, 0, 0, 0.04) 0px 6px 12px 0px, 0px 2px 5px 0px;
+}
+.c-product__badge {
+  z-index: 2;
+}
+
+.horizontal {
+  width: 100%;
+  /* ***********
+    1. Wrap save percentage to new line on all devices, if we have bigger prices.
+    2. Save percentage will be on the same line, if we have smaller prices.
+  ************ */
+  section {
+    > div {
+      display: flex;
+      width: 100%;
+      flex-flow: wrap;
+      align-items: flex-end;
+      justify-content: flex-start;
+      > div {
+        width: 100%;
+      }
+    }
+    span {
+      &:last-child {
+        position: relative;
+      }
+      &.c-price__sub {
+        position: static;
+      }
+      &.list-price {
+        position: static;
+      }
+      &.c-price__tooltip-icon {
+        position: static;
+      }
+    }
+  }
+  .c-product__lazyspinner {
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    position: relative;
+  }
+  .c-product__lazyspinner::after {
+    content: ' ';
+    position: absolute;
+    right: calc(50% - 23px);
+    display: block;
+    width: 46px;
+    height: 46px;
+    margin: 1px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    border-color: transparent transparent #1f56a0 transparent;
+    animation: loaderspin 0.8s linear infinite;
+  }
+
+  @keyframes loaderspin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  .c-product__description {
+    font-size: 0.75rem;
+    line-height: 1rem;
+    height: 3rem;
+    @media (min-width: 576px) {
+      color: $academy-gray3;
+      font-size: 0.875rem;
+      line-height: 1.125rem;
+      height: 3.375rem;
+    }
+    @media (max-width: 767px) {
+      height: auto;
+    }
+  }
+  .c-product__colors-available {
+    font-size: 0.625rem;
+    line-height: 0.875rem;
+    font-family: $font-family-base;
+    color: $academy-gray;
+  }
+  .c-product__colors-available.m-noratings {
+    padding: 0;
+  }
+  .c-product__title {
+    margin-bottom: 0 !important;
+    @media (min-width: 768px) {
+      margin-bottom: 0.5rem !important;
+      min-height: 2rem;
+    }
+  }
+  .c-price__sub {
+    @include c-price__28;
+  }
+  .c-price__super {
+    @include c-price__10;
+  }
+  .list-price {
+    .c-price__sub {
+      font-family: $font-family-cond-medium;
+      @include c-price__20;
+    }
+    .c-price__super {
+      font-family: $font-family-cond-medium;
+      @include c-price__8;
+    }
+  }
+  .c-price-in-cart {
+    @include c-price__16;
+    font-family: $font-family-cond-black;
+  }
+  .c-price-compare {
+    @include c-price__10;
+    font-family: $font-family-base;
+  }
+  @include media-breakpoint-up(sm) {
+    .c-price__sub {
+      @include c-price__36;
+    }
+    .c-price__super {
+      @include c-price__14;
+    }
+    .list-price {
+      .c-price__sub {
+        @include c-price__24;
+      }
+      .c-price__super {
+        @include c-price__10;
+      }
+    }
+    .c-price-in-cart {
+      @include c-price__24;
+    }
+    .c-price-compare {
+      @include c-price__12;
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .horizontal {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+.sc-product-card.col-4 {
+  @media (max-width: 1447px) {
+    height: 500px;
+  }
+  @media (max-width: 1112px) {
+    max-width: calc(840px * 6 / 12);
+    height: 445px;
+  }
+  @media (max-width: 864px) {
+    max-width: calc(744px * 6 / 12);
+    height: 420px;
+  }
+  @media (max-width: 768px) {
+    height: 475px;
+  }
+  @media (max-width: 524px) {
+    max-width: calc(320px * 8 / 12);
+    height: 425px;
+  }
+  @media (max-width: 320px) {
+    max-width: calc(100vw * 8 / 12);
+  }
+}
+.vertical {
+  div:hover > img {
+    opacity: 1;
+  }
+}
+.vertical {
+  .c-product__colors-available {
+    height: 1rem;
+    padding-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
+  }
+}

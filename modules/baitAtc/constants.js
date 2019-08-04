@@ -1,0 +1,16 @@
+export const NODE_TO_MOUNT = 'baitAtc';
+export const DATA_COMP_ID = 'data-compid';
+export const ADD_SELECTIONS_TO_CART = 'Add Selections to cart';
+export const FETCH_MINI_CART_SUCCESS = 'GLOBAL_HEADER_FETCH_MINI_CART_SUCCESS';
+export const ADD_TO_CART = 'Add to cart';
+export const ITEMS = 'Items';
+export const YOU_HAVE_SELECTED = "You've selected";
+export const SUBTOTAL = 'Subtotal';
+export const QUANTITY_LABEL = 'Quantity:';
+export const VIEW_CART = 'VIEW CART';
+export const CHECKOUT = 'CHECKOUT';
+export const CONTINUE_SHOPPING = 'Continue Shopping';
+export const SELECTED_OPTIONS = 'Selected Options';
+export const SHOW_FUMBLED = 'SHOW_FUMBLED';
+export const COLON = ':';
+export const CREATE_PASSWORD_URL = '/shop/createpassword';

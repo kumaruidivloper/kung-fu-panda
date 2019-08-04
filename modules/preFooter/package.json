@@ -1,0 +1,18 @@
+{
+  "name": "pre-footer",
+  "version": "1.0.0",
+  "description": "Pre Footer component",
+  "main": "preFooter.component.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register preFooter.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-parse-stringify": "1.0.2",
+    "react-safe": "1.1.1"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3"
+  }
+}

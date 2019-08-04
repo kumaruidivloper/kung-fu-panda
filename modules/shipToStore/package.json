@@ -1,0 +1,14 @@
+{
+  "name": "ship-to-store",
+  "version": "1.0.0",
+  "description": "Ship To Store component",
+  "main": "shipToStore.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "1.0.101"
+  },
+  "author": "",
+  "license": "ISC"
+}

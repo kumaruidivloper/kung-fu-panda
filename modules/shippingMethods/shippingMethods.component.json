@@ -1,0 +1,437 @@
+{
+  "title": "Shipping Methods",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "shippingMethodLabel": "SHIPPING METHOD",
+        "shipmentLabel": "Shipment",
+        "arrivesLabel": "Arrives",
+        "commonLabels" : {
+          "itemsLabel": "Items",
+          "goToPaymentLabel":"Go to Payment"
+        },
+        "shipmentTypes": [
+          {
+            "type": "SG",
+            "title": "",
+            "subTitle": "If ordered by 2 PM CST.Ground shipping"
+          },
+          {
+            "type": "2D",
+            "title": "Two Day Shipping",
+            "subTitle": "Two Day Shipping SubText"
+          },
+          {
+            "type": "POV",
+            "title": "Priority Over Night",
+            "subTitle": "Priority Over Night Sub Text"
+          },
+          {
+            "type": "STS",
+            "title": "Ship To Store",
+            "subTitle": "Ship To Store SubText"
+          },
+          {
+            "type": "DSV",
+            "title": "Drop Ship Items ",
+            "subTitle": "Drop Ship Items Subtext"
+          },
+          {
+            "type": "AMMO",
+            "title": "Ammo Items Shipping",
+            "subTitle": "Ammo Items Shipping Subtext"
+          },
+          {
+            "type": "GC",
+            "title": "Academy Bulk Gift Cards",
+            "subTitle": "Academy Bulk Gift Cards Subtext"
+          },
+          {
+            "type": "WG",
+            "title": "White Clove Shipping",
+            "subTitle": "White Clove Shipping SubText"
+          },
+          {
+            "type": "WG_BD",
+            "title": "Basic Delivery",
+            "subTitle": "We will deliver to your door with no appointment or signature required.Note:If you're shipping to an appartment or multi-unit building , please select another option."
+          },
+          {
+            "type": "WG_SD",
+            "title": "Scheduled Delivery",
+            "subTitle": "We will call and schedule to deliver inside your main entrance."
+          },
+          {
+            "type": "WG_RC",
+            "title": "Room of Choice",
+            "subTitle": "We will call and schedule delivery to your room of choice."
+          },
+          {
+            "type": "PICKUPINSTORE",
+            "title": "Pick Up In Store",
+            "subTitle": "Pick Up In Store Subtext"
+          }
+        ]
+      },
+      "isLoggedIn": false,
+      "orderDetails": {
+        "orderId": "1000",
+        "numberOfItems": "2",
+        "orderStatus": "p",
+        "totals": {
+          "totalAdjustment": "0",
+          "totalShippingTax": "22.5",
+          "totalProductPrice": "100",
+          "orderCurrency": "USD",
+          "orderLocale": "en_US",
+          "totalShippingCharge": "10",
+          "orderTotal": "200",
+          "totalSalesTax": "20"
+        },
+        "orderItems": [
+          {
+            "orderItemId": "1000",
+            "unitPrice": 19.99,
+            "totalAdjustment": -10.07,
+            "zipCode": "77449",
+            "quantity": 1,
+            "shipModeCode": "UPS Ground",
+            "shipModeId": "10551",
+            "orderItemPrice": 19.99,
+            "orderItemDiscountedPrice": 19.99,
+            "skuId": "020879136",
+            "isfreeGift": false,
+            "productId": "428638",
+            "skuDetails": {
+              "inventory": {
+                "online": [
+                  {
+                    "availableQuantity": "20.0",
+                    "inventoryStatus": "IN_STOCK"
+                  }
+                ]
+              },
+              "skuInfo": {
+                "name": "Under Armour Men's Tech Short Sleeve T-shirt",
+                "shortDescription": "",
+                "longDescription": "Made with 100% UA Techâ¢ polyester and ArmourBlockÂ® anti-odor technology, the Under Armourâ¢ Men's Techâ¢ Short Sleeve T-shirt offers a comfortable option that helps keep you feeling fresh during high-intensity training sessions. The Moisture Transport System and HeatGearÂ® fabric technology combine to move moisture away from the body, while the raglan construction and flat seams promote mobility. Short sleeves. Loose fit.",
+                "imageAltDescription": "Under Armour Men's Tech Short Sleeve T-shirt",
+                "sellable": "true",
+                "imageURL": "//assets.academy.com/mgen/59/10183059.jpg",
+                "thumbnail": "//assets.academy.com/mgen/59/10183059.jpg",
+                "skuAttributes": [
+                  {
+                    "name": "Color",
+                    "value": "Royal/White"
+                  },
+                  {
+                    "name": "Size",
+                    "value": "Small"
+                  }
+                ]
+              }
+            },
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDes": "SG",
+                "shippingType": "SG",
+                "estimatedFromDate": "2018-07-31",
+                "estimatedToDate": "2018-08-02"
+              }
+            ]
+          },
+          {
+            "orderItemId": "1000",
+            "unitPrice": 40,
+            "totalAdjustment": -15.67,
+            "zipCode": "77449",
+            "quantity": 1,
+            "shipModeCode": "UPS Ground",
+            "shipModeId": "10551",
+            "orderItemPrice": 40,
+            "orderItemDiscountedPrice": 36,
+            "skuId": "103412876",
+            "isfreeGift": false,
+            "productId": "1311822",
+            "skuDetails": {
+              "inventory": {
+                "store": [
+                  {
+                    "storeId": "false"
+                  }
+                ],
+                "online": [
+                  {
+                    "availableQuantity": "26.0",
+                    "inventoryStatus": "IN_STOCK"
+                  }
+                ]
+              },
+              "skuInfo": {
+                "name": "M NIKE NET 11\"SHORT:Black:Small",
+                "shortDescription": "",
+                "longDescription": "Stay cool and comfortable on the court in the Nikeâ¢ Men's Woven Tennis Short. Made of stretchy 88% polyester and 12% spandex, this short features moisture-wicking Dri-FIT fabric technology and a mesh yoke and gusset to provide ventilation. The elastic waistband with a draw cord offers a secure fit. Left zip pocket and side-slit ball pockets. 11\" inseam based on size medium.",
+                "imageAltDescription": "M NIKE NET 11\"SHORT:Black:Small",
+                "sellable": "true",
+                "imageURL": "//assets.academy.com/mgen/92/10411292.jpg",
+                "thumbnail": "//assets.academy.com/mgen/92/10411292.jpg",
+                "skuAttributes": [
+                  {
+                    "name": "Color",
+                    "value": "Black"
+                  },
+                  {
+                    "name": "Size",
+                    "value": "Small"
+                  }
+                ]
+              }
+            },
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDes": "SG",
+                "shippingType": "SG",
+                "estimatedFromDate": "2018-07-31",
+                "estimatedToDate": "2018-08-02"
+              }
+            ]
+          }
+        ],
+        "shippingGroups": [
+        ],
+        "addresses": {
+          "shippingAddress": {
+            "firstName": "",
+            "lastName": "",
+            "phoneNumber": "",
+            "address": "",
+            "zipCode": "",
+            "city": "",
+            "state": "",
+            "companyName": ""
+          }
+        },
+        "promotions": [
+          {
+            "promotionId": "100533691",
+            "code": "Test10",
+            "description": ""
+          },
+          {
+            "promotionId": "100533692",
+            "code": "Test10",
+            "description": ""
+          }
+        ]
+      },
+      "savedShippingModes": {
+        "isFetching": false, "error": false, "data": {
+          "results": {
+          "orderId": "14873336909",
+          "shippingGroups": [
+          {
+          "orderItems": [
+          {
+          "partnumber": "109384626",
+          "catentryId": "3964553",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "103128381",
+          "catentryId": "1589860",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "SG",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "10551",
+          "shipmodeDesc": "3-5 business days",
+          "baseShippingCharge": ""
+          },
+          {
+          "shippingType": "2D",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "11357",
+          "shipmodeDesc": "2 business days",
+          "baseShippingCharge": ""
+          },
+          {
+          "shippingType": "POV",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "11358",
+          "shipmodeDesc": "1 business day",
+          "baseShippingCharge": ""
+          }
+          ],
+          "groupSeqNum": 1
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "109733005",
+          "catentryId": "4178720",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "109733013",
+          "catentryId": "4178721",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "DSV",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "10551",
+          "shipmodeDesc": "STANDARD GROUND (3-5 BUSINESS DAYS)",
+          "baseShippingCharge": ""
+          }
+          ],
+          "groupSeqNum": 2
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "108454021",
+          "catentryId": "3513873",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "WG",
+          "estimatedFromDate": "",
+          "estimatedToDate": "",
+          "saleShippingCharge": "",
+          "shipmodeId": "10555",
+          "shipmodeDesc": "ACADEMY BULK CARRIER SERVICE",
+          "baseShippingCharge": ""
+          }
+          ],
+          "groupSeqNum": 3
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "007318769",
+          "catentryId": "124256",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "110417878",
+          "catentryId": "3812588",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "111820651",
+          "catentryId": "4193288",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "110417843",
+          "catentryId": "3812637",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "AMMO",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "10551",
+          "shipmodeDesc": "STANDARD GROUND (3-5 BUSINESS DAYS)",
+          "baseShippingCharge": ""
+          }
+          ],
+          "groupSeqNum": 4
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "110417878",
+          "catentryId": "3812588",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "110417843",
+          "catentryId": "3812637",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "GC",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "10554",
+          "shipmodeDesc": "STANDARD GROUND (3-5 BUSINESS DAYS)",
+          "baseShippingCharge": ""
+          }
+          ],
+          "groupSeqNum": 5
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "007318769",
+          "catentryId": "007318769",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "STS",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "10560",
+          "shipmodeDesc": "SHIP TO STORE",
+          "baseShippingCharge": ""
+          }
+          ],
+          "groupSeqNum": 6
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "109442849",
+          "catentryId": "4325502",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "PICKUPINSTORE",
+          "estimatedFromDate": "",
+          "estimatedToDate": "",
+          "saleShippingCharge": "",
+          "shipmodeId": "10556",
+          "shipmodeDesc": "PICKUP IN STORE",
+          "baseShippingCharge": ""
+          }
+          ],
+          "groupSeqNum": 7
+          }
+          ]
+          }
+          }
+    }
+    }
+  }
+}
+

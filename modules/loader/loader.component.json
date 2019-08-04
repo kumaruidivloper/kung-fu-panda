@@ -1,0 +1,11 @@
+{
+  "title": "Loader",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Loader works!"
+      }
+    }
+  }
+}

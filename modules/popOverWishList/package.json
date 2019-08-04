@@ -1,0 +1,14 @@
+{
+  "name": "pop-over-wish-list",
+  "version": "1.0.0",
+  "description": "Pop Over Wish List component",
+  "main": "popOverWishList.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}

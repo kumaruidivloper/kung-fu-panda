@@ -1,0 +1,15 @@
+{
+  "name": "create-account",
+  "version": "1.0.0",
+  "description": "Create Account component",
+  "main": "createAccount.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.32",
+    "@react-nitro/error-boundary": "0.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

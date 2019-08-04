@@ -1,0 +1,15 @@
+{
+  "title": "Checkout Header",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "checkoutHeaderLogo": "/content/dam/academysports/Chrysanthemum.jpg",
+        "checkoutHeaderLogoAltText": "Checkout Header",
+        "checkoutHeaderLogoTargetURL": "https://www.academy.com",
+        "checkoutCartLink": "/shop/cart"
+      }
+    }
+  }
+}

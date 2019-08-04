@@ -1,0 +1,2040 @@
+{
+  "cms": {},
+  "api": {
+    "facets": [
+      {
+        "id": "-1000",
+        "name": "Brand",
+        "displaySequence": "-11.0",
+        "property": "mfName_ntk_cs",
+        "labels": [
+          {
+            "property": "mfName_ntk_cs%3A%22Nike%22",
+            "name": "Nike",
+            "count": "114",
+            "id": "-100278105107101"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Brooks%22",
+            "name": "Brooks",
+            "count": "42",
+            "id": "-100266114111111107115"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22New+Balance%22",
+            "name": "New Balance",
+            "count": "41",
+            "id": "-1002781011193266971089711099101"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22ASICS%22",
+            "name": "ASICS",
+            "count": "34",
+            "id": "-10026583736783"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22ASICS%C2%AE%22",
+            "name": "ASICS®",
+            "count": "32",
+            "id": "-10026583736783174"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Saucony%22",
+            "name": "Saucony",
+            "count": "28",
+            "id": "-1002839711799111110121"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Under+Armour%22",
+            "name": "Under Armour",
+            "count": "26",
+            "id": "-1002851101001011143265114109111117114"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Under+Armour%C2%AE%22",
+            "name": "Under Armour®",
+            "count": "23",
+            "id": "-1002851101001011143265114109111117114174"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Reebok%22",
+            "name": "Reebok",
+            "count": "19",
+            "id": "-10028210110198111107"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Mizuno%22",
+            "name": "Mizuno",
+            "count": "18",
+            "id": "-100277105122117110111"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Adidas%22",
+            "name": "Adidas",
+            "count": "15",
+            "id": "-10026510010510097115"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Fila%22",
+            "name": "Fila",
+            "count": "10",
+            "id": "-10027010510897"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22BCG%E2%84%A2%22",
+            "name": "BCG?",
+            "count": "7",
+            "id": "-10026667718482"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22SKECHERS%22",
+            "name": "SKECHERS",
+            "count": "7",
+            "id": "-10028375696772698283"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Salomon%22",
+            "name": "Salomon",
+            "count": "6",
+            "id": "-10028397108111109111110"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22adidas%22",
+            "name": "adidas",
+            "count": "5",
+            "id": "-10029710010510097115"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22361%22",
+            "name": "361",
+            "count": "3",
+            "id": "-1002515449"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22BCG%22",
+            "name": "BCG",
+            "count": "2",
+            "id": "-1002666771"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22Merrell%C2%AE%22",
+            "name": "Merrell®",
+            "count": "2",
+            "id": "-100277101114114101108108174"
+          },
+          {
+            "property": "mfName_ntk_cs%3A%22PUMA%22",
+            "name": "PUMA",
+            "count": "2",
+            "id": "-100280857765"
+          }
+        ]
+      },
+      {
+        "id": "2501",
+        "name": "Price",
+        "displaySequence": "-10.0",
+        "property": "product_prc_facet",
+        "labels": [
+          {
+            "property": "product_prc_facet%3A%221%22",
+            "name": "Under $10",
+            "count": "27",
+            "id": "1000349"
+          },
+          {
+            "property": "product_prc_facet%3A%222%22",
+            "name": "$10 - $19.99",
+            "count": "22",
+            "id": "1000350"
+          },
+          {
+            "property": "product_prc_facet%3A%223%22",
+            "name": "$20 - $49.99",
+            "count": "151",
+            "id": "1000351"
+          },
+          {
+            "property": "product_prc_facet%3A%224%22",
+            "name": "$50 - $99.99",
+            "count": "229",
+            "id": "1000352"
+          },
+          {
+            "property": "product_prc_facet%3A%225%22",
+            "name": "$100 - $199.99",
+            "count": "85",
+            "id": "1000353"
+          }
+        ]
+      },
+      {
+        "id": "2500",
+        "name": "Ad Feature",
+        "displaySequence": "-9.0",
+        "property": "adbug",
+        "labels": [
+          {
+            "property": "adbug%3A%22c%22",
+            "name": "Clearance",
+            "count": "283",
+            "id": "1000199"
+          },
+          {
+            "property": "adbug%3A%22o%22",
+            "name": "Online Only",
+            "count": "44",
+            "id": "10001111"
+          },
+          {
+            "property": "adbug%3A%22h%22",
+            "name": "Hot Deal",
+            "count": "2",
+            "id": "10001104"
+          }
+        ]
+      },
+      {
+        "id": "23508",
+        "name": "Rolling",
+        "displaySequence": "0.0",
+        "property": "ads_f33501_ntk_cs",
+        "labels": [
+          {
+            "property": "ads_f33501_ntk_cs%3A%22N%22",
+            "name": "N",
+            "count": "435",
+            "id": "-5481478"
+          },
+          {
+            "property": "ads_f33501_ntk_cs%3A%22Y%22",
+            "name": "Y",
+            "count": "6",
+            "id": "-5481489"
+          }
+        ]
+      },
+      {
+        "id": "2506",
+        "name": "rating",
+        "displaySequence": "2.0",
+        "property": "ads_f10001_ntk_cs",
+        "labels": [
+          {
+            "property": "ads_f10001_ntk_cs%3A%225%22",
+            "name": "5",
+            "count": "26",
+            "id": "-970053"
+          },
+          {
+            "property": "ads_f10001_ntk_cs%3A%224%22",
+            "name": "4",
+            "count": "32",
+            "id": "-970052"
+          },
+          {
+            "property": "ads_f10001_ntk_cs%3A%223%22",
+            "name": "3",
+            "count": "4",
+            "id": "-970051"
+          },
+          {
+            "property": "ads_f10001_ntk_cs%3A%222%22",
+            "name": "2",
+            "count": "1",
+            "id": "-970050"
+          }
+        ]
+      },
+      {
+        "id": "1501",
+        "name": "Shoe Size",
+        "displaySequence": "3.0",
+        "property": "ads_f10501_ntk_cs",
+        "labels": [
+          {
+            "property": "ads_f10501_ntk_cs%3A%225%22",
+            "name": "5",
+            "count": "22",
+            "id": "-372853"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%225.5%22",
+            "name": "5.5",
+            "count": "86",
+            "id": "-3728534653"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%226%22",
+            "name": "6",
+            "count": "312",
+            "id": "-372854"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%226.5%22",
+            "name": "6.5",
+            "count": "324",
+            "id": "-3728544653"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%227%22",
+            "name": "7",
+            "count": "343",
+            "id": "-372855"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%227.5%22",
+            "name": "7.5",
+            "count": "344",
+            "id": "-3728554653"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%228%22",
+            "name": "8",
+            "count": "359",
+            "id": "-372856"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%228.5%22",
+            "name": "8.5",
+            "count": "359",
+            "id": "-3728564653"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%229%22",
+            "name": "9",
+            "count": "352",
+            "id": "-372857"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%229.5%22",
+            "name": "9.5",
+            "count": "341",
+            "id": "-3728574653"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%2210%22",
+            "name": "10",
+            "count": "342",
+            "id": "-37284948"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%2210.5%22",
+            "name": "10.5",
+            "count": "22",
+            "id": "-372849484653"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%2211%22",
+            "name": "11",
+            "count": "232",
+            "id": "-37284949"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%2211.5%22",
+            "name": "11.5",
+            "count": "4",
+            "id": "-372849494653"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%2212%22",
+            "name": "12",
+            "count": "73",
+            "id": "-37284950"
+          },
+          {
+            "property": "ads_f10501_ntk_cs%3A%2213%22",
+            "name": "13",
+            "count": "2",
+            "id": "-37284951"
+          }
+        ]
+      },
+      {
+        "id": "1502",
+        "name": "Shoe Width",
+        "displaySequence": "4.0",
+        "property": "ads_f10502_ntk_cs",
+        "labels": [
+          {
+            "property": "ads_f10502_ntk_cs%3A%22B%22",
+            "name": "B",
+            "count": "421",
+            "id": "-372966"
+          },
+          {
+            "property": "ads_f10502_ntk_cs%3A%22D%22",
+            "name": "D",
+            "count": "43",
+            "id": "-372968"
+          },
+          {
+            "property": "ads_f10502_ntk_cs%3A%22A%22",
+            "name": "A",
+            "count": "1",
+            "id": "-372965"
+          }
+        ]
+      },
+      {
+        "id": "11009",
+        "name": "Special feature",
+        "displaySequence": "30.0",
+        "property": "ads_f20502_ntk_cs",
+        "labels": [
+          {
+            "property": "ads_f20502_ntk_cs%3A%22Breathable%22",
+            "name": "Breathable",
+            "count": "23",
+            "id": "-1885266114101971161049798108101"
+          },
+          {
+            "property": "ads_f20502_ntk_cs%3A%22Trail%22",
+            "name": "Trail",
+            "count": "4",
+            "id": "-188528411497105108"
+          },
+          {
+            "property": "ads_f20502_ntk_cs%3A%22Barefoot%2FMinimal%22",
+            "name": "Barefoot/Minimal",
+            "count": "3",
+            "id": "-188526697114101102111111116477710511010510997108"
+          },
+          {
+            "property": "ads_f20502_ntk_cs%3A%22Stability%22",
+            "name": "Stability",
+            "count": "1",
+            "id": "-18852831169798105108105116121"
+          }
+        ]
+      },
+      {
+        "id": "9531",
+        "name": "Footwear - Surface Type",
+        "displaySequence": "30.0",
+        "property": "ads_f19025_ntk_cs",
+        "labels": [
+          {
+            "property": "ads_f19025_ntk_cs%3A%22Road%2FIndoor%22",
+            "name": "Road/Indoor",
+            "count": "201",
+            "id": "-1875982111971004773110100111111114"
+          },
+          {
+            "property": "ads_f19025_ntk_cs%3A%22Trail%22",
+            "name": "Trail",
+            "count": "19",
+            "id": "-187598411497105108"
+          }
+        ]
+      },
+      {
+        "id": "9532",
+        "name": "Footwear - Foot Mechanics",
+        "displaySequence": "30.0",
+        "property": "ads_f19026_ntk_cs",
+        "labels": [
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Medium%22",
+            "name": "Medium",
+            "count": "2",
+            "id": "-1875877101100105117109"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Mild+Overpronation%22",
+            "name": "Mild Overpronation",
+            "count": "5",
+            "id": "-1875877105108100327911810111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Mild+overpronation%22",
+            "name": "Mild overpronation",
+            "count": "14",
+            "id": "-18758771051081003211111810111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Mild+pronation%22",
+            "name": "Mild pronation",
+            "count": "2",
+            "id": "-18758771051081003211211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Mild+underpronation+to+overpronation%22",
+            "name": "Mild underpronation to overpronation",
+            "count": "1",
+            "id": "-18758771051081003211711010010111411211411111097116105111110321161113211111810111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Neutral%22",
+            "name": "Neutral",
+            "count": "160",
+            "id": "-187587810111711611497108"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Neutral+Pronation%22",
+            "name": "Neutral Pronation",
+            "count": "29",
+            "id": "-187587810111711611497108328011411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Neutral+pronation%22",
+            "name": "Neutral pronation",
+            "count": "64",
+            "id": "-1875878101117116114971083211211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Neutral+pronation+to+overpronation%22",
+            "name": "Neutral pronation to overpronation",
+            "count": "3",
+            "id": "-1875878101117116114971083211211411111097116105111110321161113211111810111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Neutral+pronation+to+severe+overpronation%22",
+            "name": "Neutral pronation to severe overpronation",
+            "count": "1",
+            "id": "-187587810111711611497108321121141111109711610511111032116111321151011181011141013211111810111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Neutral+to+overpronation%22",
+            "name": "Neutral to overpronation",
+            "count": "1",
+            "id": "-187587810111711611497108321161113211111810111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Neutral+to+underpronation%22",
+            "name": "Neutral to underpronation",
+            "count": "2",
+            "id": "-187587810111711611497108321161113211711010010111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Over+Pronate%2FPronate%22",
+            "name": "Over Pronate/Pronate",
+            "count": "42",
+            "id": "-1875879118101114328011411111097116101478011411111097116101"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Overpronation%22",
+            "name": "Overpronation",
+            "count": "1",
+            "id": "-187587911810111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Severe+overpronation%22",
+            "name": "Severe overpronation",
+            "count": "1",
+            "id": "-18758831011181011141013211111810111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Under+Pronate%2FSupinate%22",
+            "name": "Under Pronate/Supinate",
+            "count": "20",
+            "id": "-1875885110100101114328011411111097116101478311711210511097116101"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Underpronation%22",
+            "name": "Underpronation",
+            "count": "9",
+            "id": "-187588511010010111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Underpronation+to+mild+overpronation%22",
+            "name": "Underpronation to mild overpronation",
+            "count": "1",
+            "id": "-18758851101001011141121141111109711610511111032116111321091051081003211111810111411211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Underpronation+to+neutral+pronation%22",
+            "name": "Underpronation to neutral pronation",
+            "count": "2",
+            "id": "-1875885110100101114112114111110971161051111103211611132110101117116114971083211211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Underpronation%2C+neutral+pronation%22",
+            "name": "Underpronation, neutral pronation",
+            "count": "1",
+            "id": "-1875885110100101114112114111110971161051111104432110101117116114971083211211411111097116105111110"
+          },
+          {
+            "property": "ads_f19026_ntk_cs%3A%22Underpronation%2C+neutral+pronation%2C+overpronation%22",
+            "name": "Underpronation, neutral pronation, overpronation",
+            "count": "3",
+            "id":
+              "-1875885110100101114112114111110971161051111104432110101117116114971083211211411111097116105111110443211111810111411211411111097116105111110"
+          }
+        ]
+      }
+    ],
+    "productinfo": [
+      {
+        "name": "Saucony Women's Grid Excursion TR6 Athletic Trail Running Shoes",
+        "id": "226924",
+        "shortDescription":
+          "The Saucony Women's Grid Excursion TR6 Athletic Trail Running Shoes feature a nonvisible grid system and a triangular lug outsole design.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "722112#Black#//assets.academy.com/mgen/10/10240210.jpg#Y#100.00000#39.98000#54.99000",
+        "skuCount": "1",
+        "clearanceSkuCount": "1",
+        "manufacturer": "Saucony",
+        "defaultSku": "722112",
+        "isSingleSkuProduct": false,
+        "partNumber": "200969285",
+        "imageURL": "//assets.academy.com/mgen/10/10240210.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 750 Running Shoes",
+        "id": "483264",
+        "shortDescription": "The New Balance Women's 750 Running Shoes feature EVA midsoles and mesh and leather uppers.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "483267#Pink#//assets.academy.com/mgen/60/10200260.jpg#N#100.00000#34.98000#49.99000",
+        "skuCount": "1",
+        "clearanceSkuCount": "1",
+        "manufacturer": "New Balance",
+        "defaultSku": "483267",
+        "isSingleSkuProduct": false,
+        "partNumber": "201183954",
+        "imageURL": "//assets.academy.com/mgen/60/10200260.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Reebok Women's SubLite Authentic Running Shoes",
+        "id": "1161444",
+        "shortDescription":
+          "The Reebok Women's SubLite Authentic Running Shoes feature nylon uppers with leather overlays and full-foot memory foam.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "1161447#Grey#//assets.academy.com/mgen/12/10374112.jpg#N#100.00000#29.98000#39.99000",
+        "skuCount": "3",
+        "clearanceSkuCount": "3",
+        "manufacturer": "Reebok",
+        "defaultSku": "1161447",
+        "isSingleSkuProduct": false,
+        "partNumber": "201697642",
+        "imageURL": "//assets.academy.com/mgen/12/10374112.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 470 Running Shoes",
+        "id": "1187236",
+        "shortDescription": "The New Balance Women's 470 Running Shoes feature mesh uppers and Ndurance rubber outsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "1187237#Grey#//assets.academy.com/mgen/93/10348093.jpg#N#100.00000#29.98000#44.99000",
+        "skuCount": "12",
+        "clearanceSkuCount": "12",
+        "manufacturer": "New Balance",
+        "defaultSku": "1187237",
+        "isSingleSkuProduct": false,
+        "partNumber": "201697633",
+        "imageURL": "//assets.academy.com/mgen/93/10348093.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Nike Women's Air Max Torch 4 Running Shoes",
+        "id": "1197059",
+        "shortDescription":
+          "The Nike Women's Air Max Torch 4 Running Shoes feature Phylon midsoles with Air Max units for lightweight cushioning and mesh uppers for ventilation.",
+        "sellable": "true",
+        "color_count": "4",
+        "colorImages": [
+          "1197061#Blue#//assets.academy.com/mgen/53/10353153.jpg#Y#84.99000#69.99000#69.99000",
+          "3143209#Black#//assets.academy.com/mgen/09/10536709.jpg#Y#100.00000#79.99000#79.99000",
+          "1197060#Pink#//assets.academy.com/mgen/66/10348666.jpg#Y#100.00000#69.99000#69.99000",
+          "3715189#Grey#//assets.academy.com/mgen/34/10693034.jpg#Y#100.00000#79.99000#79.99000"
+        ],
+        "skuCount": "42",
+        "manufacturer": "Nike",
+        "defaultSku": "1197060",
+        "isSingleSkuProduct": false,
+        "partNumber": "201766816",
+        "imageURL": "//assets.academy.com/mgen/66/10348666.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": "",
+        "storeId": "10051"
+      },
+      {
+        "name": "ASICS® Women's Gel-Kayano® 20 Running Shoes",
+        "id": "790785",
+        "shortDescription": "The ASICS® Women's Gel-Kayano® 20 Running Shoes feature synthetic leather and mesh uppers and FluidRide? midsoles.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": [
+          "1112409#Pink#//assets.academy.com/mgen/96/10360496.jpg#N#100.00000#99.99000#99.99000",
+          "790788#Black#//assets.academy.com/mgen/73/10268673.jpg#N#100.00000#93.98000#99.99000"
+        ],
+        "skuCount": "5",
+        "clearanceSkuCount": "4",
+        "manufacturer": "ASICS®",
+        "defaultSku": "790788",
+        "isSingleSkuProduct": false,
+        "partNumber": "201503454",
+        "imageURL": "//assets.academy.com/mgen/73/10268673.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Nike Women's Dual Fusion Run 2 Running Shoes",
+        "id": "796666",
+        "shortDescription": "The Nike Women's Dual Fusion Run 2 Running Shoes feature zonal sandwich mesh uppers and dual-density Phylon midsoles.",
+        "sellable": "true",
+        "color_count": "6",
+        "colorImages": [
+          "835578#Blue#//assets.academy.com/mgen/04/10272804.jpg#N#100.00000#48.98000#69.99000",
+          "796674#Grey#//assets.academy.com/mgen/94/10269894.jpg#N#100.00000#4.98000#69.99000",
+          "954262#Pink#//assets.academy.com/mgen/79/10310479.jpg#N#100.00000#49.98000#69.99000",
+          "877157#Black#//assets.academy.com/mgen/28/10292728.jpg#N#100.00000#48.98000#69.99000"
+        ],
+        "skuCount": "28",
+        "clearanceSkuCount": "28",
+        "manufacturer": "Nike",
+        "defaultSku": "796674",
+        "isSingleSkuProduct": false,
+        "partNumber": "201407587",
+        "imageURL": "//assets.academy.com/mgen/94/10269894.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Under Armour® Women's Micro G? Pulse Running Shoes",
+        "id": "799731",
+        "shortDescription": "The Under Armour® Women's Micro G? Pulse Running Shoes are made with welded uppers and full-length Micro G? midsoles.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": "799738#Grey#//assets.academy.com/mgen/49/10271049.jpg#Y#100.00000#19.98000#69.99000",
+        "skuCount": "3",
+        "clearanceSkuCount": "3",
+        "manufacturer": "Under Armour®",
+        "defaultSku": "799738",
+        "isSingleSkuProduct": false,
+        "partNumber": "201409784",
+        "imageURL": "//assets.academy.com/mgen/49/10271049.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Reebok Women's Sport Fury Running Shoes",
+        "id": "804554",
+        "shortDescription": "The Reebok Women's Sport Fury Running Shoes feature DMXRide midsoles and high-abrasion rubber outsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "804556#Grey#//assets.academy.com/mgen/45/10272445.jpg#N#100.00000#27.98000#39.99000",
+        "skuCount": "2",
+        "clearanceSkuCount": "2",
+        "manufacturer": "Reebok",
+        "defaultSku": "804556",
+        "isSingleSkuProduct": false,
+        "partNumber": "201409779",
+        "imageURL": "//assets.academy.com/mgen/45/10272445.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "ASICS® Women's Gel-Kinsei® 5 Running Shoes",
+        "id": "806013",
+        "shortDescription": "The ASICS® Women's Gel-Kinsei® 5 Running Shoes are made with synthetic leather and mesh uppers and Solyte midsoles.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": [
+          "1040427#White#//assets.academy.com/mgen/89/10335889.jpg#N#100.00000#109.98000#199.99000",
+          "806014#Pink#//assets.academy.com/mgen/76/10272776.jpg#Y#100.00000#99.98000#149.99000"
+        ],
+        "skuCount": "8",
+        "clearanceSkuCount": "8",
+        "manufacturer": "ASICS®",
+        "defaultSku": "806014",
+        "isSingleSkuProduct": false,
+        "partNumber": "201429623",
+        "imageURL": "//assets.academy.com/mgen/76/10272776.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Nike Women's Flex Experience Run 2 Running Shoes",
+        "id": "806047",
+        "shortDescription": "The Nike Women's Flex Experience Run 2 Running Shoes feature mesh uppers and articulated Phylite midsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "863212#Green#//assets.academy.com/mgen/67/10290367.jpg#N#65.00000#38.98000#54.99000",
+        "skuCount": "1",
+        "clearanceSkuCount": "1",
+        "manufacturer": "Nike",
+        "defaultSku": "863212",
+        "isSingleSkuProduct": false,
+        "partNumber": "201407589",
+        "imageURL": "//assets.academy.com/mgen/67/10290367.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Saucony Women's Excursion TR7 Running Shoes",
+        "id": "806434",
+        "shortDescription": "The Saucony Women's Excursion TR7 Running Shoes feature mesh and synthetic uppers and XT-600 carbon rubber outsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "806443#Grey#//assets.academy.com/mgen/85/10273085.jpg#Y#100.00000#34.98000#49.99000",
+        "skuCount": "1",
+        "clearanceSkuCount": "1",
+        "manufacturer": "Saucony",
+        "defaultSku": "806443",
+        "isSingleSkuProduct": false,
+        "partNumber": "201409770",
+        "imageURL": "//assets.academy.com/mgen/85/10273085.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Under Armour® Women's Micro G? Monza Running Shoes",
+        "id": "809468",
+        "shortDescription": "The Under Armour® Women's Micro G? Monza Running Shoes feature high-abrasion EVA outsoles and Micro G? midsoles.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": "809470#Grey#//assets.academy.com/mgen/90/10273890.jpg#N#100.00000#9.98000#59.99000",
+        "skuCount": "8",
+        "clearanceSkuCount": "8",
+        "manufacturer": "Under Armour®",
+        "defaultSku": "809470",
+        "isSingleSkuProduct": false,
+        "partNumber": "201409783",
+        "imageURL": "//assets.academy.com/mgen/90/10273890.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 490 Running Shoes",
+        "id": "810803",
+        "shortDescription": "The New Balance Women's 490 Running Shoes feature foam insoles and leather and mesh uppers.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "810806#Grey#//assets.academy.com/mgen/76/10274276.jpg#N#100.00000#27.98000#39.99000",
+        "skuCount": "6",
+        "clearanceSkuCount": "6",
+        "manufacturer": "New Balance",
+        "defaultSku": "810806",
+        "isSingleSkuProduct": false,
+        "partNumber": "201429613",
+        "imageURL": "//assets.academy.com/mgen/76/10274276.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Reebok Women's Outdoor Wild Trail Running Shoes",
+        "id": "811067",
+        "shortDescription":
+          "The Reebok Women's Outdoor Wild Trail Running Shoes feature CRTek active-traction, high-abrasion outsoles and dual-density foam midsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "811077#Black#//assets.academy.com/mgen/57/10274557.jpg#N#100.00000#48.98000#69.99000",
+        "skuCount": "1",
+        "clearanceSkuCount": "1",
+        "manufacturer": "Reebok",
+        "defaultSku": "811077",
+        "isSingleSkuProduct": false,
+        "partNumber": "201409777",
+        "imageURL": "//assets.academy.com/mgen/57/10274557.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 3010 Running Shoes",
+        "id": "820503",
+        "shortDescription": "The New Balance Women's 3010 Running Shoes feature synthetic and mesh uppers and foam insoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "820504#Black#//assets.academy.com/mgen/62/10277562.jpg#N#100.00000#41.98000#84.99000",
+        "skuCount": "10",
+        "clearanceSkuCount": "10",
+        "manufacturer": "New Balance",
+        "defaultSku": "820504",
+        "isSingleSkuProduct": false,
+        "partNumber": "201565150",
+        "imageURL": "//assets.academy.com/mgen/62/10277562.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "adidas Women's Springblade Running Shoes",
+        "id": "826433",
+        "shortDescription": "The adidas Women's Springblade Running Shoes feature compression-molded EVA midsoles and techfit? mesh uppers.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": [
+          "838503#Orange#//assets.academy.com/mgen/50/10279550.jpg#N#100.00000#63.98000#139.99000",
+          "838516#Grey#//assets.academy.com/mgen/48/10279548.jpg#N#100.00000#99.98000#139.99000"
+        ],
+        "skuCount": "15",
+        "clearanceSkuCount": "15",
+        "manufacturer": "adidas",
+        "defaultSku": "838503",
+        "isSingleSkuProduct": false,
+        "partNumber": "201421164",
+        "imageURL": "//assets.academy.com/mgen/50/10279550.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Under Armour® Women's Micro G? Engage Running Shoes",
+        "id": "827426",
+        "shortDescription": "The Under Armour® Women's Micro G? Engage Running Shoes feature breathable mesh uppers and solid rubber outsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "827427#Pink#//assets.academy.com/mgen/36/10279836.jpg#N#100.00000#39.98000#49.99000",
+        "skuCount": "7",
+        "clearanceSkuCount": "7",
+        "manufacturer": "Under Armour®",
+        "defaultSku": "827427",
+        "isSingleSkuProduct": false,
+        "partNumber": "201546730",
+        "imageURL": "//assets.academy.com/mgen/36/10279836.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Reebok Women's ZigKick Trail 1.0 Running Shoes",
+        "id": "830403",
+        "shortDescription": "The Reebok Women's ZigKick Trail 1.0 Running Shoes feature breathable mesh vamps and a full-height ZigTech heel.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "830404#Black#//assets.academy.com/mgen/99/10280899.jpg#N#100.00000#42.98000#59.99000",
+        "skuCount": "3",
+        "clearanceSkuCount": "3",
+        "manufacturer": "Reebok",
+        "defaultSku": "830404",
+        "isSingleSkuProduct": false,
+        "partNumber": "201482736",
+        "imageURL": "//assets.academy.com/mgen/99/10280899.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Reebok Women's SmoothFlex Ride 3.0 Running Shoes",
+        "id": "832456",
+        "shortDescription": "The Reebok Women's SmoothFlex Ride 3.0 Running Shoes feature open mesh uppers and high-abrasion rubber on the outsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "832461#Pink#//assets.academy.com/mgen/68/10279668.jpg#N#100.00000#9.98000#49.99000",
+        "skuCount": "3",
+        "clearanceSkuCount": "3",
+        "manufacturer": "Reebok",
+        "defaultSku": "832461",
+        "isSingleSkuProduct": false,
+        "partNumber": "201482634",
+        "imageURL": "//assets.academy.com/mgen/68/10279668.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 1150 Running Shoes",
+        "id": "833665",
+        "shortDescription": "The New Balance Women's 1150 Running Shoes feature leather and mesh uppers and rubber outsoles.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": "833668#Blue#//assets.academy.com/mgen/95/10281995.jpg#N#100.00000#48.98000#69.99000",
+        "skuCount": "2",
+        "clearanceSkuCount": "2",
+        "manufacturer": "New Balance",
+        "defaultSku": "833668",
+        "isSingleSkuProduct": false,
+        "partNumber": "201577156",
+        "imageURL": "//assets.academy.com/mgen/95/10281995.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 870v2 Running Shoes",
+        "id": "839853",
+        "shortDescription": "The New Balance Women's 870v2 Running Shoes feature REVlite midsoles with ABZORB® cushioning and PL-1 lasts.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": [
+          "1079986#Blue#//assets.academy.com/mgen/55/10349855.jpg#N#100.00000#9.98000#99.99000",
+          "839854#Grey#//assets.academy.com/mgen/88/10284188.jpg#N#100.00000#49.98000#99.99000"
+        ],
+        "skuCount": "4",
+        "clearanceSkuCount": "4",
+        "manufacturer": "New Balance",
+        "defaultSku": "839854",
+        "isSingleSkuProduct": false,
+        "partNumber": "201498859",
+        "imageURL": "//assets.academy.com/mgen/88/10284188.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 610 Running Shoes",
+        "id": "841053",
+        "shortDescription":
+          "The New Balance Women's 610 Running Shoes feature AT Tread® outsoles and IMEVA midsoles with 2-layer N-FUSE construction.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "841055#Black#//assets.academy.com/mgen/34/10281134.jpg#N#100.00000#39.98000#49.99000",
+        "skuCount": "10",
+        "clearanceSkuCount": "10",
+        "manufacturer": "New Balance",
+        "defaultSku": "841055",
+        "isSingleSkuProduct": false,
+        "partNumber": "201482648",
+        "imageURL": "//assets.academy.com/mgen/34/10281134.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 3190 Running Shoes",
+        "id": "858787",
+        "shortDescription": "The New Balance Women's 3190 Running Shoes feature synthetic and mesh uppers and foam insoles.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": [
+          "1011753#Grey#//assets.academy.com/mgen/61/10326961.jpg#N#100.00000#59.98000#79.99000",
+          "1089553#White#//assets.academy.com/mgen/83/10353283.jpg#N#100.00000#59.98000#79.99000"
+        ],
+        "skuCount": "16",
+        "clearanceSkuCount": "16",
+        "manufacturer": "New Balance",
+        "defaultSku": "1011753",
+        "isSingleSkuProduct": false,
+        "partNumber": "201565151",
+        "imageURL": "//assets.academy.com/mgen/61/10326961.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Brooks Women's Ghost 6 Running Shoes",
+        "id": "860902",
+        "shortDescription":
+          "The Brooks Women's Ghost 6 Running Shoes feature anatomical Trance? 10 DNA midsole technology and horseshoe Caterpillar crash pads.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "860903#Grey#//assets.academy.com/mgen/58/10272158.jpg#N#100.00000#62.98000#89.99000",
+        "skuCount": "1",
+        "clearanceSkuCount": "1",
+        "manufacturer": "Brooks",
+        "defaultSku": "860903",
+        "isSingleSkuProduct": false,
+        "partNumber": "201409858",
+        "imageURL": "//assets.academy.com/mgen/58/10272158.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Nike Women's Air Relentless 3 Running Shoes",
+        "id": "863224",
+        "shortDescription":
+          "The Nike Women's Air Relentless 3 Running Shoes feature synthetic mesh uppers and Phylite midsoles with Air-Sole units in the heels.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": "863232#Blue#//assets.academy.com/mgen/00/10290300.jpg#N#100.00000#27.98000#49.99000",
+        "skuCount": "8",
+        "clearanceSkuCount": "8",
+        "manufacturer": "Nike",
+        "defaultSku": "863232",
+        "isSingleSkuProduct": false,
+        "partNumber": "201482602",
+        "imageURL": "//assets.academy.com/mgen/00/10290300.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Under Armour® Women's Endure Running Shoes",
+        "id": "869382",
+        "shortDescription":
+          "The Under Armour® Women's Endure Running Shoes feature full-length ArmourBound® EVA midsoles and breathable mesh uppers with structured overlays.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "869393#Pink#//assets.academy.com/mgen/39/10290739.jpg#N#100.00000#39.98000#59.99000",
+        "skuCount": "10",
+        "clearanceSkuCount": "10",
+        "manufacturer": "Under Armour®",
+        "defaultSku": "869393",
+        "isSingleSkuProduct": false,
+        "partNumber": "201546731",
+        "imageURL": "//assets.academy.com/mgen/39/10290739.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "SKECHERS Women's GO Run Ride 3 Running Shoes",
+        "id": "873501",
+        "shortDescription": "The SKECHERS Women's GO Run Ride 3 Running Shoes feature textile and synthetic uppers and SKECHERS branding.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "1055870#Blue#//assets.academy.com/mgen/16/10342516.jpg#N#100.00000#48.98000#69.99000",
+        "skuCount": "2",
+        "clearanceSkuCount": "2",
+        "manufacturer": "SKECHERS",
+        "defaultSku": "1055870",
+        "isSingleSkuProduct": false,
+        "partNumber": "201578705",
+        "imageURL": "//assets.academy.com/mgen/16/10342516.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Nike Women's Air Futurun 2 Running Shoes",
+        "id": "881226",
+        "shortDescription":
+          "The Nike Women's Air Futurun 2 Running Shoes feature dual-density Phylon midsoles and rubber outsoles with a modified Waffle pattern.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "881228#Black#//assets.academy.com/mgen/30/10293630.jpg#N#100.00000#39.98000#49.99000",
+        "skuCount": "7",
+        "clearanceSkuCount": "7",
+        "manufacturer": "Nike",
+        "defaultSku": "881228",
+        "isSingleSkuProduct": false,
+        "partNumber": "201562030",
+        "imageURL": "//assets.academy.com/mgen/30/10293630.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "ASICS® Women's GEL-Excite? 2 Running Shoes",
+        "id": "884373",
+        "shortDescription": "The ASICS® Women's GEL-Excite? 2 Running Shoes feature mesh uppers and reflective materials.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "884374#Purple#//assets.academy.com/mgen/83/10294283.jpg#N#100.00000#39.98000#59.99000",
+        "skuCount": "10",
+        "clearanceSkuCount": "10",
+        "manufacturer": "ASICS®",
+        "defaultSku": "884374",
+        "isSingleSkuProduct": false,
+        "partNumber": "201546722",
+        "imageURL": "//assets.academy.com/mgen/83/10294283.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "BCG? Women's Invigorate 2 Running Shoes",
+        "id": "884822",
+        "shortDescription":
+          "The BCG? Women's Invigorate 2 Running Shoes feature leather and mesh uppers and removable Revitasole insoles with JoltJel heel inserts.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": [
+          "884834#Black#//assets.academy.com/mgen/73/10295073.jpg#N#100.00000#19.98000#24.99000",
+          "884823#Pink#//assets.academy.com/mgen/92/10305192.jpg#N#100.00000#19.98000#24.99000"
+        ],
+        "skuCount": "20",
+        "clearanceSkuCount": "20",
+        "manufacturer": "BCG?",
+        "defaultSku": "884823",
+        "isSingleSkuProduct": false,
+        "partNumber": "201579998",
+        "imageURL": "//assets.academy.com/mgen/92/10305192.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Nike Women's Air Max 2014 Running Shoes",
+        "id": "892665",
+        "shortDescription": "The Nike Women's Air Max 2014 Running Shoes feature engineered mesh uppers and Cushlon foam midsoles.",
+        "sellable": "true",
+        "color_count": "4",
+        "colorImages": [
+          "1080103#Pink#//assets.academy.com/mgen/80/10349880.jpg#N#100.00000#94.98000#99.99000",
+          "892666#Green#//assets.academy.com/mgen/92/10296792.jpg#N#100.00000#109.98000#159.99000",
+          "892677#Black#//assets.academy.com/mgen/96/10296796.jpg#N#100.00000#94.98000#99.99000",
+          "892690#White#//assets.academy.com/mgen/94/10296794.jpg#N#100.00000#94.98000#99.99000"
+        ],
+        "skuCount": "22",
+        "clearanceSkuCount": "22",
+        "manufacturer": "Nike",
+        "defaultSku": "892666",
+        "isSingleSkuProduct": false,
+        "partNumber": "201562026",
+        "imageURL": "//assets.academy.com/mgen/92/10296792.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "ASICS® Women's Speed Collection Gel-Noosa TRI? 9 Running Shoes",
+        "id": "893256",
+        "shortDescription":
+          "The ASICS® Women's Speed Collection Gel-Noosa TRI? 9 Running Shoes feature Wet Grip® outsoles and vertical Guidance Line® flex grooves.",
+        "sellable": "true",
+        "color_count": "5",
+        "colorImages": [
+          "893258#Yellow#//assets.academy.com/mgen/54/10282554.jpg#N#100.00000#89.98000#99.99000",
+          "1110757#Pink#//assets.academy.com/mgen/57/10360157.jpg#Y#100.00000#59.98000#109.99000",
+          "1063760#White#//assets.academy.com/mgen/29/10344429.jpg#N#100.00000#89.98000#99.99000",
+          "1065035#Blue#//assets.academy.com/mgen/07/10345007.jpg#Y#100.00000#59.98000#89.99000",
+          "961940#Black#//assets.academy.com/mgen/83/10312583.jpg#N#100.00000#89.98000#99.99000"
+        ],
+        "skuCount": "33",
+        "clearanceSkuCount": "33",
+        "manufacturer": "ASICS®",
+        "defaultSku": "893258",
+        "isSingleSkuProduct": false,
+        "partNumber": "201526046",
+        "imageURL": "//assets.academy.com/mgen/54/10282554.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "ASICS® Women's GEL-Preleus? Running Shoes",
+        "id": "898503",
+        "shortDescription": "The ASICS® Women's GEL-Preleus? Running Shoes feature open mesh uppers and ASICS® High Abrasion Rubber.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "1136338#Pink#//assets.academy.com/mgen/72/10366172.jpg#N#100.00000#79.98000#99.99000",
+        "skuCount": "9",
+        "clearanceSkuCount": "9",
+        "manufacturer": "ASICS®",
+        "defaultSku": "1136338",
+        "isSingleSkuProduct": false,
+        "partNumber": "201626934",
+        "imageURL": "//assets.academy.com/mgen/72/10366172.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "ASICS® Women's GEL-Cumulus® 16 Running Shoes",
+        "id": "909103",
+        "shortDescription": "The ASICS® Women's Gel-Cumulus® 16 Running Shoes feature open-weave nylon mesh uppers and all-rubber outsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "909105#Blue#//assets.academy.com/mgen/90/10372890.jpg#N#100.00000#79.98000#89.99000",
+        "skuCount": "10",
+        "clearanceSkuCount": "10",
+        "manufacturer": "ASICS®",
+        "defaultSku": "909105",
+        "isSingleSkuProduct": false,
+        "partNumber": "201626933",
+        "imageURL": "//assets.academy.com/mgen/90/10372890.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "ASICS® Women's Gel-Nimbus® 16 Running Shoes",
+        "id": "918753",
+        "shortDescription": "The ASICS® Women's Gel-Nimbus® 16 Running Shoes feature open-weave nylon mesh uppers and rubber outsoles.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": [
+          "918755#Grey#//assets.academy.com/mgen/34/10300034.jpg#N#100.00000#89.98000#99.99000",
+          "918767#Pink#//assets.academy.com/mgen/29/10300029.jpg#N#100.00000#89.98000#99.99000"
+        ],
+        "skuCount": "13",
+        "clearanceSkuCount": "13",
+        "manufacturer": "ASICS®",
+        "defaultSku": "918755",
+        "isSingleSkuProduct": false,
+        "partNumber": "201626935",
+        "imageURL": "//assets.academy.com/mgen/34/10300034.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 411 Trail Running Shoes",
+        "id": "918778",
+        "shortDescription": "The New Balance Women's 411 Trail Running Shoes feature breathable synthetic and mesh uppers and rubber outsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "918779#Grey#//assets.academy.com/mgen/90/10300090.jpg#N#100.00000#38.98000#39.99000",
+        "skuCount": "19",
+        "clearanceSkuCount": "19",
+        "manufacturer": "New Balance",
+        "defaultSku": "918779",
+        "isSingleSkuProduct": false,
+        "partNumber": "201634820",
+        "imageURL": "//assets.academy.com/mgen/90/10300090.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Saucony Women's Ride 5 Running Shoes",
+        "id": "925886",
+        "shortDescription":
+          "The Saucony Women's Ride 5 Running Shoes feature nylon mesh uppers with HydraMAX collar linings that wick away moisture.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "925890#Purple#//assets.academy.com/mgen/24/10304224.jpg#N#100.00000#48.98000#69.99000",
+        "skuCount": "1",
+        "clearanceSkuCount": "1",
+        "manufacturer": "Saucony",
+        "defaultSku": "925890",
+        "isSingleSkuProduct": false,
+        "partNumber": "201503455",
+        "imageURL": "//assets.academy.com/mgen/24/10304224.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "BCG? Women's Pursue 2 Running Shoes",
+        "id": "926672",
+        "shortDescription": "The BCG? Women's Pursue 2 Running Shoes have leather and mesh uppers and feature Revitasole insoles.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": [
+          "1375350#Blue#//assets.academy.com/mgen/46/10431146.jpg#N#100.00000#18.98000#19.99000",
+          "926673#Pink#//assets.academy.com/mgen/87/10302287.jpg#N#100.00000#15.98000#19.99000"
+        ],
+        "skuCount": "17",
+        "clearanceSkuCount": "17",
+        "manufacturer": "BCG?",
+        "defaultSku": "926673",
+        "isSingleSkuProduct": false,
+        "partNumber": "201579996",
+        "imageURL": "//assets.academy.com/mgen/87/10302287.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Brooks Women's Adrenaline GTS 14 Running Shoes",
+        "id": "934387",
+        "shortDescription": "The Brooks Women's Adrenaline GTS 14 Running Shoes feature mesh uppers and BioMoGo DNA midsoles.",
+        "sellable": "true",
+        "color_count": "4",
+        "colorImages": [
+          "1153813#Pink#//assets.academy.com/mgen/99/10372299.jpg#Y#100.00000#43.98000#79.99000",
+          "934389#White#//assets.academy.com/mgen/94/10282494.jpg#N#100.00000#59.98000#79.99000",
+          "1129390#Purple#//assets.academy.com/mgen/35/10363735.jpg#Y#100.00000#59.98000#79.99000"
+        ],
+        "skuCount": "29",
+        "clearanceSkuCount": "12",
+        "manufacturer": "Brooks",
+        "defaultSku": "934389",
+        "isSingleSkuProduct": false,
+        "partNumber": "201546724",
+        "imageURL": "//assets.academy.com/mgen/94/10282494.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Saucony Women's Guide 7 Running Shoes",
+        "id": "934400",
+        "shortDescription": "The Saucony Women's Guide 7 Running Shoes feature nylon and mesh uppers and molded ComfortLite? EVA sock liners.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "934401#Blue#//assets.academy.com/mgen/70/10305370.jpg#N#100.00000#79.98000#109.99000",
+        "skuCount": "7",
+        "clearanceSkuCount": "7",
+        "manufacturer": "Saucony",
+        "defaultSku": "934401",
+        "isSingleSkuProduct": false,
+        "partNumber": "201565144",
+        "imageURL": "//assets.academy.com/mgen/70/10305370.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Mizuno Women's Wave Hitogami Running Shoes",
+        "id": "934411",
+        "shortDescription": "The Mizuno Women's Wave Hitogami Running Shoes feature breathable mesh uppers and U4ic midsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "934413#Pink#//assets.academy.com/mgen/67/10305367.jpg#N#100.00000#69.98000#79.99000",
+        "skuCount": "8",
+        "clearanceSkuCount": "8",
+        "manufacturer": "Mizuno",
+        "defaultSku": "934413",
+        "isSingleSkuProduct": false,
+        "partNumber": "201501466",
+        "imageURL": "//assets.academy.com/mgen/67/10305367.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Mizuno Women's Wave Prophecy 3 Running Shoes",
+        "id": "936303",
+        "shortDescription": "The Mizuno Women's Wave Prophecy 3 Running Shoes feature mesh uppers and U4ic midsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "936305#Blue#//assets.academy.com/mgen/42/10306142.jpg#N#100.00000#99.99000#99.99000",
+        "skuCount": "5",
+        "manufacturer": "Mizuno",
+        "defaultSku": "936305",
+        "isSingleSkuProduct": false,
+        "partNumber": "201498857",
+        "imageURL": "//assets.academy.com/mgen/42/10306142.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": "",
+        "storeId": "10051"
+      },
+      {
+        "name": "Mizuno Women's Wave Creation 15 Running Shoes",
+        "id": "936672",
+        "shortDescription": "The Mizuno Women's Wave Creation 15 Running Shoes feature mesh uppers and U4ic midsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "936674#Red#//assets.academy.com/mgen/02/10340702.jpg#N#159.99000#89.98000#109.99000",
+        "skuCount": "9",
+        "clearanceSkuCount": "9",
+        "manufacturer": "Mizuno",
+        "defaultSku": "936674",
+        "isSingleSkuProduct": false,
+        "partNumber": "201498856",
+        "imageURL": "//assets.academy.com/mgen/02/10340702.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Nike Women's Zoom Fly Running Shoes",
+        "id": "937276",
+        "shortDescription": "The Nike Women's Zoom Fly Running Shoes feature sandwich mesh uppers and BRS 1000 carbon rubber heels.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": [
+          "937298#Green#//assets.academy.com/mgen/31/10306331.jpg#N#100.00000#48.98000#69.99000",
+          "937303#Pink#//assets.academy.com/mgen/33/10306333.jpg#N#100.00000#49.98000#59.99000"
+        ],
+        "skuCount": "7",
+        "clearanceSkuCount": "7",
+        "manufacturer": "Nike",
+        "defaultSku": "937298",
+        "isSingleSkuProduct": false,
+        "partNumber": "201562029",
+        "imageURL": "//assets.academy.com/mgen/31/10306331.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Reebok Women's Z Running Shoes",
+        "id": "937313",
+        "shortDescription": "The Reebok Women's Z Running Shoes feature nylon mesh uppers and EVA midsoles.",
+        "sellable": "true",
+        "color_count": "2",
+        "colorImages": "937315#Pink#//assets.academy.com/mgen/32/10306432.jpg#N#100.00000#39.98000#59.99000",
+        "skuCount": "12",
+        "clearanceSkuCount": "12",
+        "manufacturer": "Reebok",
+        "defaultSku": "937315",
+        "isSingleSkuProduct": false,
+        "partNumber": "201601961",
+        "imageURL": "//assets.academy.com/mgen/32/10306432.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's 890v4 Running Shoes",
+        "id": "937936",
+        "shortDescription": "The New Balance Women's 890v4 Running Shoes feature synthetic and mesh FantomFit uppers and blown rubber outsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "937938#Grey#//assets.academy.com/mgen/49/10306549.jpg#N#100.00000#9.98000#99.99000",
+        "skuCount": "6",
+        "clearanceSkuCount": "6",
+        "manufacturer": "New Balance",
+        "defaultSku": "937938",
+        "isSingleSkuProduct": false,
+        "partNumber": "201634973",
+        "imageURL": "//assets.academy.com/mgen/49/10306549.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Nike Women's Flex 2013 Running Shoes",
+        "id": "941103",
+        "shortDescription": "The Nike Women's Flex 2013 Running Shoes feature soft Phylon midsoles and articulated Phylite carrier outsoles.",
+        "sellable": "true",
+        "color_count": "4",
+        "colorImages": [
+          "941128#Grey#//assets.academy.com/mgen/97/10258497.jpg#N#100.00000#69.99000#69.99000",
+          "941117#Pink#//assets.academy.com/mgen/80/10247180.jpg#N#100.00000#9.98000#69.99000"
+        ],
+        "skuCount": "21",
+        "clearanceSkuCount": "20",
+        "manufacturer": "Nike",
+        "defaultSku": "941117",
+        "isSingleSkuProduct": false,
+        "partNumber": "201316062",
+        "imageURL": "//assets.academy.com/mgen/80/10247180.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "Nike Women's Air Max Tailwind 6 Running Shoes",
+        "id": "947214",
+        "shortDescription":
+          "The Nike Women's Air Max Tailwind 6 Running Shoes feature lightweight foam uppers with top mesh and waffle-skin outsoles.",
+        "sellable": "true",
+        "color_count": "3",
+        "colorImages": [
+          "947256#White#//assets.academy.com/mgen/45/10308245.jpg#N#100.00000#89.98000#109.99000",
+          "947239#Green#//assets.academy.com/mgen/43/10308243.jpg#N#100.00000#69.98000#109.99000",
+          "947228#Blue#//assets.academy.com/mgen/07/10305807.jpg#N#100.00000#9.98000#109.99000"
+        ],
+        "skuCount": "16",
+        "clearanceSkuCount": "16",
+        "manufacturer": "Nike",
+        "defaultSku": "947228",
+        "isSingleSkuProduct": false,
+        "partNumber": "201511765",
+        "imageURL": "//assets.academy.com/mgen/07/10305807.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      },
+      {
+        "name": "New Balance Women's Minimus Ionix 3090 Running Shoes",
+        "id": "667963",
+        "shortDescription": "The New Balance Women's Minimus Ionix 3090 Running Shoes feature mesh uppers and revlite EVA midsoles.",
+        "sellable": "true",
+        "color_count": "1",
+        "colorImages": "667977#Black#//assets.academy.com/mgen/36/10243936.jpg#N#100.00000#48.98000#69.99000",
+        "skuCount": "1",
+        "clearanceSkuCount": "1",
+        "manufacturer": "New Balance",
+        "defaultSku": "667977",
+        "isSingleSkuProduct": false,
+        "partNumber": "201365325",
+        "imageURL": "//assets.academy.com/mgen/36/10243936.jpg",
+        "price": [
+          {
+            "description": "L",
+            "value": "",
+            "usage": "Display",
+            "currency": "usd"
+          },
+          {
+            "value": ""
+          }
+        ],
+        "adBugs": {},
+        "storeId": "10051"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+div[data-component='banner'] {
+  .siteBanner {
+    min-height: 65px;
+  }
+  & .animate-opacity {
+    animation: animate-opacity 0.4s ease-in;
+  }
+}
+@keyframes animate-opacity {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}

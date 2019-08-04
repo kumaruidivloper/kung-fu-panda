@@ -1,0 +1,78 @@
+{
+  "title": "Cart Header",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "commonLabels": {
+          "isAuthoring": "Y",
+          "itemsLabel": "Items",
+          "totalLabel": "Total",
+          "checkoutLabel": "Checkout",
+          "colorLabel": "Color",
+          "sizeLabel": "Size",
+          "removeLabel": "Remove",
+          "promoCodeLabel": "Promo Code {{promocode}} added",
+          "militaryDiscountLabel": "Military Discount",
+          "shipItemsLabel": "Ship Items",
+          "quantityLabel": "Quantity",
+          "inStorePickUpLabel": "In-Store Pickup",
+          "freeLabel": "Free",
+          "addToWishlistLabel": "Add To Wishlist",
+          "removeFromCartLabel": "Remove From Cart",
+          "employeeDiscountLabel": "Employee Discount",
+          "subTotalLabel": "Subtotal",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "estimatedTaxesLabel": "Estimated Taxes",
+          "signInLabel": "Sign In",
+          "continueShoppingLabel": "Continue Shipping",
+          "submitLabel": "Submit",
+          "editLabel": "Edit",
+          "secureLabel": "Secure",
+          "addPromoCodeLabel": "Add Promo Code",
+          "shippingLabel": "Shipping",
+          "taxesLabel": "Taxes",
+          "shippingItemsLabel": "Shipping Items",
+          "editMyCartLabel": "Edit My Cart",
+          "placeOrderLabel": "Place Order",
+          "emailAddressLabel": "Email Address",
+          "goToPaymentLabel": "Go To Payment",
+          "doneLabel": "Done",
+          "checkoutWithPaypalLabel": "Paypal",
+          "promoCodeTextLabel": "Promo Code"
+        },
+        "isAuthoring": "Y",
+        "yourCartTitle": "YOUR CART",
+        "shopWithConfidenceTitle": "SHOP WITH CONFIDENCE",
+        "shopWithConfidenceSubHeading": "Shop with Academy.com is safe and secure",
+        "freeInStoreReturns": "FREE IN STORE RETURNS",
+        "weAcceptLabel": "WE ACCEPT",
+        "legalLinks": [
+          {
+            "label": "Shipping Policy",
+            "url": "www.google.com"
+          },
+          {
+            "label": "Return Policy",
+            "url": "www.google.com"
+          }
+        ],
+        "enterPromoCodeLabel": "Enter Promo Code",
+        "cardsAccepted": [
+          {
+            "text": "/content/dam/academysports/Lighthouse.jpg"
+          },
+          {
+            "text": "/content/dam/academysports/Lighthouse.jpg"
+          },
+          {
+            "text": "/content/dam/academysports/Lighthouse.jpg"
+          }
+        ],
+        "emptyCartHeading": "YOUR CART IS EMPTY",
+        "emptyCartSubHeading":
+          "Looks like you forgot to load up,but dont worry! Sign in to see if you have any saved items or simply continue shopping for great gear. "
+      }
+    }
+  }
+}

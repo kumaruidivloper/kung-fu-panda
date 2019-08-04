@@ -1,0 +1,20 @@
+{
+  "name": "product-details-no-different-selection",
+  "version": "1.0.0",
+  "description": "Product Details No Different Selection component",
+  "main": "productDetailsNoDifferentSelection.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.18.0",
+    "fetch-jsonp": "1.1.3",
+    "react": "16.5.2",
+    "react-emotion": "9.2.10",
+    "react-redux": "5.0.7",
+    "react-router-dom": "4.3.1",
+    "redux": "4.0.0"
+  }
+}

@@ -1,0 +1,146 @@
+<mjml>
+  <mj-head>
+    <mj-title>Back in stock</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"></mj-font>
+    <mj-font name="Open Sans Condensed" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image align="left" width="203px" src="https://content.academy.com/webassets/images/logo-email.gif">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="12px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-navbar base-url="https://academy.com">
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">CLOTHING</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">SHOES</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">SPORTS</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">OUTDOORS</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">HOT DEALS</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">CLEARANCE</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" padding-top="0px" padding-bottom="0px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="900" text-transform="uppercase" padding-bottom="16px" padding-top="32px" font-size="32px" line-height="120%" color="#333333"><span style="font-family:'Open Sans Condensed', Helvetica, Arial, sans-serif">Good news!</span><br/>
+          <span style="font-family:'Open Sans Condensed', Helvetica, Arial, sans-serif">We're back in stock!</span>
+        </mj-text>
+        <mj-text font-size="16px" padding-bottom="32px">
+          You're receiving this email because you requested to give you a heads up when we're back in stock.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" padding-top="0px" padding-bottom="0px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="32px" padding-bottom="32px">
+      <mj-column width="25%">
+        <mj-image padding-top="0" width="150px" href="https://www.academy.com/shop/pdp/nike-womens-flex-experience-running-shoes-112921613#repChildCatid=5087511" src="http://assets.academy.com/mgen/64/20054964.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;">
+           <a href="https://www.academy.com/shop/pdp/nike-womens-flex-experience-running-shoes-112921613#repChildCatid=5087511" style="text-decoration: none; font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #0055a6;">Nike Women's Flex Experience Running Shoes</a> 
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style=" font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">Color:</span> Navy/Mint/Blue
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">Size:</span> 9.5
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">Shoe Width:</span> B
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">SKU:</span>123615763
+          </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="32px" padding-top="32px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image align="left" width="226px" alt="Buy Now" href="https://www.academy.com/shop/pdp/nike-womens-flex-experience-running-shoes-112921613#repChildCatid=5087511" src="http://s7d2.scene7.com/is/image/academy/buy_now_button_blue"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" padding="0px" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="32px" padding-top="32px">
+      <mj-column width="60%">
+        <mj-text font-size="12px">Need help? <a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;">Live Chat</a> with Customer Care.</mj-text>
+        <mj-text font-size="12px">Academy Sports + Outdoors <br/>565 South Mason Rd #419<br/>Katy, TX 77450</mj-text>
+        <mj-text font-size="12px"><a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;"> Update Profile</a> | <a href="https://academy.custhelp.com/app/answers/detail/a_id/649/kw/privacy" rel="noopener noreferrer" style="text-decoration: none; color: #0055a6;">Privacy Policy </a></mj-text>
+      </mj-column>
+      <mj-group width="40%" margin-top="0px">
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy facebook" href="https://www.facebook.com/Academy/" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/facebook_social"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy twitter" href="https://twitter.com/academy" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/twiter_social"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy pinterest" href="https://www.pinterest.com/academy/" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/pinterest_social"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy youtube" href="https://www.youtube.com/academy" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/youtube_social"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy instagram" href="https://www.instagram.com/academy/" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/instagram_social"></mj-image>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>

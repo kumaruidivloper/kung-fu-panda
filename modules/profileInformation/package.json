@@ -1,0 +1,15 @@
+{
+  "name": "profile-information",
+  "version": "1.0.0",
+  "description": "Profile Information component",
+  "main": "profileInformation.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "latest",
+    "zxcvbn": "^4.4.2"
+  }
+}

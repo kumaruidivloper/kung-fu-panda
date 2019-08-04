@@ -1,0 +1,9 @@
+export const NODE_TO_MOUNT = 'productDetailsBait';
+export const DATA_COMP_ID = 'data-compid';
+export const UPDATE_SELECTED_IMAGE = 'UPDATE_SELECTED_IMAGE';
+export const UPDATE_PRODUCT_DETAIL = 'UPDATE_PRODUCT_DETAIL';
+export const COOKIE_STORE_ID = 'WC_StLocId';
+export const DEFINING = 'Defining';
+export const COLOR = 'Color';
+export const WEIGHT = 'Weight';
+export const KEY_PRICE_IN_CART = 'priceInCart';

@@ -1,0 +1,422 @@
+<mjml>
+  <mj-head>
+    <mj-title>Pickup Reminder</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto,Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image padding-bottom="25px" align="left" width="230" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQkRJpD0_7dX78xZx5C37naVTctb8irMhldZRhwSJ4hBc8nNWo">
+        </mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-group padding-bottom="12px">
+        <mj-section>
+        <mj-text padding-top="0" padding-bottom="0">
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">CLOTHING</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">FOOTWARE</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">SPORTS</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">OUTDOORS</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">HOT DEALS</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">CLEARANCE</a>
+      </mj-text>
+      </mj-section>
+      </mj-group>
+      </mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <h1 style="margin-top:40px; font-size: 42px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #333333;margin-bottom:16px;text-transform:uppercase;">
+            THANKS FOR YOUR ORDER
+          </h1>
+          <p style="padding-bottom:32px;font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #333333;padding-top:0;margin-bottom:0">This is a reminder that your order is ready. It will be available for pickup until June 3rd. After that date, your order will be cancelled.
+          </p>
+        </mj-text>
+      </mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column width="100%" padding-top="0">
+        <mj-text padding-top="0" padding-bottom="0">
+          <h3 style="padding-top:32px;padding-bottom:24px;margin-top:0;margin-bottom:0;
+            font-size: 24px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #333333;text-transform:uppercase;">
+            IN-STORE PICKUP INSTRUCTIONS
+          </h3>
+        </mj-text>
+        <mj-text padding-top="0" padding-bottom="12px">
+           <p style="font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #333333;;padding-bottom:12px;margin-bottom:0;margin-top:0;">
+            	1. <strong>Before going to the store,</strong> wait for an email confirming. it&apos;s ready. 
+          </p>
+           <p style="font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #333333;padding-bottom:12px;margin-bottom:0;margin-top:0;">
+            2. 	Bring your valid government issued ID to the store.
+          </p>
+           <p style="font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #333333;padding-bottom:12px;margin-bottom:0;margin-top:0;">
+           3. 	Bring this confirmation email or your order number with you.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+    </mj-section>
+    <mj-section padding-top="32px">
+      <mj-column>
+        <mj-text padding-top="0" padding-bottom="0">
+          <p style="font-size: 24px;
+                font-weight: 900;
+                font-style: normal;
+                font-stretch: condensed;
+                line-height: 1;
+                letter-spacing: normal;
+                color: #333333;margin-top:0;margin-bottom:0;
+                float:left;text-transform:uppercase;">Order #: ABc123456789
+          </p>
+          <p style="font-size: 14px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                letter-spacing: normal;
+                color: #333333;float:left;padding-left:8px;margin-top:0;margin-bottom:0;">Order Date: 5/26/18</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section padding-top="35px">
+      <mj-column width="11%">
+        <mj-image padding-right="0px" padding-left="25px" align="left" width="70px" src="http://via.placeholder.com/32X27"></mj-image>
+      </mj-column>
+      <mj-column width="89%">
+        <mj-text padding="0 25px">
+          <p style=" font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: 0.2px;
+  color: #333333;text-transform:uppercase;margin-bottom:0;">Pickup Information</p>
+        </mj-text>
+        <mj-text padding-top="16px" padding-bottom="0">
+          <p style="width: 30px;
+                height: 2px;
+                background-color: #0055a6;margin-top:0;"></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column width="11%"></mj-column>
+      <mj-column width="44%">
+        <mj-text align="left" padding-top="0" padding-bottom="0">
+          <h3 style="font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;margin-bottom:0;padding-top:0;padding-bottom:0;margin-top:0;">Ready for Pickup on May 27
+          </h3>
+          <p style="font-size: 14px;margin-top:5px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;">You have until<strong> June 3rd </strong>to pick up your order before it is cancelled.
+          </p>
+        </mj-text>
+         <mj-text align="left" padding-top="16px" padding-bottom="0">
+          <h3 style="font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;margin-bottom:0;padding-bottom:0;margin-top:0;">Joe McNeil mcneil
+          </h3>
+          <p style="font-size: 14px;margin-top:5px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;margin-bottom:0;">joe@gmail.com
+          </p>
+        </mj-text>
+         <mj-text align="left" padding-top="24px" padding-bottom="0">
+          <h3 style="font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;margin-bottom:0;padding-bottom:0;margin-top:0;">Alternate Pickup Person
+          </h3>
+          <p style="font-size: 14px;margin-top:5px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;margin-bottom:0;">joe@gmail.com
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="44%" padding-bottom="32px">
+        <mj-text align="left" padding-top="0" padding-bottom="0">
+          <h3 style="font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;margin-bottom:0;padding-bottom:0;margin-top:0;">Pickup Location.
+          </h3>
+          <p style="font-size: 14px;margin-top:5px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;"><strong>North Richland Hills</strong><br/>1234 Street Address. City, State ZIP Code.<br/>
+  <a href="" style=" 
+  color: #0055a6;text-decoration:none">Please check your local store hours before visiting.</a> 
+  </p>
+  </mj-text>
+      </mj-column>
+  <mj-spacer height="32px" />
+      <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <p style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;margin-top:0;margin-bottom:0;padding-top:24px;padding-bottom:24px;text-transform:uppercase;">ITEMS FOR PICKUP</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image padding-top="0" width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://cdn.recast.ai/newsletter/183.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text padding-top="0" padding-bottom="36px">
+          <p style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #333333;padding-bottom:12px;margin-bottom:0;margin-top:0;">
+           Brooks Women's Adrenaline GTS 18 Running Shoes
+          </p>
+           <p style=" font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;padding-bottom:12px;padding-top:0;margin-bottom:0;margin-top:0"><span style="font-weight:bold">SKU:</span> 112672223
+          </p>
+          <p style=" font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;padding-bottom:12px;padding-top:0;margin-bottom:0;margin-top:0"><span style="font-weight:bold">Quantity:</span> 1
+          </p>
+           <p style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #333333;padding-top:12px;padding-bottom:0;margin-bottom:0;margin-top:0">Line-item delivery/assembly instructions here. </p>
+        </mj-text>
+      </mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+    </mj-section>
+     <mj-section padding-top="24px">
+          <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="24px" >
+              <p style=" font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;padding-top:0;margin-top:0;margin-bottom:0;"><a href="" style="  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #0055a6;text-decoration:none">View Order Details</a> 
+              </p>
+            </mj-text>
+          </mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+        </mj-section>
+        <mj-section padding-top="41px" padding-bottom="32px">
+      <mj-column>
+        <mj-image margin="0" padding="0 0 10px 0" width="271px" height="121px" src="http://via.placeholder.com/271X121" />
+      </mj-column>
+    </mj-section>
+            <mj-section padding-bottom="32px">
+      <mj-column>
+        <mj-button align="center" margin-top="0" padding-top="0" height="60px" width="225px" background-color="#0055a6" color="#fff" border-radius="50px" href="[url_goes_here]">
+          <p style="font-size: 16px; padding-top:0;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-transform:uppercase;
+  color: #ffffff;">print now</p>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+       <mj-section>
+               <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+       </mj-section>
+          <mj-section padding-top="24px" padding-bottom="24px">
+            <mj-column>
+            <mj-text padding-top="0" padding-bottom="0" >
+              <p style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;padding-top:0;margin-top:0;margin-bottom:0;"><a href="" style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #0055a6;text-decoration:none">Return Order Instructions</a> 
+              </p>
+            </mj-text>
+            </mj-column>
+        </mj-section>
+    <mj-section padding-top="32px" background-color="#0055a6" padding-bottom="32px">
+       <mj-column width="100%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <h1 style="font-size: 42px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #ffffff;text-transform:uppercase;margin-top:0;margin-bottom:0;">
+            QUESTIONS ABOUT YOUR ORDER?
+          </h1>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" >
+         <mj-button  padding-bottom="0"  align="center" padding-top="32px" height="62px" width="254px" background-color="#FFF"  color="#333333" border-radius="50px" border="3px solid #fff" href="[url_goes_here]">
+          <p style="font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #333333;
+  text-transform:uppercase;
+  ">GET ANSWERS</p>
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%" >
+         <mj-button  padding-bottom="0"  padding-top="32px"  align="center"  padding-top="0"  height="62px" width="254px" background-color="#0055a6" color="#fff" border-radius="50px" border="3px solid #fff" href="[url_goes_here]" >
+          <p style="font-size: 16px;padding-top:0;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #ffffff;
+  text-transform:uppercase;
+  ">Order Pickup FAQs</p>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+ <mj-section>
+         <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+    </mj-section>
+    <mj-section padding-bottom="32px" padding-top="32px">
+      <mj-column width="55%">
+        <mj-text font-size="12px" margin="0" padding-top="0" padding-bottom="0">
+          <p style="margin-top:0;">Need help? <a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;">Live Chat</a> with Customer Care.
+          </p>
+          <p>Academy Sports + Outdoors <br/>565 South Mason Rd #419<br/>Katy, TX 77450
+          </p>
+          <p>
+            <a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;"> Update Profile</a> | <a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;">Privacy Policy </a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="45%">
+      <mj-group>
+        <mj-section>
+        <mj-text padding="0">
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+          
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+          
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+          
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+          
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+      </mj-text>
+      </mj-section>
+      </mj-group>
+    </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

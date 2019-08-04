@@ -1,0 +1,14 @@
+{
+  "name": "empty-cart",
+  "version": "1.0.0",
+  "description": "Empty Cart component",
+  "main": "emptyCart.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "shop-by-category",
+  "version": "1.0.0",
+  "description": "Shop By Category component",
+  "main": "shopByCategory.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17",
+    "axios": "0.18.0",
+    "axios-mock-adapter": "1.15.0",
+    "classnames": "2.2.6",
+    "sinon": "5.1.1"
+  }
+}

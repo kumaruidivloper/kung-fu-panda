@@ -1,0 +1,92 @@
+{
+  "title": "Order Summary",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "checkoutLabels": {
+          "zipCodeLabel": "Enter your ZIP Code for shipping cost."
+        },
+        "isAuthoring": "Y",
+        "yourCartTitle": "Your Cart",
+        "shopWithConfidenceTitle": "Shop with Confidence",
+        "shopWithConfidenceSubHeading": "Shopping on Academy.com is safe and secure",
+        "freeInStoreReturns": "Free in store returns",
+        "weAcceptLabel": "We accept",
+        "commonLabels": {
+          "itemsLabel": "Items",
+          "totalLabel": "Total",
+          "checkoutLabel": "Checkout",
+          "colorLabel": "Color",
+          "sizeLabel": "Size",
+          "removeLabel": "Remove",
+          "promoCodeLabel": "Promo Code",
+          "promoCodeAddedLabel": "Promo Code {{promocode}} added",
+          "militaryDiscountLabel": "Military Discount",
+          "shipItemsLabel": "Ship Items",
+          "quantityLabel": "Quantity",
+          "inStorePickUpLabel": "In-Store Pickup",
+          "freeLabel": "Free",
+          "addToWishlistLabel": "Add To Wishlist",
+          "removeFromCartLabel": "Remove From Cart",
+          "employeeDiscountLabel": "Employee Discount",
+          "subTotalLabel": "Subtotal",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "estimatedTaxesLabel": "Estimated Taxes",
+          "signInLabel": "Sign In",
+          "continueShoppingLabel": "Continue Shipping",
+          "submitLabel": "Submit",
+          "editLabel": "Edit",
+          "secureLabel": "Secure",
+          "addPromoCodeLabel": "Add Promo Code",
+          "hidePromoCodeLabel": "Hide Promo Code",
+          "shippingLabel": "Shipping",
+          "taxesLabel": "Taxes",
+          "shippingItemsLabel": "Shipping Items",
+          "editMyCartLabel": "Edit My Cart",
+          "placeOrderLabel": "Place Order",
+          "emailAddressLabel": "Email Address",
+          "goToPaymentLabel": "Go To Payment",
+          "doneLabel": "Done",
+          "cardsAccepted": [
+            {
+              "logo": "/content/dam/academics/R2/cards/logo1.png"
+            },
+            {
+              "logo": "/content/dam/academics/R2/cards/logo2.png"
+            }
+          ],
+          "checkoutWithPaypalLabel": "Checkout",
+          "printLabel": "Print",
+          "orderSummaryLabel": "OrderSummary"
+        },
+        "legalLinks": [
+          {
+            "label": "privacyPolicy",
+            "linkUrl": "privacyUrl"
+          },
+          {
+            "label": "terms",
+            "linkUrl": "termsUrl"
+          }
+        ],
+        "enterPromoCodeLabel": "Enter Promo Code",
+        "calculateShippingLabel": "CALCULATE SHIPPING",
+        "enterZipcodeLabel": "Enter your ZIP Code for shipping cost.",
+        "emptyCartHeading": "Your Cart is Empty",
+
+        "emptyCartSubHeading":
+        "Looks Like you forgot to load up.Sign in to see if you have any saved items or simple continue shopping for great gear"
+      },
+      "api": {
+        "totalAdjustment": "10",
+        "totalShippingTax": "22.5",
+        "totalProductPrice": "100",
+        "orderCurrency": "USD",
+        "totalShippingCharge": "10",
+        "orderTotal": "200",
+        "totalSalesTax": "20"
+      }
+    }
+  }
+}

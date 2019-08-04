@@ -1,0 +1,11 @@
+{
+  "name": "benefit-section",
+  "version": "1.0.0",
+  "description": "Benefit Section component",
+  "main": "benefitSection.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

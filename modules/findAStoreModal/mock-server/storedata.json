@@ -1,0 +1,256 @@
+{
+    "stores": [
+        {
+            "inventory": {},
+            "properties": {
+                "streetAddress": "9781 Quivira Rd.",
+                "storeLocalID": "",
+                "phone": "(913) 227-1600",
+                "services": "<ul>\n<li>Hunting & Fishing Licenses</li>\n<li>Line Spooling</li>\n<li>Scope Mounting & Bore Sighting</li>\n<li>FFL Transfer Service</li>\n<li>CO2 Refills</li>\n<li>Propane Exchange</li>\n<li>Racquet Stringing</li>\n<li>Product Delivery & Assembly</li>\n<li>Golf Club Trade-In</li>\n</ul>\n<br>\n<br><a href=\"/webapp/wcs/stores/servlet/InStoreServices?langId=-1&storeId=10151&catalogId=10051\">View details</a>",
+                "storePicURL": "",
+                "storeName": "Academy Sports + Outdoors 0187",
+                "storeHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "neighborhood": "Oak Park",
+                "state": "ks",
+                "todayHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "todayOpenHours": {
+                    "Sun": "9:30am-9:30pm",
+                    "Mon": "8am-9:30pm",
+                    "Tues": "8am-9:30pm",
+                    "Weds": "8am-9:30pm",
+                    "Thurs": "8am-9:30pm",
+                    "Fri": "8am-10pm",
+                    "Sat": "8am-10pm"
+                },
+                "gx_id": "187",
+                "city": "Overland park",
+                "country": "US",
+                "careers": "",
+                "distance": "9.95",
+                "zipCode": "66214",
+                "EVENTS": "<div class=\"monetateevents\"></div>",
+                "promo1": ""
+            },
+            "type": "Feature",
+            "storeId": "store-0258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.950803,
+                    -94.721339,
+                    0
+                ]
+            }
+        },
+        {
+            "inventory": {},
+            "properties": {
+                "streetAddress": "269 S. Stewart Rd",
+                "storeLocalID": "",
+                "phone": "(816) 415-5160",
+                "services": "<ul>\n<li>Hunting & Fishing Licenses</li>\n<li>Line Spooling</li>\n<li>Scope Mounting & Bore Sighting</li>\n<li>FFL Transfer Service</li>\n<li>CO2 Refills</li>\n<li>Propane Exchange</li>\n<li>Racquet Stringing</li>\n<li>Product Delivery & Assembly</li>\n<li>Golf Club Trade-In</li>\n</ul>\n<br>\n<br><a href=\"/webapp/wcs/stores/servlet/InStoreServices?langId=-1&storeId=10151&catalogId=10051\">View details</a>",
+                "storePicURL": "",
+                "storeName": "Academy Sports + Outdoors 0258",
+                "storeHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "neighborhood": "Liberty Triangle",
+                "state": "mo",
+                "todayHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "todayOpenHours": {
+                    "Sun": "9:30am-9:30pm",
+                    "Mon": "8am-9:30pm",
+                    "Tues": "8am-9:30pm",
+                    "Weds": "8am-9:30pm",
+                    "Thurs": "8am-9:30pm",
+                    "Fri": "8am-10pm",
+                    "Sat": "8am-10pm"
+                },
+                "gx_id": "258",
+                "city": "Liberty",
+                "country": "US",
+                "careers": "",
+                "distance": "14.77",
+                "zipCode": "64068",
+                "EVENTS": "<div class=\"monetateevents\"></div>",
+                "promo1": ""
+            },
+            "type": "Feature",
+            "storeId": "store-0187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.241831,
+                    -94.456226,
+                    0
+                ]
+            }
+        },
+        {
+            "inventory": {},
+            "properties": {
+                "streetAddress": "14405 W. 135th St.",
+                "storeLocalID": "",
+                "phone": "(913) 390-2200",
+                "services": "<ul>\n<li>Hunting & Fishing Licenses</li>\n<li>Line Spooling</li>\n<li>Scope Mounting & Bore Sighting</li>\n<li>FFL Transfer Service</li>\n<li>CO2 Refills</li>\n<li>Propane Exchange</li>\n<li>Racquet Stringing</li>\n<li>Product Delivery & Assembly</li>\n<li>Golf Club Trade-In</li>\n</ul>\n<br>\n<br><a href=\"/webapp/wcs/stores/servlet/InStoreServices?langId=-1&storeId=10151&catalogId=10051\">View details</a>",
+                "storePicURL": "",
+                "storeName": "Academy Sports + Outdoors 0188",
+                "storeHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "neighborhood": "Bedford Trails",
+                "state": "ks",
+                "todayHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "todayOpenHours": {
+                    "Sun": "9:30am-9:30pm",
+                    "Mon": "8am-9:30pm",
+                    "Tues": "8am-9:30pm",
+                    "Weds": "8am-9:30pm",
+                    "Thurs": "8am-9:30pm",
+                    "Fri": "8am-10pm",
+                    "Sat": "8am-10pm"
+                },
+                "gx_id": "188",
+                "city": "Olathe",
+                "country": "US",
+                "careers": "",
+                "distance": "14.77",
+                "zipCode": "66062",
+                "EVENTS": "<div class=\"monetateevents\"></div>",
+                "promo1": ""
+            },
+            "type": "Feature",
+            "storeId": "store-0188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.881831,
+                    -94.752961,
+                    0
+                ]
+            }
+        },
+        {
+            "inventory": {},
+            "properties": {
+                "streetAddress": "510 E Markey Pkwy",
+                "storeLocalID": "",
+                "phone": "(816) 318-2000",
+                "services": "<ul>\n<li>Hunting & Fishing Licenses</li>\n<li>Line Spooling</li>\n<li>Scope Mounting & Bore Sighting</li>\n<li>FFL Transfer Service</li>\n<li>CO2 Refills</li>\n<li>Propane Exchange</li>\n<li>Racquet Stringing</li>\n<li>Product Delivery & Assembly</li>\n<li>Golf Club Trade-In</li>\n</ul>\n<br>\n<br><a href=\"/webapp/wcs/stores/servlet/InStoreServices?langId=-1&storeId=10151&catalogId=10051\">View details</a>",
+                "storePicURL": "",
+                "storeName": "Academy Sports + Outdoors 0220",
+                "storeHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "neighborhood": "Wallace Park",
+                "state": "mo",
+                "todayHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "todayOpenHours": {
+                    "Sun": "9:30am-9:30pm",
+                    "Mon": "8am-9:30pm",
+                    "Tues": "8am-9:30pm",
+                    "Weds": "8am-9:30pm",
+                    "Thurs": "8am-9:30pm",
+                    "Fri": "8am-10pm",
+                    "Sat": "8am-10pm"
+                },
+                "gx_id": "220",
+                "city": "Belton",
+                "country": "US",
+                "careers": "",
+                "distance": "16.65",
+                "zipCode": "64012",
+                "EVENTS": "<div class=\"monetateevents\"></div>",
+                "promo1": ""
+            },
+            "type": "Feature",
+            "storeId": "store-0220",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.824717,
+                    -94.525149,
+                    0
+                ]
+            }
+        },
+        {
+            "inventory": {},
+            "properties": {
+                "streetAddress": "1133 SW Wanamaker Rd, Suite 300",
+                "storeLocalID": "",
+                "phone": "(785) 228-4220",
+                "services": "<ul>\n<li>Hunting & Fishing Licenses</li>\n<li>Line Spooling</li>\n<li>Scope Mounting & Bore Sighting</li>\n<li>FFL Transfer Service</li>\n<li>CO2 Refills</li>\n<li>Propane Exchange</li>\n<li>Racquet Stringing</li>\n<li>Product Delivery & Assembly</li>\n<li>Golf Club Trade-In</li>\n</ul>\n<br>\n<br><a href=\"/webapp/wcs/stores/servlet/InStoreServices?langId=-1&storeId=10151&catalogId=10051\">View details</a>",
+                "storePicURL": "",
+                "storeName": "Academy Sports + Outdoors 0225",
+                "storeHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "neighborhood": "Ellenwand",
+                "state": "ks",
+                "todayHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "todayOpenHours": {
+                    "Sun": "9:30am-9:30pm",
+                    "Mon": "8am-9:30pm",
+                    "Tues": "8am-9:30pm",
+                    "Weds": "8am-9:30pm",
+                    "Thurs": "8am-9:30pm",
+                    "Fri": "8am-10pm",
+                    "Sat": "8am-10pm"
+                },
+                "gx_id": "225",
+                "city": "Topeka",
+                "country": "US",
+                "careers": "",
+                "distance": "62.54",
+                "zipCode": "66604",
+                "EVENTS": "<div class=\"monetateevents\"></div>",
+                "promo1": ""
+            },
+            "type": "Feature",
+            "storeId": "store-0225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.046532,
+                    -95.763987,
+                    0
+                ]
+            }
+        },
+        {
+            "inventory": {},
+            "properties": {
+                "streetAddress": "401 E. Poyntz Avenue",
+                "storeLocalID": "",
+                "phone": "(785) 323-3910",
+                "services": "<ul>\n<li>Hunting & Fishing Licenses</li>\n<li>Line Spooling</li>\n<li>Scope Mounting & Bore Sighting</li>\n<li>FFL Transfer Service</li>\n<li>CO2 Refills</li>\n<li>Propane Exchange</li>\n<li>Racquet Stringing</li>\n<li>Product Delivery & Assembly</li>\n<li>Golf Club Trade-In</li>\n</ul>\n<br>\n<br><a href=\"/webapp/wcs/stores/servlet/InStoreServices?langId=-1&storeId=10151&catalogId=10051\">View details</a>",
+                "storePicURL": "",
+                "storeName": "Academy Sports + Outdoors 0281",
+                "storeHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "neighborhood": "Manhattan",
+                "state": "ks",
+                "todayHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                "todayOpenHours": {
+                    "Sun": "9:30am-9:30pm",
+                    "Mon": "8am-9:30pm",
+                    "Tues": "8am-9:30pm",
+                    "Weds": "8am-9:30pm",
+                    "Thurs": "8am-9:30pm",
+                    "Fri": "8am-10pm",
+                    "Sat": "8am-10pm"
+                },
+                "gx_id": "281",
+                "city": "Manhattan",
+                "country": "US",
+                "careers": "",
+                "distance": "105.26",
+                "zipCode": "66502",
+                "EVENTS": "<div class=\"monetateevents\"></div>",
+                "promo1": ""
+            },
+            "type": "Feature",
+            "storeId": "store-0281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.1845659,
+                    -96.5554107,
+                    0
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+/*
+* Global styles for Academy - like typography , color palletes, overrides only to be added here
+* Component specific styles should be added in the individual components
+* More info - https://github.com/xfiveco/generator-chisel/tree/master/generators/app/templates/styles/itcss
+* Somemore info - https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528
+*/
+.homepage > .row > div {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+/* Variables - Common variables to be used, no css in these files */
+@import 'settings.variables';
+@import 'settings.colors';
+/* Tools - mixings and functions only */
+/* Generics - css starts from here - generic styles and resets to be added */
+@import 'generic.fontfamily'; //do we need weight-style?
+/* Elements - css for HTML elements  go here */
+@import 'elements.body';
+@import 'elements.headings';
+@import 'elements.subtitle';
+@import 'elements.root.zindex';
+@import 'elements.ada.scss';
+/* Objects - OOCSS based classes go here , we are using BEMIT convention for naming */
+@import 'object.text';
+/* Utilities - Most specific CSS, any overrides including third party overrides to go here */
+@import 'utils.bootstrapcustom';
+@import 'utils.override.bootstrap';
+@import 'utils.fonticons';
+@import 'utils.gridoverrides';
+@import 'utils.reactmodal';
+@import 'utils.reactslick';
+@import 'utils.reactswiper';
+@import 'utils.bvoverrides';
+@import 'utils.tfoverrides';
+@import 'utils.ieoverrides';
+/* Components - No component specific styles to be added, those should be added via emotionJS in the individual components */
+@import 'component.productcard';
+/* animations for cssTransitionGroup */
+@import 'component.animations.fade';
+@import 'component.animations.fade.grow';
+@import 'component.animations.button.loader';
+/* PDP - Overriding pdp container styles */
+@import 'component.pdp.overrides';
+/* Added min-height and animations for AB testing containers */
+@import 'component.abTesting.minheight';
+/* Added height of page loader */
+@import 'component.loader.height';
+/* Add min height for page*/
+@import 'page.min.height';
+@import 'component.input.number.spinners.override';

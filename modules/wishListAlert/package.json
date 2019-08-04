@@ -1,0 +1,12 @@
+{
+  "name": "wish-list-alert",
+  "version": "1.0.0",
+  "description": "Wish List Alert component",
+  "main": "wishListAlert.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "^1.0.52"
+  }
+}

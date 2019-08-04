@@ -1,0 +1,14 @@
+{
+  "name": "special-order-proceed-modal",
+  "version": "1.0.0",
+  "description": "Special Order Proceed Modal component",
+  "main": "specialOrderProceedModal.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "latest"
+  }
+}

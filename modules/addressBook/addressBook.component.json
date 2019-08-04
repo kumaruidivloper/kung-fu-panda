@@ -1,0 +1,77 @@
+{
+  "title": "Address Book",
+  "status": "wip",
+  "context": {
+    "data": {   
+    "cms": {
+        "commonLabels": {
+          "cancelLabel": "cancel",
+          "updateLabel": "Update",
+          "editLabel": "Edit",
+          "removeLabel": "Remove",
+          "undoLabel": "undo",
+          "setAsDefault": "Set as Default"
+      },
+      "checkoutLabels": {
+          "youEnteredAddressLabel": "You Entered",
+          "suggestedAddressLabel": "Suggested Address",
+          "addressLabel": "Address",
+          "phoneNumberLabel": "Phone Number",
+          "zipCodeLabel": "ZIP Code",
+          "addMoreDetailsOptionalLabel": "Add Company Name,Apt. Number,etc. (Optional)",
+          "lastNameLabel": "Last Name",
+          "useSelectedAddressLabel": "Use Selected Address",
+          "cityLabel": "City",
+          "addressVerification": "Address Verification",
+          "stateLabel": "State",
+          "modifyAddressLabel": "Modify Address",
+          "firstNameLabel": "First Name",
+          "addressVerificationUnableDescription": "We were unable to verify your address with the postal database. Using the address you entered may cause delays receiving your order."
+      },
+      "editAddressLabel": "EDIT ADDRESS",
+      "addressBookLabel": "ADDRESS BOOK",
+      "companyNameAptNo": "Company Name, Apt. Number, P.O. Box",
+      "setAddressAsDefault": "Set address as default",
+      "addNewAddressLabelUpper": "ADD NEW ADDRESS",
+      "addNewAddressLabelLower": "Add New Address",
+      "hasBeenDeletedLabel": "{{userAddress}} has been deleted."
+      },
+      "addressList":[
+        {
+          "name":"niharika",
+          "street":"31 campus street",
+          "company":"galaxy enclave",
+          "city":"bangalore",
+          "state":"karnataka",
+          "phone":"78967123",
+          "default":true
+        },
+        {
+          "name":"pooja",
+          "street":"32 test street",
+          "company":"galaxy enclave",
+          "city":"bangalore",
+          "state":"karnataka",
+          "phone":"12345123",
+          "default":false        
+        },
+        {
+          "name":"ujjwal",
+          "street":"33 campus street test xyz",
+          "company":"world enclave",
+          "city":"bangalore",
+          "state":"karnataka",
+          "phone":"998789123",
+          "default":false  
+        }
+      ],
+      "profileID":"1",
+      "showAlertBox": true,
+      "deleteID": "10",
+      "showEditAddressForm": false,
+      "showAddressForm": false,
+      "zipCodeCityStateData": {"isFetching": false, "error": false, "data": {}},
+      "validatedAddress": {"isFetching": false, "error": false, "data": {}}
+    }
+  }
+}    

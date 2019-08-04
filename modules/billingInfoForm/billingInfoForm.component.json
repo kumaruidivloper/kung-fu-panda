@@ -1,0 +1,345 @@
+{
+  "title": "Checkout Payment",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "shipItemsLabel": "ship items",
+          "employeeDiscountLabel": "employee",
+          "shippingItemsLabel": "Shipping items Available",
+          "continueShoppingLabel": "Contine Shopping",
+          "signInLabel": "Sign inn",
+          "itemsLabel": "items xyz",
+          "doneLabel": "Done",
+          "removeFromCartLabel": "Remove",
+          "placeOrderLabel": "Place Order",
+          "colorLabel": "color",
+          "addPromoCodeLabel": "add Promo code",
+          "promoCodeAddedLabel": "Promo code added",
+          "submitLabel": "Submit",
+          "inStorePickUpLabel": "in store pick up",
+          "addToWishlistLabel": "add to wishlist",
+          "emailAddressLabel": "Email adreess",
+          "estimatedTaxesLabel": "Esimated Taxes",
+          "promoCodeLabel": "promocode",
+          "shippingLabel": "Shipping",
+          "taxesLabel": "Taxes",
+          "quantityLabel": "quantity",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "secureLabel": "Secure",
+          "totalLabel": "total",
+          "goToPaymentLabel": "Go to Payment",
+          "checkoutLabel": "checkout",
+          "sizeLabel": "size",
+          "printLabel": "Print",
+          "checkoutWithPaypalLabel": "Checkout",
+          "editLabel": "Edit",
+          "militaryDiscountLabel": "military",
+          "subTotalLabel": "sub total",
+          "removeLabel": "remove",
+          "freeLabel": "free ",
+          "editMyCartLabel": "Edit my cart",
+          "cardsAccepted": [
+            {
+              "label": "Visa",
+              "url": "/content/dam/academics/R2/cards/visa.png"
+            },
+            {
+              "label": "MasterCard",
+              "url": "/content/dam/academics/R2/cards/masterccard.png"
+            },
+            {
+              "label": "American Express",
+              "url": "/content/dam/academics/R2/cards/americanexpress.png"
+            },
+            {
+              "label": "Discovery",
+              "url": "/content/dam/academics/R2/cards/discovery.png"
+            }
+          ]
+        },
+        "errorMsg": {
+          "outOfStock": "fcdwc",
+          "limitedStock": "dfcd"
+        },
+        "successMsg": {
+          "promoCodeAppliedLabel": "testing1",
+          "itemRemoveFromCartLabel": "testing2"
+        },
+        "promotionalMsg": {
+          "itemShipForFreeLabel": "dsfsdef",
+          "freeGiftLabel": "rdgd"
+        },
+        "validationMsg": {
+          "invalidEmailText": "xdfvdzxz",
+          "combinePaypalMessageText": "fdzx"
+        },
+        "paymentOptions": [
+          {
+            "text": "Credit Card"
+          },
+          {
+            "text": "PayPal"
+          },
+          {
+            "text": "E-Pay"
+          }
+        ],
+        "checkoutTitle": "CHECKOUT",
+        "checkoutUnauthDescriptionText": "<p>jhmmn</p>\r\n",
+        "shippingTitle": "SHIPPING",
+        "shippingAddressLabel": "SHIPPING ADDRESS",
+        "pickupLabel": "Pick up instead?",
+        "pickupURL": "rtds",
+        "firstNameLabel": "First Name",
+        "lastNameLabel": "Last Name",
+        "phoneNumberLabel": "Phone Number",
+        "addressLabel": "Address",
+        "addMoreDetailsOptionalLabel": "Add Company Name,Apt. Number,etc. (Optional)",
+        "zipCodeLabel": "ZIP Code",
+        "cityLabel": "City",
+        "stateLabel": "State",
+        "shippingMethodLabel": "SHIPPING METHOD",
+        "shipmentLabel": "Shipment",
+        "arrivesLabel": "Arrives",
+        "addNewShippingAddressLabel": "Add a New Shipping Address",
+        "paymentTitle": "PAYMENT",
+        "billingInformation": "BILLING INFORMATION",
+        "visaEnding": "VISA Ending in",
+        "expiryLabel": "rtdsy",
+        "expiryDateFormat": "MM/YYYY",
+        "paymentMethod": "PAYMENT METHOD",
+        "giftCardLabel": "Enter a Gift Card",
+        "creditCardNumberLabel": "Credit Card Number",
+        "expirationDateLabel": "Expiration Date",
+        "cvvLabel": "CVV",
+        "cvvHintText": "The 3 digit code found on far right of signature box",
+        "sameAsShippingAddressText": "Same As Shipping Address",
+        "emailAddressForOrderConfirmation": "Email Address for Order Confirmation",
+        "promotionalSignupText":
+          "Sign up to get Hot Deals. Weekly Ads, Local Events and more delivered straight to your inbox. You can unsubscribe at anytime.",
+        "reviewOrderText": "Review Order ",
+        "chooseCardLabel": "Choose Card",
+        "changeBillingInformationLabel": "Change Billing Information",
+        "savePaymentInfoLabel": "Save Payment Info for Later",
+        "addNewCreditCardLabel": "Add a New Credit Card",
+        "reviewOrderTitle": "REVIEW ORDER",
+        "reviewOrderDescriptionText": "<p>tydrg</p>\r\n"
+      },
+      "isLoggedIn": true,
+      "order": {
+        "orderId": "10001",
+        "numberOfItems": "2",
+        "orderStatus": "p",
+        "totals": {
+          "totalAdjustment": "0",
+          "totalShippingTax": "22.5",
+          "totalProductPrice": "100",
+          "orderCurrency": "USD",
+          "orderLocale": "en_US",
+          "totalShippingCharge": "10",
+          "orderTotal": "200",
+          "totalSalesTax": "20"
+        },
+        "orderItems": [
+          {
+            "orderItem": {
+              "orderItemId": "20001",
+              "unitPrice": "12",
+              "zipCode": "560066",
+              "quantity": "1",
+              "shipModeCode": "UPS Ground",
+              "shipModeId": "10551",
+              "orderItemPrice": "123",
+              "skuId": "111083697",
+              "isfreeGift": "",
+              "productId": "4686067",
+              "skuDetails": {
+                "inventory": {
+                  "store": [
+                    {
+                      "storeId": "1005",
+                      "availableQuantity": "2",
+                      "inventoryStatus": "OUT_OF_STOCK"
+                    }
+                  ],
+                  "online": [
+                    {
+                      "availableQuantity": "2",
+                      "inventoryStatus": "OUT_OF_STOCK"
+                    }
+                  ]
+                },
+                "skuInfo": {
+                  "name": "Mag M SS Laguna Madre:Grey:X Small",
+                  "shortDescription": "",
+                  "longDescription":
+                    "Just slip on the Magellan Outdoors Men's Laguna Madre Solid Short Sleeve Fishing Shirt, pack up your reel, rod and tackle box and you'll be ready to go. Made of lightweight, yet sturdy nylon, this short-sleeve shirt offers UPF 20+ protection from the sun's harmful rays. Plus, moisture-wicking fabric technology helps keep you cool and dry on especially hot days out on the water.",
+                  "sellable": "true",
+                  "fullImage": "//assets.academy.com/mgen/68/20004268.jpg",
+                  "thumbnail": "//assets.academy.com/mgen/68/20004268.jpg",
+                  "imageAltDescription": "Mag M SS Laguna Madre:Grey:X Small",
+                  "skuAttributes": [
+                    {
+                      "name": "color",
+                      "value": "blue"
+                    },
+                    {
+                      "name": "size",
+                      "value": "43"
+                    }
+                  ]
+                },
+                "availableShippingMethods:": [
+                  {
+                    "shipmodeId": "10551",
+                    "shipmodeDesc": "UPS Ground",
+                    "shippingType": "SG",
+                    "estimatedFromDate": "7-1",
+                    "estimatedToDate": "7-4"
+                  },
+                  {
+                    "shipmodeId": "10556",
+                    "shipmodeDesc": "Pickup In Store",
+                    "shippingType": "PICKUPINSTORE"
+                  },
+                  {
+                    "shipmodeId": "10556",
+                    "shipmodeDesc": "Ship To Store",
+                    "shippingType": "STS",
+                    "estimatedFromDate": "7-1",
+                    "estimatedToDate": "7-4"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "ShippingGroups": [
+          {
+            "groupSeqNum": "1",
+            "shippingModes": [
+              {
+                "shipmodeId": "11357",
+                "shipmodeDesc": "FEDX 2 Day",
+                "shippingType": "STANDARD",
+                "estimatedFromDate": "7-2",
+                "estimatedToDate": "7-5",
+                "saleShippingCharge": "50",
+                "baseShippingCharge": "60"
+              },
+              {
+                "shipmodeId": "11358",
+                "shipmodeDesc": "FEDX 1 Day",
+                "shippingType": "STANDARD",
+                "estimatedFromDate": "7-2",
+                "estimatedToDate": "7-5",
+                "saleShippingCharge": "50",
+                "baseShippingCharge": "60"
+              }
+            ],
+            "orderItems": [
+              {
+                "orderItemId": "1000"
+              },
+              {
+                "orderItemId": "1001"
+              }
+            ],
+            "addressIds": [
+              {
+                "addressId": "3457"
+              },
+              {
+                "addressId": "3458"
+              }
+            ]
+          },
+          {
+            "groupSeqNum": 2,
+            "shippingModes": [
+              {
+                "storeId": "12345",
+                "shipmodeId": "11357",
+                "shipmodeDesc": "PickupInStore",
+                "shippingType": "PICKUPINSTORE",
+                "saleShippingCharge": "50",
+                "baseShippingCharge": "60"
+              }
+            ],
+            "orderItems": [
+              {
+                "orderItemId": "1002"
+              },
+              {
+                "orderItemId": "1003"
+              }
+            ]
+          }
+        ],
+        "Addresses": [
+          {
+            "id": "3457",
+            "line1": "",
+            "line2": "",
+            "zipcode": "",
+            "type": "Billing",
+            "name": "Home Address"
+          },
+          {
+            "id": "3458",
+            "line1": "",
+            "line2": "",
+            "zipcode": "",
+            "type": "Shipping",
+            "name": "Home Address"
+          }
+        ],
+        "promotions": [
+          {
+            "promotionId": "100533691",
+            "code": "Test10",
+            "description": ""
+          },
+          {
+            "promotionId": "100533692",
+            "code": "Test10",
+            "description": ""
+          }
+        ]
+      },
+      "savedCreditCards": {
+        "isFetching": false,
+        "error": false,
+        "data": {
+          "savedCreditcardsData": [
+            {
+              "name": "mastercard",
+              "value": "4509 - 5684 - 4853 - 8134",
+              "displayValue": "MasterCard Ending In - 8134",
+              "expiryDate": "12/19"
+            },
+            {
+              "name": "visacard",
+              "value": "6011 - 6443 - 9472 - 6336",
+              "displayValue": "VISA Ending In - 6336",
+              "expiryDate": "09/21"
+            },
+            {
+              "name": "newcard",
+              "value": "Add a New Credit Card",
+              "displayValue": "Add a New Credit Card",
+              "expiryDate": "02/20"
+            }
+          ]
+        }
+      },
+      "detectedCityState": {
+        "city": "Cupertino",
+        "state": "California"
+      }
+    }
+  }
+}

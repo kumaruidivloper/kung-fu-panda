@@ -1,0 +1,22 @@
+.selectedfacet-container{
+  display:flex;
+  flex-wrap:wrap;
+  font-family: Mallory,sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.7px;
+  text-align: left;
+  color: #585858;
+}
+
+.selectedfacet-item{
+  margin:6px;
+  cursor: pointer;
+}
+
+.cross-icon {
+  font-size: 0.75rem;
+}

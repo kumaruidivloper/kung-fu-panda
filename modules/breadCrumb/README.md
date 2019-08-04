@@ -1,0 +1,1 @@
+The action creator **updateBreadCrumb** can be used to update the breadcrumb on any page which have this component added.

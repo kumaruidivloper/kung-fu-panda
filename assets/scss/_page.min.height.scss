@@ -1,0 +1,12 @@
+$headerHeightDesktop: 100px;
+$headerHeightMobile: 85px;
+$footerHeightDesktop: 260px;
+$footerHeightMobile: 441px;
+[data-component='cart'],
+[data-component='checkout'],
+[data-component='myaccount'] {
+  min-height: calc(100vh - #{$headerHeightMobile} - #{$footerHeightMobile});
+  @media screen and (min-width: 768px) {
+    min-height: calc(100vh - #{$headerHeightDesktop} - #{$footerHeightDesktop});
+  }
+}

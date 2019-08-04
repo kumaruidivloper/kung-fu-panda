@@ -1,0 +1,76 @@
+{
+  "title": "Sign In",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "emailaddressLabel": "Email Address",
+          "weakLabel": "Weak",
+          "strongLabel": "Strong",
+          "passwordStrengthLabel": "Password strength",
+          "passwordStrengthTooltipHeader": "What makes passwords strong?",
+          "passwordStrengthTooltipMessage": "we recomend your password contain 8 characters consisting of atleast 1 number, i uppercase letter, 1 lowercase letter, and 1 special character.",
+          "showLabel": "SHOW",
+          "hideLabel": "HIDE",
+          "passwordMustContainLabel": "Password Must Contain Label",
+          "passwordMustContainOneUpperCaseLabel": "One Upper Case Character",
+          "passwordMustContainOneLowerCaseLabel": "One Lower Case Character",
+          "passwordMustContainOneNumberLabel": "One Number",
+          "passwordMustContainOneSpecialCharLabel": "One Special Character",
+          "passwordMustContainMinEightCharLabel": "8 Characters Min",
+          "submitLabel": "Submit",
+          "signInLabel": "Sign In"
+        },
+        "errorMsg": {
+          "incorrectLoginIdPassword": "The combination of Email Address and Password is incorrect. Please try again.",
+          "accountLockedMultipleAttempts": "For maximum security, we have locked your account due to multiple unsuccessful login attempts. Please retrieve the password from your email and try again.",
+          "emailIdPasswordBlank": "Please enter an Email address and/orPassword",
+          "accountDoesNotExist": "Sorry, we do not have an account registered with this email address. Please enter a registered email address or create a new account.",
+          "forgotPasswordConfirmation": "Your password has been reset. Please retrieve the new password from your email and try again.",
+          "blankEmailAddress": "Please enter your email address.",
+          "emailFormatIncorrect": "Please enter the Email Address in a valid format (ex. abc@xyz.com)"
+        },
+        "checkoutLabels": {
+          "firstNameLabel": "First Name",
+          "lastNameLabel": "Last Name"
+        },
+        "signUpHeadingLabel": "Sign Up",
+        "signUpMessageLabel": "Create Your Academy.com account to track & manage your Orders",
+        "createPassword": "Create Password",
+        "promotionalMessageLabel": "I would like to recieve promotion&specialoffers",
+        "signUp": "SIGN UP",
+        "alreadyHaveAnAccountLabel": "Already have an Account?",
+        "signInNow": "Sign In Now",
+        "signUpSuccessLabel": "Congratulations",
+        "signUpSuccessMessageLabel": "You have Successfully Registered with Academy.com",
+        "letsShopLabel": "Let's Shop",
+        "signUpLabel": "Create an account",
+        "signInHeadingLabel": "Sign In",
+        "passwordLabel": "Password",
+        "forgotYourPasswordLabel": "Forgot Your Password",
+        "dontHaveAnAccount": "Not a member?",
+        "forgotYourPasswordHeadingLabel": "Forgot Password",
+        "forgotYourPasswordMessageCopy": "Enter the email address used for Signing Up and We'll send you a new Password",
+        "sentNewPassword": "We have Sent You a New Password",
+        "sentNewPasswordCopy": "Password Reset is on the Way",
+        "backToSignIn": "Back To SignIn"
+      },
+      "passwordExpiredFlag": true,
+      "redirect": true,
+      "error": false,
+      "formSubmitStatus": {
+        "error":false,
+        "redirect":true,
+        "token": {
+          "passwordExpiredFlag":true,
+          "x-authtoken":"",
+          "x-authtrusttoken":"",
+          "x-userid":""
+        }
+      }
+
+    }
+  }
+}

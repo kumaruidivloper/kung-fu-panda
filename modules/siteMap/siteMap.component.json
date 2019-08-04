@@ -1,0 +1,178 @@
+{
+  "title": "Site Map",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Site Map works!"
+      },
+      "api": {
+        "categorySiteMap": {
+          "data": [
+            {
+              "subCategories": [
+                { "name": "Predator Hunting", "categoryId": "128984", "seoURL": "/browse/shops/predator-hunting" },
+                { "name": "Hog Hunting", "categoryId": "146734", "seoURL": "/browse/shops/hog-hunting" },
+                { "name": "Deer Hunting", "categoryId": "196130", "seoURL": "/browse/shops/deer-hunting" },
+                { "name": "Turkey Hunting", "categoryId": "204934", "seoURL": "/browse/shops/turkey-hunting" },
+                { "name": "Back To School", "categoryId": "215931", "seoURL": "/browse/shops/back-to-school" },
+                { "name": "Dove Hunting", "categoryId": "216433", "seoURL": "/browse/shops/dove-hunting--1" },
+                { "name": "Duck Hunting", "categoryId": "219435", "seoURL": "/browse/shops/duck-hunting--1" },
+                { "name": "BCG Plus Size", "categoryId": "239006", "seoURL": "/browse/shops/bcg-plus-size" },
+                { "name": "Gift Card Shop", "categoryId": "239020", "seoURL": "/browse/shops/gift-card-shop" },
+                { "name": "Houston Astros Gold", "categoryId": "239064", "seoURL": "/browse/shops/Houston-Astros-Gold" },
+                { "name": "Carhartt Event", "categoryId": "239065", "seoURL": "/browse/shops/carhartt-event" },
+                { "name": "Father's Day Gifts", "categoryId": "239096", "seoURL": "/browse/shops/fathers-day-gifts" },
+                { "name": "Rainwear", "categoryId": "239225", "seoURL": "/browse/shops/rainwear" },
+                { "name": "Russia 2018", "categoryId": "239273", "seoURL": "/browse/shops/russia-2018" },
+                { "name": "Football Pick 6", "categoryId": "239290", "seoURL": "/browse/shops/football-pick-6" },
+                { "name": "Meet Us In Omaha", "categoryId": "239508", "seoURL": "/browse/shops/meet-us-in-omaha" }
+              ],
+              "name": "Shops",
+              "categoryId": "197936",
+              "seoURL": "/browse/shops"
+            },
+            {
+              "subCategories": [
+                { "name": "Boating", "categoryId": "15157", "seoURL": "/browse/outdoors/boating" },
+                { "name": "Camping & Outdoors", "categoryId": "15286", "seoURL": "/browse/outdoors/camping--outdoors" },
+                { "name": "Fishing", "categoryId": "15478", "seoURL": "/browse/outdoors/fishing" },
+                { "name": "Bikes & Cycling", "categoryId": "15613", "seoURL": "/browse/outdoors/bike-shop" },
+                { "name": "Hunting", "categoryId": "15758", "seoURL": "/browse/outdoors/hunting" },
+                { "name": "Outdoor Living", "categoryId": "15973", "seoURL": "/browse/outdoors/outdoor-living" },
+                { "name": "Outdoor Cooking", "categoryId": "15999", "seoURL": "/browse/outdoors/grills--outdoor-cooking" },
+                { "name": "Backyard Recreation", "categoryId": "16018", "seoURL": "/browse/outdoors/games-recreation" },
+                { "name": "Water Sports", "categoryId": "16028", "seoURL": "/browse/outdoors/water-sports" },
+                { "name": "Shooting", "categoryId": "64413", "seoURL": "/browse/outdoors/shooting" },
+                { "name": "Automotive & Towing", "categoryId": "207453", "seoURL": "/browse/outdoors/automotive--towing" }
+              ],
+              "name": "Outdoors",
+              "categoryId": "220431",
+              "seoURL": "/browse/outdoors"
+            },
+            {
+              "subCategories": [
+                { "name": "Competitive Swimming", "categoryId": "239042", "seoURL": "/browse/sports/competitive-swimming" },
+                { "name": "Winter Sports", "categoryId": "239568", "seoURL": "/browse/sports/winter-sports--1" },
+                { "name": "Baseball", "categoryId": "16155", "seoURL": "/browse/sports/baseball" },
+                { "name": "Basketball", "categoryId": "15725", "seoURL": "/browse/sports/basketball" },
+                { "name": "Cheerleading", "categoryId": "16265", "seoURL": "/browse/sports/cheerleading" },
+                { "name": "Dance & Gymnastics", "categoryId": "216443", "seoURL": "/browse/sports/dance-and-gymnastics" },
+                { "name": "Fitness", "categoryId": "15609", "seoURL": "/browse/sports/fitness" },
+                { "name": "Football", "categoryId": "15732", "seoURL": "/browse/sports/football" },
+                { "name": "Golf", "categoryId": "15733", "seoURL": "/browse/sports/golf" },
+                { "name": "Hockey", "categoryId": "59552", "seoURL": "/browse/sports/hockey" },
+                { "name": "Game Room", "categoryId": "65653", "seoURL": "/browse/sports/indoor-fun" },
+                { "name": "Lacrosse", "categoryId": "16238", "seoURL": "/browse/sports/lacrosse" },
+                { "name": "Racquet Sports", "categoryId": "16101", "seoURL": "/browse/sports/racquet-sports" },
+                { "name": "Soccer", "categoryId": "15743", "seoURL": "/browse/sports/soccer" },
+                { "name": "Softball", "categoryId": "16166", "seoURL": "/browse/sports/softball" },
+                { "name": "Track & Field", "categoryId": "16259", "seoURL": "/browse/sports/track--field" },
+                { "name": "Volleyball", "categoryId": "15745", "seoURL": "/browse/sports/volleyball" },
+                { "name": "Wrestling", "categoryId": "15748", "seoURL": "/browse/sports/wrestling" }
+              ],
+              "name": "Sports",
+              "categoryId": "220432",
+              "seoURL": "/browse/sports"
+            },
+            {
+              "subCategories": [
+                { "name": "Watches", "categoryId": "15133", "seoURL": "/browse/all-accessories/watches" },
+                { "name": "Electronics", "categoryId": "15345", "seoURL": "/browse/all-accessories/electronics" },
+                { "name": "Knives & Blades", "categoryId": "15370", "seoURL": "/browse/all-accessories/knives--blades" },
+                { "name": "Travel & Luggage", "categoryId": "15376", "seoURL": "/browse/all-accessories/travel--luggage" },
+                { "name": "Backpacks, Bags & Luggage", "categoryId": "15377", "seoURL": "/browse/all-accessories/backpacks-bags-and-luggage" },
+                { "name": "Nutrition & Supplements", "categoryId": "15576", "seoURL": "/browse/all-accessories/nutrition--supplements" },
+                { "name": "Sports Medicine", "categoryId": "15578", "seoURL": "/browse/all-accessories/sports-medicine" },
+                { "name": "Toys", "categoryId": "15877", "seoURL": "/browse/all-accessories/toys" },
+                { "name": "Dog Supplies", "categoryId": "15959", "seoURL": "/browse/all-accessories/dog-supplies" },
+                { "name": "Coolers & Drinkware", "categoryId": "15991", "seoURL": "/browse/all-accessories/coolers--drinkware" },
+                { "name": "Sunglasses", "categoryId": "238983", "seoURL": "/browse/all-accessories/sunglasses-and-accessories" }
+              ],
+              "name": "Accessorie & More",
+              "categoryId": "230953",
+              "seoURL": "/browse/all-accessories"
+            },
+            {
+              "subCategories": [
+                { "name": "Dog Supplies", "categoryId": "15959", "seoURL": "/browse/home-backyard/dog-supplies" },
+                { "name": "Outdoor Living", "categoryId": "15973", "seoURL": "/browse/home-backyard/outdoor-living" },
+                { "name": "Outdoor Cooking", "categoryId": "15999", "seoURL": "/browse/home-backyard/grills--outdoor-cooking" },
+                { "name": "Backyard Recreation", "categoryId": "16018", "seoURL": "/browse/home-backyard/games-recreation" },
+                { "name": "Game Room", "categoryId": "65653", "seoURL": "/browse/home-backyard/indoor-fun" }
+              ],
+              "name": "Home & Backyard",
+              "categoryId": "239455",
+              "seoURL": "/browse/home-backyard"
+            },
+            {
+              "subCategories": [
+                { "name": "Women's Clothing", "categoryId": "15082", "seoURL": "/browse/apparel/womens-apparel" },
+                { "name": "Men's Clothing", "categoryId": "15054", "seoURL": "/browse/apparel/mens-apparel" },
+                { "name": "Girls' Clothing", "categoryId": "15109", "seoURL": "/browse/apparel/girls-apparel" },
+                { "name": "Boys' Clothing", "categoryId": "15090", "seoURL": "/browse/apparel/boys-apparel" },
+                { "name": "Compression", "categoryId": "239158", "seoURL": "/browse/apparel/compression" },
+                { "name": "Fishing Clothing", "categoryId": "15149", "seoURL": "/browse/apparel/fishing-apparel" },
+                { "name": "Graphic Tees", "categoryId": "239203", "seoURL": "/browse/apparel/Graphic-Tees" },
+                { "name": "Hats & Accessories", "categoryId": "235940", "seoURL": "/browse/apparel/hats-accessories" },
+                { "name": "Hunting & Camo Clothing", "categoryId": "15134", "seoURL": "/browse/apparel/hunting--camo-apparel" },
+                { "name": "Plus Size Clothing", "categoryId": "238948", "seoURL": "/browse/apparel/plus-size-clothing" },
+                { "name": "School Uniforms", "categoryId": "15171", "seoURL": "/browse/apparel/school-uniforms" },
+                { "name": "Swimwear", "categoryId": "238955", "seoURL": "/browse/apparel/swimwear" },
+                { "name": "Toddler Clothing", "categoryId": "17401", "seoURL": "/browse/apparel/infants--toddlers-apparel" },
+                { "name": "Workout Clothing", "categoryId": "239431", "seoURL": "/browse/apparel/workout-clothing" },
+                { "name": "Workwear Clothing", "categoryId": "235947", "seoURL": "/browse/apparel/workwear" }
+              ],
+              "name": "Clothing",
+              "categoryId": "15053",
+              "seoURL": "/browse/apparel"
+            },
+            {
+              "subCategories": [
+                { "name": "Weber", "categoryId": "238999", "seoURL": "/browse/brands/weber" },
+                { "name": "Skechers", "categoryId": "239014", "seoURL": "/browse/brands/Skechers" },
+                { "name": "Nike Brand Shop", "categoryId": "239153", "seoURL": "/browse/brands/nike-brand-shop" },
+                { "name": "Carhartt Brand Shop", "categoryId": "239183", "seoURL": "/browse/brands/carhartt-brand-shop" },
+                { "name": "Adidas", "categoryId": "168324", "seoURL": "/browse/brands/adidas" },
+                { "name": "BCG Brand Shop", "categoryId": "237433", "seoURL": "/browse/brands/bcg" },
+                { "name": "Carhartt", "categoryId": "181285", "seoURL": "/browse/brands/carhartt" },
+                { "name": "Columbia", "categoryId": "187431", "seoURL": "/browse/brands/columbia" },
+                { "name": "Dickies", "categoryId": "198047", "seoURL": "/browse/brands/dickies" },
+                { "name": "Fitbit", "categoryId": "237439", "seoURL": "/browse/brands/fitbit" },
+                { "name": "Magellan Outdoors", "categoryId": "193485", "seoURL": "/browse/brands/magellan" },
+                { "name": "Mizuno", "categoryId": "181307", "seoURL": "/browse/brands/mizuno" },
+                { "name": "New Balance", "categoryId": "181288", "seoURL": "/browse/brands/new-balance" },
+                { "name": "Nike", "categoryId": "146753", "seoURL": "/browse/brands/nike" },
+                { "name": "O'Rageous", "categoryId": "206432", "seoURL": "/browse/brands/orageous" },
+                { "name": "Outdoor Gourmet", "categoryId": "181315", "seoURL": "/browse/brands/outdoor-gourmet" },
+                { "name": "Speedo", "categoryId": "210440", "seoURL": "/browse/brands/speedo" },
+                { "name": "The North Face", "categoryId": "221933", "seoURL": "/browse/brands/thenorthface" },
+                { "name": "Under Armour", "categoryId": "146756", "seoURL": "/browse/brands/under-armour" },
+                { "name": "YETI", "categoryId": "181314", "seoURL": "/browse/brands/yeti" }
+              ],
+              "name": "Brands",
+              "categoryId": "146752",
+              "seoURL": "/browse/brands"
+            },
+            {
+              "subCategories": [
+                { "name": "MLS", "categoryId": "15052", "seoURL": "/browse/fan-shop/mls" },
+                { "name": "NBA", "categoryId": "15394", "seoURL": "/browse/fan-shop/nba" },
+                { "name": "MLB", "categoryId": "15403", "seoURL": "/browse/fan-shop/mlb" },
+                { "name": "NFL", "categoryId": "15424", "seoURL": "/browse/fan-shop/nfl" },
+                { "name": "NCAA", "categoryId": "15432", "seoURL": "/browse/fan-shop/ncaa" },
+                { "name": "NHL", "categoryId": "15466", "seoURL": "/browse/fan-shop/nhl" },
+                { "name": "Golf Licensed Accessories", "categoryId": "197442", "seoURL": "/browse/fan-shop/golf-licensed-accessories" },
+                { "name": "Tailgating", "categoryId": "234431", "seoURL": "/browse/fan-shop/tailgate" },
+                { "name": "Russia 2018", "categoryId": "239273", "seoURL": "/browse/fan-shop/russia-2018" }
+              ],
+              "name": "Fan Shop",
+              "categoryId": "15415",
+              "seoURL": "/browse/fan-shop"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

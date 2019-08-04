@@ -1,0 +1,254 @@
+//Badge styles  - base
+
+@mixin badge-font() {
+    font-family: 'Mallory-Bold';
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: $academy-white;
+}
+
+@mixin large-badge-font() {
+    font-size: 1.25rem;
+    line-height: 1.2;
+}
+
+@mixin medium-badge-font() {
+    font-size: 1rem;
+    line-height: 1.25;
+}
+
+@mixin small-badge-font() {
+    font-size: 0.875rem;
+    line-height: 1.29;
+}
+
+/*MODULE_BADGE*/
+
+.module-badge-large-blue {
+    width: 18.125rem;
+    height: 4.375rem;
+    background-color: $academy-blue;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.1);
+    @include badge-font();
+    @include large-badge-font();
+}
+
+.module-badge-large-red {
+    width: 18.125rem;
+    height: 4.375rem;
+    background-color: $academy-red;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.1);
+    @include large-badge-font();
+    @include badge-font();
+}
+
+.module-badge-large-gray {
+    width: 18.125rem;
+    height: 4.375rem;
+    background-color: $gray-65;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.1);
+    @include large-badge-font();
+    @include badge-font();
+}
+
+.module-badge-medium-blue {
+    width: 18.125rem;
+    height: 3.75rem;
+    background-color: $academy-blue;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.1);
+    @include medium-badge-font();
+    @include badge-font();
+}
+
+.module-badge-medium-red {
+    width: 18.125rem;
+    height: 3.75rem;
+    background-color: $academy-red;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.1);
+    @include medium-badge-font();
+    @include badge-font();
+}
+
+.module-badge-medium-gray {
+    width: 18.125rem;
+    height: 3.75rem;
+    background-color: $gray-65;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.1);
+    @include medium-badge-font();
+    @include badge-font();
+}
+
+.module-badge-small-blue {
+    width: 18.125rem;
+    height: 3.125rem;
+    background-color: $academy-blue;
+    @include small-badge-font();
+    @include badge-font();
+}
+
+.module-badge-small-red {
+    width: 18.125rem;
+    height: 3.125rem;
+    background-color: $academy-red;
+    @include small-badge-font();
+    @include badge-font();
+}
+
+.module-badge-small-gray {
+    width: 18.125rem;
+    height: 3.125rem;
+    background-color: $gray-65;
+    @include small-badge-font();
+    @include badge-font();
+}
+
+/*EYEBROW_BADGE*/
+
+.eyebrow-badge-large-blue {
+    width: 6.5rem;
+    height: 2.875rem;
+    background-color: $academy-blue;
+    @include large-badge-font();
+    @include badge-font();
+}
+
+.eyebrow-badge-large-red {
+    width: 6.5rem;
+    height: 2.875rem;
+    background-color: $academy-red;
+    @include large-badge-font();
+    @include badge-font();
+}
+
+.eyebrow-badge-large-gray {
+    width: 6.5rem;
+    height: 2.875rem;
+    background-color: $gray-65;
+    @include large-badge-font();
+    @include badge-font();
+}
+
+.eyebrow-badge-small-blue {
+    width: 6.5rem;
+    height: 2.25rem;
+    background-color: $academy-blue;
+    @include small-badge-font();
+    @include badge-font();
+}
+
+.eyebrow-badge-small-red {
+    width: 6.5rem;
+    height: 2.25rem;
+    background-color: $academy-red;
+    @include small-badge-font();
+    @include badge-font();
+}
+
+.eyebrow-badge-small-gray {
+    width: 6.5rem;
+    height: 2.25rem;
+    background-color: $gray-65;
+    @include small-badge-font();
+    @include badge-font();
+}
+
+/*PRODUCT_FLAG_BADGE*/
+
+@mixin product-flag-large() {
+    height: 1.75rem;
+    font-size: 0.875rem;
+    line-height: 1.43;
+}
+
+@mixin product-flag-small() {
+    height: 1.25rem;
+    font-size: 0.625rem;
+    line-height: 1.4;
+}
+
+.product-flag-large-off {
+    width: 5.375rem;
+    background-color: $academy-red;
+    @include product-flag-large();
+    @include badge-font();
+}
+
+.product-flag-large-clearance {
+    width: 6.9375rem;
+    background-color: $academy-red;
+    @include product-flag-large();
+    @include badge-font();
+}
+
+.product-flag-large-hotdeal {
+    width: 6.1875rem;
+    background-color: $academy-red;
+    @include product-flag-large();
+    @include badge-font();
+}
+
+.product-flag-large-online {
+    width: 7.6875rem;
+    background-color: $academy-red;
+    @include product-flag-large();
+    @include badge-font();
+}
+
+.product-flag-large-pricedrop {
+    width: 6.8125rem;
+    background-color: $academy-red;
+    @include product-flag-large();
+    @include badge-font();
+}
+
+.product-flag-large-new {
+    width: 3.75rem;
+    background-color: $academy-blue;
+    @include product-flag-large();
+    @include badge-font();
+}
+
+.product-flag-small-off {
+    width: 3.75rem;
+    background-color: $academy-red;
+    @include product-flag-small();
+    @include badge-font();
+}
+
+.product-flag-small-clearance {
+    width: 4.9375rem;
+    background-color: $academy-red;
+    @include product-flag-small();
+    @include badge-font();
+}
+
+.product-flag-small-hotdeal {
+    width: 4.375rem;
+    background-color: $academy-red;
+    @include product-flag-small();
+    @include badge-font();
+}
+
+.product-flag-small-online {
+    width: 5.125rem;
+    background-color: $academy-red;
+    @include product-flag-small();
+    @include badge-font();
+}
+
+.product-flag-small-pricedrop {
+    width: 4.8125rem;
+    background-color: $academy-red;
+    @include product-flag-small();
+    @include badge-font();
+}
+
+.product-flag-small-new {
+    width: 2.625rem;
+    background-color: $academy-blue;
+    @include product-flag-small();
+    @include badge-font();
+}

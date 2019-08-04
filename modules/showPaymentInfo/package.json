@@ -1,0 +1,11 @@
+{
+  "name": "show-payment-info",
+  "version": "1.0.0",
+  "description": "Show Payment Info component",
+  "main": "showPaymentInfo.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

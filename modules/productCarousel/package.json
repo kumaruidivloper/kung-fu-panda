@@ -1,0 +1,21 @@
+{
+  "name": "product-carousel",
+  "version": "1.0.0",
+  "description": "ProductCarousel component",
+  "main": "productCarousel.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SR_",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://josh_foster@bitbucket.org/academysports/ui-component-registry.git"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17",
+    "emotion": "9.2.10",
+    "react-emotion": "9.2.10",
+    "react-id-swiper": "1.6.8"
+  }
+}

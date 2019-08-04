@@ -1,0 +1,87 @@
+@mixin fade-period-enter() {
+  opacity: 0.01;
+}
+
+@mixin fade-period-enter-active($period) {
+  opacity: 1;
+  transition: opacity $period ease-in;
+}
+
+@mixin fade-period-exit() {
+  opacity: 1;
+}
+
+@mixin fade-period-exit-active($period) {
+  opacity: 0.01;
+  transition: opacity $period ease-in;
+}
+
+/* Default Fade */
+.fade-enter {
+  @include fade-period-enter();
+}
+.fade-enter-active {
+  @include fade-period-enter-active(3000ms);
+}
+.fade-exit {
+  @include fade-period-exit();
+}
+.fade-exit-active {
+  @include fade-period-exit-active(3000ms);
+}
+
+/* Fade - 200ms */
+.fade-200ms-enter {
+  @include fade-period-enter();
+}
+.fade-200ms-enter-active {
+  @include fade-period-enter-active(200ms);
+}
+.fade-200ms-exit {
+  @include fade-period-exit();
+}
+.fade-200ms-exit-active {
+  @include fade-period-exit-active(200ms);
+}
+
+/* Fade - 300ms */
+.fade-300ms-enter {
+  @include fade-period-enter();
+}
+.fade-300ms-enter-active {
+  @include fade-period-enter-active(300ms);
+}
+.fade-300ms-exit {
+  @include fade-period-exit();
+}
+.fade-300ms-exit-active {
+  @include fade-period-exit-active(300ms);
+}
+
+/* Fade - 400ms */
+.fade-400ms-enter {
+  @include fade-period-enter();
+}
+.fade-400ms-enter-active {
+  @include fade-period-enter-active(400ms);
+}
+.fade-400ms-exit {
+  @include fade-period-exit();
+}
+.fade-400ms-exit-active {
+  @include fade-period-exit-active(400ms);
+}
+
+/* Fade - 500ms */
+.fade-500ms-enter {
+  @include fade-period-enter();
+}
+.fade-500ms-enter-active {
+  @include fade-period-enter-active(500ms);
+}
+.fade-500ms-exit {
+  @include fade-period-exit();
+}
+.fade-500ms-exit-active {
+  @include fade-period-exit-active(500ms);
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Create Account",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "submitLabel": "Submit",
+          "shippingItemsLabel": "Shipping items Available",
+          "emailAddressLabel": "Email adreess",
+          "orderSummaryLinks": [
+            {
+              "label": "Cancel Order",
+              "url": "#"
+            },
+            {
+              "label": "Order History",
+              "url": "#"
+            }
+          ],
+          "estimatedTaxesLabel": "Esimated Taxes",
+          "itemsLabel": "Items",
+          "quantityLabel": "Quantity",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "totalLabel": "Total",
+          "sizeLabel": "Size",
+          "subTotalLabel": "Subtotal",
+          "colorLabel": "Color",
+          "orderSummaryLabel": "ORDER SUMMARY",
+          "skuLabel": "SKU",
+          "passwordStrengthLabel": "Password strength",
+          "passwordStrengthTooltipHeader": "What makes passwords strong?",
+          "passwordStrengthTooltipMessage": "we recomend your password contain 8 characters consisting of atleast 1 number, i uppercase letter, 1 lowercase letter, and 1 special character.",
+          "passwordMustContainLabel": "Password Must Contain Label",
+          "passwordMustContainOneUpperCaseLabel": "One Upper Case Character",
+          "passwordMustContainOneLowerCaseLabel": "One Lower Case Character",
+          "passwordMustContainOneNumberLabel": "One Number",
+          "passwordMustContainOneSpecialCharLabel": "One Special Character",
+          "passwordMustContainMinEightCharLabel": "8 Characters Min"
+        },
+        "checkoutLabels": {
+          "visaEnding": "VISA Ending in",
+          "paymentTitle": "PAYMENT",
+          "shippingAddressLabel": "SHIPPING ADDRESS",
+          "shippingMethodLabel": "SHIPPING METHOD",
+          "shippingTitle": "SHIPPING",
+          "phoneNumberLabel": "Phone Number",
+          "billingInformation": "BILLING INFORMATION",
+          "expirationDateLabel": "Expiration Date"
+        },
+        "inStorePickupLabel": {
+          "estimatedPickupDateLabel": "Estimated pick up date",
+          "storeHoursLabel": "Store Hours",
+          "inStorePickupLabel": "IN-STORE PICKUP",
+          "estimatedPickupDateOrderSummaryHintText": "Please wait for an email confirming that your order is ready. You will have 7 days to pick it up before your order is automatically cancelled.",
+          "alternatePickupPersonLabel": "Alternate's Pickup Person",
+          "pickupInformationLabel": "PICKUP INFORMATION",
+          "inStorePickupInstruction1Label": "Before going to the store,wait for an email confirming it's ready",
+          "inStorePickupInstruction2Label": "Bring your vaild government issued ID to the store",
+          "inStorePickupInstruction3Label": "Bring this confirmation email or your order number with you",
+          "inStorePickupInstructionsLabel": "IN-STORE PICKUP INSTRUCTIONS",
+          "itemsForPickupLabel": "ITEMS FOR PICKUP"
+        },
+        "createAccount": "Create Account",
+        "fasterCheckoutDescription": "For a faster checkout, use Email id to create account",
+        "choosePassword": "Choose Password",
+        "notifyMe": "Sign UP to get Hot deals, Weekly Adds, Local Events and more",
+        "accountCreatedMessage": "Account Created",
+        "noteLabel": "Note",
+        "noteMessageLabel": "After your item is ready for pickup, it will be held in store for 7 days",
+        "giftCardUsedLabel": "GIFT CARD USED",
+        "balanceRemainingLabel": "Balance Remaining",
+        "areYouSureToCancelOrderHeader": "ARE YOU SURE YOU WANT TO CANCEL THIS ORDER",
+        "orderNumberLabel": "Order Number",
+        "totalItemsLabel": "Total Items",
+        "yesCancelMyOrderLabel": "YES, CANCEL MY ORDER",
+        "noLabel": "NO"
+      }
+    }
+  }
+}

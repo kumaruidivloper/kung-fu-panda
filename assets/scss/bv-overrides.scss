@@ -1,0 +1,129 @@
+// #BVSpotlightsContainer .bv-cleanslate .bv-spotlights {
+//   .bv-recommended-product-name {
+//     font-family: Mallory-Book;
+//     font-size: 12px !important;
+//     font-weight: normal;
+//     line-height: 1.17 !important;
+//     letter-spacing: normal;
+//     color: #333333;
+//     @media only screen and (min-width: 992px) {
+//       font-size: 14px !important;
+//       line-height: 1.29 !important;
+//     }
+//   }
+//   .bv-product-aggregate {
+//     margin-top: 30px !important;
+//   }
+//   .bv-reviews-list-wrapper {
+//     padding-top: 49px !important;
+//     margin: 0 14px !important;
+//     @media only screen and (min-width: 992px) {
+//       width: 1180px !important;
+//       margin: 0 auto !important;
+//       padding-top: 44px !important;
+//     }
+//   }
+//   .bv-review {
+//     margin-bottom: 20px !important;
+//     @media only screen and (min-width: 992px) {
+//       margin-bottom: 17px !important;
+//     }
+//     .bv-review-author {
+//       font-family: Mallory-Bold;
+//       font-size: 14px !important;
+//       font-weight: bold !important;
+//       letter-spacing: normal;
+//       color: #333333;
+//       clear: none !important;
+//       margin: auto !important;
+//     }
+//     .bv-timestamp {
+//       font-family: Mallory-Book;
+//       font-size: 10px !important;
+//       font-weight: normal;
+//       letter-spacing: normal;
+//       color: #555555;
+//       margin-top: 0 !important;
+//     }
+//   }
+//   .bv-review-title {
+//     font-family: Mallory-Bold;
+//     font-size: 16px !important;
+//     font-weight: bold !important;
+//     line-height: 1.38 !important;
+//     letter-spacing: normal;
+//     color: #333333;
+//     padding-top: 10px !important;
+//   }
+//   .bv-review-text {
+//     word-break: break-word;
+//     font-family: Mallory-Book;
+//     font-size: 14px !important;
+//     font-weight: normal;
+//     line-height: 1.43;
+//     letter-spacing: normal;
+//     color: #333333;
+//   }
+//   .bv-learnmore {
+//     width: 300px !important;
+//     background-color: #0055a6;
+//     border-radius: 35px !important;
+//     display: flex !important;
+//     justify-content: center;
+//     align-items: center;
+//     margin: 10px auto 20px !important;
+//     .bv-learnmore-link {
+//       font-family: Mallory-Bold;
+//       font-size: 14px !important;
+//       font-weight: bold;
+//       line-height: normal;
+//       letter-spacing: normal;
+//       color: #ffffff;
+//       text-transform: uppercase !important;
+//       margin-left: 0 !important;
+//     }
+//     @media only screen and (min-width: 992px) {
+//       width: 365px !important;
+//       height: 50px !important;
+//       margin: 32px auto 38px !important;
+//     }
+//   }
+// }
+// /** BV overrides for Product Grid **/
+// .product-card-reviews {
+//   display: none;
+// }
+// .c-product__ratings-reviews > div {
+//   + .product-card-reviews {
+//     display: inline;
+//   }
+// }
+// .horizontal.product-card .c-product__ratings-reviews {
+//   font-size: 12px;
+// }
+// .product-card-reviews .bv_main_container {
+//   .bv_numReviews_component_container {
+//     padding: 0 !important;
+//   }
+//   .bv_stars_component_container {
+//     display: none !important;
+//   }
+//   .bv_numReviews_component_container button {
+//     font-family: Mallory-Book !important;
+//     font-size: 10px !important;
+//     line-height: 14px !important;
+//     padding: 0 !important;
+//     position: relative !important;
+
+//     @media only screen and (min-width: 992px) {
+//       font-size: 12px !important;
+//       line-height: 16px !important;
+//     }
+//   }
+// }
+// .vertical.product-card .product-card-reviews .bv_main_container {
+//   .bv_numReviews_component_container button {
+//     font-size: 12px !important;
+//     line-height: 16px !important;
+//   }
+// }

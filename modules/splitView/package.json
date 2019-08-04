@@ -1,0 +1,14 @@
+{
+  "name": "split-view",
+  "version": "1.0.0",
+  "description": "Split View component",
+  "main": "splitView.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17"
+  }
+}

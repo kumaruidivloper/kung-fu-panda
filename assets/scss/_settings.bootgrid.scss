@@ -1,0 +1,23 @@
+/** Bootstrap overrides **/
+$grid-columns: 12;
+$grid-gutter-width: 32px; //default
+$grid-breakpoints: (
+  xs: 0px,
+  // Small screen / phone
+    sm: 524px,
+  // Medium screen / tablet
+    md: 768px,
+  // Large screen / desktop
+    lg: 864px,
+  // Extra large screen / wide desktop
+    xl: 1112px,
+  // Extra x large screen / wide desktop
+    xxl: 1448px
+);
+$container-max-widths: (
+  sm: 524px,
+  md: 744px,
+  lg: 840px,
+  xl: 1080px,
+  xxl: 1448px
+);

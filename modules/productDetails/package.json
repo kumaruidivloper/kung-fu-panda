@@ -1,0 +1,17 @@
+{
+  "name": "product-details",
+  "version": "1.0.0",
+  "description": "Product Details component",
+  "main": "productDetails.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17",
+    "axios": "0.18.0",
+    "react-emotion": "9.2.10",
+    "react-modal": "3.6.1"
+  }
+}

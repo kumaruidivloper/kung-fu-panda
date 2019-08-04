@@ -1,0 +1,146 @@
+{
+  "data": {
+    "queryWishlist": {
+      "recordSetTotal": "4",
+      "resourceId": "http://uat6int.academy.com:80/wcs/resources/store/10151/wishlist/@self?responseFormat=json",
+      "recordSetCount": "4",
+      "recordSetComplete": "true",
+      "recordSetStartNumber": "0",
+      "GiftList": [
+        {
+          "storeName": "Alex's soccer team",
+          "createdTime": "2018-07-20T18:12:07.409Z",
+          "location": "online",
+          "storeOwnerID": "50508",
+          "lastUpdate": "2018-07-20T18:12:07.409Z",
+          "state": "Default",
+          "uniqueID": "50508",
+          "optForEmail": "false",
+          "descriptionName": "Alex's soccer team",
+          "giftCardAccepted": "false",
+          "accessSpecifier": "Private",
+          "event": "WishList",
+          "description": "Alex's soccer team",
+          "item": [
+            {
+              "itemLastUpdate": "2018-07-20T18:12:07.415Z",
+              "giftListItemID": "41508",
+              "location": "online",
+              "quantityRequested": "1.0",
+              "itemCreatedTime": "2018-07-20T18:12:07.415Z",
+              "productOwnerID": "7000000000000000051",
+              "quantityBought": "0.0",
+              "productId": "5058504",
+              "partNumber": "112571529"
+            }
+          ],
+          "registryAccessKey": "-3858b181:164b83dcd48:-7e22",
+          "guestAccessKey": "-3858b181:164b83dcd48:-7e23",
+          "externalIdentifier": "50508",
+          "registry": "false",
+          "storeId": "10151"
+        },
+        {
+          "storeName": "I want it badly",
+          "createdTime": "2018-07-20T18:11:47.277Z",
+          "location": "online",
+          "storeOwnerID": "50507",
+          "lastUpdate": "2018-07-20T18:11:47.277Z",
+          "state": "Active",
+          "uniqueID": "50507",
+          "optForEmail": "false",
+          "descriptionName": "I want it badly",
+          "giftCardAccepted": "false",
+          "accessSpecifier": "Private",
+          "event": "WishList",
+          "description": "I want it badly",
+          "item": [
+            {
+              "itemLastUpdate": "2018-07-20T18:11:47.283Z",
+              "giftListItemID": "41507",
+              "location": "online",
+              "quantityRequested": "1.0",
+              "itemCreatedTime": "2018-07-20T18:11:47.283Z",
+              "productOwnerID": "7000000000000000051",
+              "quantityBought": "0.0",
+              "productId": "5058504",
+              "partNumber": "112571529"
+            }
+          ],
+          "registryAccessKey": "-3858b181:164b83dcd48:-7e24",
+          "guestAccessKey": "-3858b181:164b83dcd48:-7e25",
+          "externalIdentifier": "50507",
+          "registry": "false",
+          "storeId": "10151"
+        },
+        {
+          "storeName": "Sunday Funday",
+          "createdTime": "2018-07-20T18:11:31.765Z",
+          "location": "online",
+          "storeOwnerID": "50506",
+          "lastUpdate": "2018-07-20T18:11:31.765Z",
+          "state": "Active",
+          "uniqueID": "50506",
+          "optForEmail": "false",
+          "descriptionName": "Sunday Funday",
+          "giftCardAccepted": "false",
+          "accessSpecifier": "Private",
+          "event": "WishList",
+          "description": "Sunday Funday",
+          "item": [
+            {
+              "itemLastUpdate": "2018-07-20T18:11:31.771Z",
+              "giftListItemID": "41506",
+              "location": "online",
+              "quantityRequested": "1.0",
+              "itemCreatedTime": "2018-07-20T18:11:31.771Z",
+              "productOwnerID": "7000000000000000051",
+              "quantityBought": "0.0",
+              "productId": "5058504",
+              "partNumber": "112571529"
+            }
+          ],
+          "registryAccessKey": "-3858b181:164b83dcd48:-7e26",
+          "guestAccessKey": "-3858b181:164b83dcd48:-7e27",
+          "externalIdentifier": "50506",
+          "registry": "false",
+          "storeId": "10151"
+        },
+        {
+          "storeName": "Will One",
+          "createdTime": "2018-07-20T18:05:25.181Z",
+          "location": "online",
+          "storeOwnerID": "50505",
+          "lastUpdate": "2018-07-20T18:05:25.181Z",
+          "state": "Active",
+          "uniqueID": "50505",
+          "optForEmail": "false",
+          "descriptionName": "Will One",
+          "giftCardAccepted": "false",
+          "accessSpecifier": "Private",
+          "event": "WishList",
+          "description": "Will One",
+          "item": [
+            {
+              "itemLastUpdate": "2018-07-20T18:05:25.189Z",
+              "giftListItemID": "41505",
+              "location": "online",
+              "quantityRequested": "1.0",
+              "itemCreatedTime": "2018-07-20T18:05:25.189Z",
+              "productOwnerID": "7000000000000000051",
+              "quantityBought": "0.0",
+              "productId": "5058504",
+              "partNumber": "112571529"
+            }
+          ],
+          "registryAccessKey": "-3858b181:164b83dcd48:-7e68",
+          "guestAccessKey": "-3858b181:164b83dcd48:-7e69",
+          "externalIdentifier": "50505",
+          "registry": "false",
+          "storeId": "10151"
+        }
+      ],
+      "resourceName": "wishlist"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wishlist-landing",
+  "version": "1.0.0",
+  "description": "Wishlist Landing component",
+  "main": "wishlistLanding.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

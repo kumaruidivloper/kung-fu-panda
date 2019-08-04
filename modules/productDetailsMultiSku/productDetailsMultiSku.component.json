@@ -1,0 +1,3153 @@
+{
+  "title": "Product Details Multi Sku",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": { "isAuthoring": "N" },
+      "api": {
+        "inventory": {
+          "online": [
+            {
+              "bundleId": "5104004",
+              "products": [
+                {
+                  "productId": "4610096",
+                  "availability": [
+                    {
+                      "skuId": "4610097",
+                      "availableQuantity": "776.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610098",
+                      "availableQuantity": "712.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610099",
+                      "availableQuantity": "748.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610100",
+                      "availableQuantity": "459.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610101",
+                      "availableQuantity": "833.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610102",
+                      "availableQuantity": "388.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610103",
+                      "availableQuantity": "829.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610104",
+                      "availableQuantity": "369.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610105",
+                      "availableQuantity": "729.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610106",
+                      "availableQuantity": "512.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610107",
+                      "availableQuantity": "800.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610108",
+                      "availableQuantity": "589.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610109",
+                      "availableQuantity": "751.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610110",
+                      "availableQuantity": "555.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "4610111",
+                      "availableQuantity": "781.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    }
+                  ]
+                },
+                {
+                  "productId": "5022084",
+                  "availability": [
+                    {
+                      "skuId": "5022085",
+                      "availableQuantity": "11407.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5022086",
+                      "availableQuantity": "5264.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5042514",
+                      "availableQuantity": "3043.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5042515",
+                      "availableQuantity": "7048.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    }
+                  ]
+                },
+                {
+                  "productId": "5117001",
+                  "availability": [
+                    {
+                      "skuId": "5117002",
+                      "availableQuantity": "520.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5117003",
+                      "availableQuantity": "331.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5117004",
+                      "availableQuantity": "1406.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5117005",
+                      "availableQuantity": "990.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5117006",
+                      "availableQuantity": "731.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5135027",
+                      "availableQuantity": "940.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5135028",
+                      "availableQuantity": "256.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5135029",
+                      "availableQuantity": "130.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5135030",
+                      "availableQuantity": "183.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    },
+                    {
+                      "skuId": "5135031",
+                      "availableQuantity": "317.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                        "onlineDeliveryMessage": {
+                          "value": "In Stock Online",
+                          "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                          "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                          "key": "IN_STOCK_ONLINE"
+                        },
+                        "storeDeliveryMessage": { "value": "Sold In Stores", "key": "SOLD_IN_STORE" }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": "null"
+                    }
+                  ]
+                }
+              ],
+              "availabilityDate": "null"
+            }
+          ]
+        },
+        "product-info": {
+          "productinfo": {
+            "name": "Brava Pink Soccer Package",
+            "id": "5104004",
+            "ppuEnabled": false,
+            "shortDescription": "The Brava Soccer Package is a perfect way to start your child off in their soccer career",
+            "longDescription": "There are color options below for each piece of the bundle.<br/><br/>*Add quantities to each selection before clicking the Add to Cart button",
+            "sellable": "true",
+            "multiMediaSetName": "scene 7",
+            "bundleSpecifications": [
+              {
+                "bundleStepsLabels": { "value": ["1.CHOOSE YOUR KICKS", "2.PROTECT YOUR LEGES", "3.SCORE A GOOOOAL"], "key": "Bundle Steps Labels" }
+              },
+              { "bundleVideoLabel": { "value": "See In Action", "key": "Bundle Video Label" } },
+              { "bundleProductDisclaimer": { "value": "These items may ship separately", "key": "Bundle Product Disclaimer" } },
+              {
+                "bundleDetailsSpecs": {
+                  "value": "<p>Get everything your soccer player needs this season with the Brava Soccer Package - complete with cleats, shin guards and ball.</p><p> Select size and color for each product before clicking the Add to Cart button.Get everything your soccer player needs this season with the adidas Soccer Package - complete with cleats, shin guards and ball.</p>",
+                  "key": "Bundle Details Specs"
+                }
+              },
+              {
+                "bundleVideoURL": {
+                  "value": "http://s7d2.scene7.com/is/content/academy/6CKPOZQ6_480x270_691_h264_aac_migrated_original.mp4",
+                  "key": "Bundle Video URL"
+                }
+              }
+            ],
+            "bundletype": "bundle",
+            "varianttype": "bundle",
+            "manufacturer": "Brava",
+            "isSingleSkuProduct": false,
+            "partNumber": "201400825B",
+            "seoURL": "/shop/pdp/brava-pink-soccer-package-201400825b",
+            "parentCategoryURL": "/browse/sports/soccer/youth-soccer-packages",
+            "fullImage": "http://content.academy.com/aurora/category/2018/sports/soccer/Brava-Pink.jpg?is=500,500",
+            "thumbnail": "http://content.academy.com/aurora/category/2018/sports/soccer/Brava-Pink.jpg?is=500,500",
+            "imageAltDescription": "Brava Pink Soccer Package",
+            "promoMessage": "Buy one Get one",
+            "productSpecifications": [
+              {
+                "featureBenefits": {
+                  "value": [
+                    "Get everything your soccer player needs this season with the Brava Soccer Package - complete with cleats, shin guards and ball.",
+                    "Select size and color for each product before clicking the Add to Cart button."
+                  ],
+                  "key": "Features and Benefits"
+                }
+              }
+            ],
+            "productAttributes": [
+              {
+                "storeDisplay": false,
+                "groupName": "bundleStepsLabels",
+                "uniqueID": "128822",
+                "attrSequence": 0,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [
+                  {
+                    "sequence": ".00000",
+                    "value": "1.CHOOSE YOUR KICKS,2.PROTECT YOUR LEGES,3.SCORE A GOOOOAL",
+                    "uniqueID": "6528127",
+                    "identifier": "6528127"
+                  }
+                ],
+                "sequence": ".00000",
+                "name": "Bundle Steps Labels",
+                "usage": "Descriptive",
+                "identifier": "bundleStepsLabels",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "bundleVideoLabel",
+                "uniqueID": "128823",
+                "attrSequence": 0,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [{ "sequence": ".00000", "value": "See In Action", "uniqueID": "6528128", "identifier": "6528128" }],
+                "sequence": ".00000",
+                "name": "Bundle Video Label",
+                "usage": "Descriptive",
+                "identifier": "bundleVideoLabel",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "attribute_bundleType",
+                "uniqueID": "129326",
+                "attrSequence": 0,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [{ "sequence": ".00000", "value": "bundle", "uniqueID": "6528619", "identifier": "bundle" }],
+                "sequence": ".00000",
+                "name": "bundleType",
+                "usage": "Descriptive",
+                "identifier": "bundleType",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "bundleProductDisclaimer",
+                "uniqueID": "128821",
+                "attrSequence": 0,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [{ "sequence": ".00000", "value": "These items may ship separately", "uniqueID": "6528126", "identifier": "6528126" }],
+                "sequence": ".00000",
+                "name": "Bundle Product Disclaimer",
+                "usage": "Descriptive",
+                "identifier": "bundleProductDisclaimer",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "bundleDetailsSpecs",
+                "uniqueID": "128825",
+                "attrSequence": 0,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [
+                  {
+                    "sequence": ".00000",
+                    "value": "<p>Get everything your soccer player needs this season with the Brava Soccer Package - complete with cleats, shin guards and ball.</p><p> Select size and color for each product before clicking the Add to Cart button.Get everything your soccer player needs this season with the adidas Soccer Package - complete with cleats, shin guards and ball.</p>",
+                    "uniqueID": "6528131",
+                    "identifier": "6528131"
+                  }
+                ],
+                "sequence": ".00000",
+                "name": "Bundle Details Specs",
+                "usage": "Descriptive",
+                "identifier": "bundleDetailsSpecs",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "promoMessage",
+                "uniqueID": "128827",
+                "attrSequence": 0,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [{ "sequence": ".00000", "value": "Buy one Get one", "uniqueID": "6528130", "identifier": "6528130" }],
+                "sequence": ".00000",
+                "name": "Promotion Message",
+                "usage": "Descriptive",
+                "identifier": "promoMessage",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "bundleVideoURL",
+                "uniqueID": "128824",
+                "attrSequence": 0,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [
+                  {
+                    "sequence": ".00000",
+                    "value": "http://s7d2.scene7.com/is/content/academy/6CKPOZQ6_480x270_691_h264_aac_migrated_original.mp4",
+                    "uniqueID": "6528129",
+                    "identifier": "6528129"
+                  }
+                ],
+                "sequence": ".00000",
+                "name": "Bundle Video URL",
+                "usage": "Descriptive",
+                "identifier": "bundleVideoURL",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "attribtue_variantType",
+                "uniqueID": "129325",
+                "attrSequence": 0,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [{ "sequence": ".00000", "value": "bundle", "uniqueID": "6528615", "identifier": "bundle" }],
+                "sequence": ".00000",
+                "name": "variantType",
+                "usage": "Descriptive",
+                "identifier": "variantType",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "multiMediaSetName",
+                "uniqueID": "128826",
+                "attrSequence": 0,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [{ "sequence": ".00000", "value": "scene 7", "uniqueID": "6528145", "identifier": "6528145" }],
+                "sequence": ".00000",
+                "name": "Multimedia Set Name",
+                "usage": "Descriptive",
+                "identifier": "multiMediaSetName",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "featurebenefit1",
+                "uniqueID": "1208",
+                "attrSequence": 200,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [
+                  {
+                    "sequence": ".00000",
+                    "value": "Get everything your soccer player needs this season with the Brava Soccer Package - complete with cleats, shin guards and ball.",
+                    "uniqueID": "5909608",
+                    "identifier": "5909608"
+                  }
+                ],
+                "sequence": ".00000",
+                "name": "featureBenefit1",
+                "usage": "Descriptive",
+                "identifier": "featureBenefit1",
+                "searchable": true
+              },
+              {
+                "storeDisplay": false,
+                "groupName": "featurebenefit2",
+                "uniqueID": "1209",
+                "attrSequence": 200,
+                "comparable": false,
+                "displayable": true,
+                "facetable": false,
+                "values": [
+                  {
+                    "sequence": ".00000",
+                    "value": "Select size and color for each product before clicking the Add to Cart button.",
+                    "uniqueID": "5909609",
+                    "identifier": "5909609"
+                  }
+                ],
+                "sequence": ".00000",
+                "name": "featureBenefit2",
+                "usage": "Descriptive",
+                "identifier": "featureBenefit2",
+                "searchable": true
+              }
+            ],
+            "productAttributeGroups": [],
+            "productPrice": { "salePrice": "24.97", "priceMessage": "", "savings": "", "listPrice": "24.97" },
+            "components": [
+              {
+                "productDetails": {
+                  "startdate_flag": "Y",
+                  "hasSingleSKU": false,
+                  "startDate": "Tue May 02 14:54:53 CDT 2017",
+                  "rep_catid_price": "11.99",
+                  "color_count": "1",
+                  "map_flag": "N",
+                  "categoryId": "17902",
+                  "varianttype": "regular",
+                  "catalogEntryTypeCode": "ProductBean",
+                  "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                  "map_price": "0.0",
+                  "ecom_code_desc": "01 SELL ONLINE",
+                  "productSpecifications": [
+                    {
+                      "featureBenefits": {
+                        "value": [
+                          "Lace up for an adjustable, tight fit",
+                          "Cushioned EVA footbeds",
+                          "Made from synthetic PU uppers",
+                          "Rubber outsoles for excellent traction"
+                        ],
+                        "key": "Features and Benefits"
+                      }
+                    },
+                    {
+                      "specifications": {
+                        "value": {
+                          "Activity": "Soccer",
+                          "Product weight (lb./pair)": "1",
+                          "Gender": "Girls'",
+                          "Material": "Man-made Materials",
+                          "Style": "Lace Up"
+                        },
+                        "key": "Specifications"
+                      }
+                    },
+                    { "What's in the Box": { "value": ["Brava Soccer Girls' Racer Cleats"], "key": "What's in the Box" } },
+                    {
+                      "legalDisclaimer": {
+                        "value": [
+                          "Proposition 65 warning for California residents: WARNING - This product contains one or more chemicals known to the State of California to cause cancer and birth defects or other reproductive harm."
+                        ],
+                        "key": "legalDisclaimer"
+                      }
+                    }
+                  ],
+                  "fullImage": "//assets.academy.com/mgen/94/10816694.jpg",
+                  "attributeGroups": ["Color", "Shoe Size", "Shoe Width"],
+                  "resourceId": "http://usolr400.academy.com:3737/search/resources/store/10151/productview/byId/4610096",
+                  "xfullimage": "//assets.academy.com/mgen/94/10816694.jpg",
+                  "seo_token_ntk": "brava-soccer-girls-racer-cleats#repChildCatid=4610098",
+                  "imageAltDesc": "Brava Soccer Girls' Racer Cleats",
+                  "productAttrGroups": [
+                    {
+                      "Color": [
+                        {
+                          "id": "5297660",
+                          "sequence": ".00000",
+                          "value": "Patent Black/Passion Pink",
+                          "nextAvailableDiff": [
+                            { "ids": ["3904"], "key": "Shoe Width" },
+                            {
+                              "ids": [
+                                "3907",
+                                "3940",
+                                "3935",
+                                "3926",
+                                "3957",
+                                "3917",
+                                "3950",
+                                "4876",
+                                "4883",
+                                "6088",
+                                "4071",
+                                "4060",
+                                "4076",
+                                "4011",
+                                "3947"
+                              ],
+                              "key": "Shoe Size"
+                            }
+                          ],
+                          "imageURL": "//assets.academy.com/mgen/94/10816694.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "Shoe Size": [
+                        {
+                          "id": "3935",
+                          "sequence": "1.00000",
+                          "value": "1",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "3926",
+                          "sequence": "1.50000",
+                          "value": "1.5",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "4011",
+                          "sequence": "10.00000",
+                          "value": "10",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "3947",
+                          "sequence": "11.00000",
+                          "value": "11",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "3907",
+                          "sequence": "12.00000",
+                          "value": "12",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "3940",
+                          "sequence": "13.00000",
+                          "value": "13",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "3957",
+                          "sequence": "2.00000",
+                          "value": "2",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "3917",
+                          "sequence": "2.50000",
+                          "value": "2.5",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "3950",
+                          "sequence": "3.00000",
+                          "value": "3",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "4876",
+                          "sequence": "3.50000",
+                          "value": "3.5",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "4883",
+                          "sequence": "4.00000",
+                          "value": "4",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "6088",
+                          "sequence": "4.50000",
+                          "value": "4.5",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "4071",
+                          "sequence": "5.00000",
+                          "value": "5",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "4060",
+                          "sequence": "5.50000",
+                          "value": "5.5",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        },
+                        {
+                          "id": "4076",
+                          "sequence": "6.00000",
+                          "value": "6",
+                          "nextAvailableDiff": [{ "ids": ["3904"], "key": "Shoe Width" }, { "ids": ["5297660"], "key": "Color" }]
+                        }
+                      ]
+                    },
+                    {
+                      "Shoe Width": [
+                        {
+                          "id": "3904",
+                          "sequence": "1.40000",
+                          "value": "D",
+                          "nextAvailableDiff": [
+                            {
+                              "ids": [
+                                "3907",
+                                "3940",
+                                "3935",
+                                "3926",
+                                "3957",
+                                "3917",
+                                "3950",
+                                "4876",
+                                "4883",
+                                "6088",
+                                "4071",
+                                "4060",
+                                "4076",
+                                "4011",
+                                "3947"
+                              ],
+                              "key": "Shoe Size"
+                            },
+                            { "ids": ["5297660"], "key": "Color" }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "name": "Brava Soccer Girls' Racer Cleats",
+                  "longDescription": "Both the construction of the Brava Soccer Girls' Racer Cleats and the sporty, feminine look make this a cleat she'll be excited to wear. Out on the field, the rubber outsoles offer traction, while the EVA footbeds provide proper cushioning. The uppers are made from a synthetic PU material, and the cleats lace up for a tight fit.",
+                  "storeID": "10051",
+                  "numberOfSKUs": 15,
+                  "wg_flag": "N",
+                  "partNumber": "111956021",
+                  "min_product_price": "11.99",
+                  "isGiftCard": "N",
+                  "uniqueID": "4610096",
+                  "bv_rating": "5",
+                  "catalogGroupID": [
+                    "10051_17902",
+                    "10051_15671",
+                    "10051_15663",
+                    "10051_15645",
+                    "10051_16231",
+                    "10051_15743",
+                    "10051_220432",
+                    "10051_155218",
+                    "10051_15645",
+                    "10051_239148",
+                    "10051_15645",
+                    "10051_239541",
+                    "10051_15663",
+                    "10001_151217",
+                    "10001_150809",
+                    "10001_150720",
+                    "10051_239560",
+                    "10051_239552",
+                    "10051_215931",
+                    "10051_197936",
+                    "10051_239561",
+                    "10051_215931",
+                    "10051_197936"
+                  ],
+                  "attrCombinationGroups": {
+                    "4610097": "3904_3907_5297660",
+                    "4610098": "3904_3940_5297660",
+                    "4610099": "3904_3935_5297660",
+                    "4610100": "3904_3926_5297660",
+                    "4610101": "3904_3957_5297660",
+                    "4610102": "3904_3917_5297660",
+                    "4610103": "3904_3950_5297660",
+                    "4610104": "3904_4876_5297660",
+                    "4610105": "3904_4883_5297660",
+                    "4610106": "3904_6088_5297660",
+                    "4610107": "3904_4071_5297660",
+                    "4610108": "3904_4060_5297660",
+                    "4610109": "3904_4076_5297660",
+                    "4610110": "3904_4011_5297660",
+                    "4610111": "3904_3947_5297660"
+                  },
+                  "rep_child_catid": "4610098",
+                  "productMessage": [
+                    {
+                      "value": "You must be 18 or older to purchase Rifle or Shotgun Ammunition and 21 or older to purchase Handgun Ammunition. By ordering this product, you certify that you are of legal age and satisfy your jurisdiction's legal requirements to purchase this product.",
+                      "key": "hazmat"
+                    }
+                  ],
+                  "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                  "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                  "shortDescription": "The Brava Soccer Girls' Racer Cleats are made with comfortable EVA footbeds and rubber outsoles for traction.",
+                  "manufacturer": "Brava Soccer",
+                  "attributes": [
+                    { "value": "2", "usage": "Descriptive", "uniqueID": "35313", "key": "Tran_level" },
+                    { "value": "1", "usage": "Descriptive", "uniqueID": "18760", "key": "Product weight (lb./pair)" },
+                    { "value": "regular", "usage": "Descriptive", "uniqueID": "129325", "key": "variantType" },
+                    { "value": "ALL COLOR", "usage": "Descriptive", "uniqueID": "35314", "key": "Diff1" },
+                    { "value": "208", "usage": "Descriptive", "uniqueID": "35323", "key": "specificationNodeID" },
+                    { "value": "Brava G Racer", "usage": "Descriptive", "uniqueID": "35320", "key": "ipItemDescription" },
+                    { "value": "FWWIDTH", "usage": "Descriptive", "uniqueID": "35316", "key": "Diff3" },
+                    { "value": "FW ALL", "usage": "Descriptive", "uniqueID": "35315", "key": "Diff2" },
+                    { "value": "MP7BXDUT", "usage": "Descriptive", "uniqueID": "37313", "key": "invodo360PodId" },
+                    { "value": "Man-made Materials", "usage": "Descriptive", "uniqueID": "18738", "key": "Material" },
+                    { "value": "21702", "usage": "Descriptive", "uniqueID": "35322", "key": "primaryCategoryNodeID" },
+                    { "value": "Patent Black/Passion Pink", "usage": "Defining", "uniqueID": "3707", "key": "Color" },
+                    { "value": "3", "usage": "Descriptive", "uniqueID": "9701", "key": "reviewcount" },
+                    { "value": "5", "usage": "Descriptive", "uniqueID": "9700", "key": "rating" },
+                    { "value": "Girls'", "usage": "Descriptive", "uniqueID": "18737", "key": "Gender" },
+                    { "value": "13", "usage": "Defining", "uniqueID": "3728", "key": "Shoe Size" },
+                    { "value": "D", "usage": "Defining", "uniqueID": "3729", "key": "Shoe Width" },
+                    { "value": "Soccer", "usage": "Descriptive", "uniqueID": "18719", "key": "Activity" },
+                    { "value": "Lace Up", "usage": "Descriptive", "uniqueID": "18718", "key": "Style" },
+                    { "value": "00", "usage": "Descriptive", "uniqueID": "3701", "key": "hazmat" },
+                    { "value": "https://assets.academy.com/mgen/50/20068150.pdf", "usage": "Descriptive", "uniqueID": "3706", "key": "sizeChartURL" },
+                    { "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD", "usage": "Descriptive", "uniqueID": "1202", "key": "vendorName" },
+                    { "value": "47051", "usage": "Descriptive", "uniqueID": "1201", "key": "vendor" },
+                    { "value": "Lace up for an adjustable, tight fit", "usage": "Descriptive", "uniqueID": "1211", "key": "featureBenefit4" },
+                    { "value": "Brava Soccer Girls' Racer Cleats", "usage": "Descriptive", "uniqueID": "1205", "key": "whatIncluded1" },
+                    {
+                      "value": "Proposition 65 warning for California residents: WARNING - This product contains one or more chemicals known to the State of California to cause cancer and birth defects or other reproductive harm.",
+                      "usage": "Descriptive",
+                      "uniqueID": "1212",
+                      "key": "legalDisclaimer1"
+                    },
+                    { "value": "Cushioned EVA footbeds", "usage": "Descriptive", "uniqueID": "1209", "key": "featureBenefit2" },
+                    { "value": "Made from synthetic PU uppers", "usage": "Descriptive", "uniqueID": "1208", "key": "featureBenefit1" },
+                    { "value": "Rubber outsoles for excellent traction", "usage": "Descriptive", "uniqueID": "1210", "key": "featureBenefit3" }
+                  ],
+                  "sKUs": [
+                    {
+                      "itemId": "111956056",
+                      "skuId": "4610097",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "12.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "3907"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW12", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "12", "sequence": "12.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430185", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956072",
+                      "skuId": "4610098",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "13.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "3940"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW13", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "13", "sequence": "13.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430208", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956099",
+                      "skuId": "4610099",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "1.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "3935"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW1", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "1", "sequence": "1.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430222", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956101",
+                      "skuId": "4610100",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "1.50000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "3926"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW1.5", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "1.5", "sequence": "1.50000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430239", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956110",
+                      "skuId": "4610101",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "2.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "3957"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW2", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "2", "sequence": "2.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430246", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956128",
+                      "skuId": "4610102",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "2.50000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "3917"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW2.5", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "2.5", "sequence": "2.50000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430253", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956136",
+                      "skuId": "4610103",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "3.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "3950"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW3", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "3", "sequence": "3.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430260", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956144",
+                      "skuId": "4610104",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "3.50000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "4876"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW3.5", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "3.5", "sequence": "3.50000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430277", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956152",
+                      "skuId": "4610105",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "4.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "4883"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW4", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "4", "sequence": "4.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430284", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956161",
+                      "skuId": "4610106",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "4.50000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "6088"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW4.5", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "4.5", "sequence": "4.50000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430291", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956179",
+                      "skuId": "4610107",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "5.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "4071"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW5", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "5", "sequence": "5.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430307", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956187",
+                      "skuId": "4610108",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "5.50000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "4060"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW5.5", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "5.5", "sequence": "5.50000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430314", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956195",
+                      "skuId": "4610109",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "6.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "4076"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW6", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "6", "sequence": "6.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430321", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "112071604",
+                      "skuId": "4610110",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "10.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "4011"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW10", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "10", "sequence": "10.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430338", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "111956030",
+                      "skuId": "4610111",
+                      "imageURL": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/94/10816694.jpg",
+                      "sellable": "true",
+                      "alternateImages": [
+                        "//assets.academy.com/mgen/95/10816695.jpg",
+                        "//assets.academy.com/mgen/96/10816696.jpg",
+                        "//assets.academy.com/mgen/97/10816697.jpg",
+                        "//assets.academy.com/mgen/98/10816698.jpg"
+                      ],
+                      "skuResolvingAttrIdentifiers": {
+                        "Shoe Width": "3904",
+                        "sequenceShoe Size": "11.00000",
+                        "sequenceColor": ".00000",
+                        "sequenceShoe Width": "1.40000",
+                        "Color": "5297660",
+                        "Shoe Size": "3947"
+                      },
+                      "price": { "offerPrice": "11.99", "priceMessage": "", "savings": "", "regularPrice": "11.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35316", "name": "Diff3", "usage": "Descriptive", "value": "WIDTHD", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "FW11", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLKBTPNK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Patent Black/Passion Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Black", "sequence": ".00000" },
+                        {
+                          "uniqueID": "3201",
+                          "name": "image_2",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/95/10816695.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3728", "name": "Shoe Size", "usage": "Defining", "value": "11", "sequence": "11.00000" },
+                        {
+                          "uniqueID": "3724",
+                          "name": "image_3",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/96/10816696.jpg",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3729", "name": "Shoe Width", "usage": "Defining", "value": "D", "sequence": "1.40000" },
+                        {
+                          "uniqueID": "3725",
+                          "name": "image_4",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/97/10816697.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "3726",
+                          "name": "image_5",
+                          "usage": "Descriptive",
+                          "value": "//assets.academy.com/mgen/98/10816698.jpg",
+                          "sequence": ".00000"
+                        },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "XIAMEN C AND D LIGHT INDUSTRY CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001430352", "sequence": ".00000" },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "47051", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_151217", "10051_17902", "10051_239560", "10051_239561"],
+                      "map_price": "0.0",
+                      "xoffertype": "REGPC"
+                    }
+                  ],
+                  "adbug": "11.99"
+                }
+              },
+              {
+                "productDetails": {
+                  "startdate_flag": "Y",
+                  "hasSingleSKU": false,
+                  "startDate": "Wed Dec 27 15:32:30 CST 2017",
+                  "rep_catid_price": "7.99",
+                  "color_count": "2",
+                  "map_flag": "N",
+                  "categoryId": "16235",
+                  "varianttype": "regular",
+                  "catalogEntryTypeCode": "ProductBean",
+                  "parentCatalogGroupID": ["10001_180333", "10051_16235", "10051_239550"],
+                  "ecom_code_desc": "01 SELL ONLINE",
+                  "productSpecifications": [
+                    {
+                      "featureBenefits": {
+                        "value": [
+                          "Butyl bladder and core promote lasting air retention",
+                          "Soft-touch cover made with TPU and a TPE foam finish withstands aggressive training",
+                          "Bold colors and graphics help keep the ball visible",
+                          "Double reverse-stitch seams guard against wear",
+                          "Suitable for ages 3 - 12 years"
+                        ],
+                        "key": "Features and Benefits"
+                      }
+                    },
+                    { "What's in the Box": { "value": ["Brava Soccer Youth Package Soccer Ball"], "key": "What's in the Box" } }
+                  ],
+                  "fullImage": "//assets.academy.com/mgen/75/20046275.jpg",
+                  "attributeGroups": ["Color", "Ball Size"],
+                  "resourceId": "http://usolr400.academy.com:3737/search/resources/store/10151/productview/byId/5022084",
+                  "xfullimage": "//assets.academy.com/mgen/75/20046275.jpg",
+                  "seo_token_ntk": "brava-soccer-youth-package-soccer-ball#repChildCatid=5022086",
+                  "imageAltDesc": "Brava Soccer Youth Package Soccer Ball",
+                  "productAttrGroups": [
+                    {
+                      "Color": [
+                        {
+                          "id": "3782",
+                          "sequence": ".00000",
+                          "value": "Blue",
+                          "nextAvailableDiff": [{ "ids": ["25972", "42022"], "key": "Ball Size" }],
+                          "imageURL": "//assets.academy.com/mgen/74/20046274.jpg"
+                        },
+                        {
+                          "id": "2519639",
+                          "sequence": ".00000",
+                          "value": "Pink",
+                          "nextAvailableDiff": [{ "ids": ["25972", "42022"], "key": "Ball Size" }],
+                          "imageURL": "//assets.academy.com/mgen/75/20046275.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "Ball Size": [
+                        {
+                          "id": "25972",
+                          "sequence": "3.00000",
+                          "value": "#4",
+                          "nextAvailableDiff": [{ "ids": ["3782", "2519639"], "key": "Color" }]
+                        },
+                        { "id": "42022", "sequence": "3.00000", "value": "#3", "nextAvailableDiff": [{ "ids": ["2519639", "3782"], "key": "Color" }] }
+                      ]
+                    }
+                  ],
+                  "name": "Brava Soccer Youth Package Soccer Ball",
+                  "longDescription": "Stay on top of your best moves with the Brava Soccer Youth Package Soccer Ball. Made for training, this soccer ball retains air well within its butyl bladder and offers a soft-touch cover with colorful graphics that's tough enough to withstand the rigors of training and is highly visible.",
+                  "storeID": "10051",
+                  "numberOfSKUs": 4,
+                  "wg_flag": "N",
+                  "partNumber": "113137302",
+                  "min_product_price": "7.99",
+                  "isGiftCard": "N",
+                  "uniqueID": "5022084",
+                  "bv_rating": "5",
+                  "catalogGroupID": [
+                    "10051_16235",
+                    "10051_15743",
+                    "10051_220432",
+                    "10001_180333",
+                    "10001_150736",
+                    "10001_150719",
+                    "10051_239550",
+                    "10051_3074457345616907168",
+                    "10051_215931",
+                    "10051_197936"
+                  ],
+                  "attrCombinationGroups": {
+                    "5022085": "25972_3782",
+                    "5022086": "25972_2519639",
+                    "5042514": "42022_2519639",
+                    "5042515": "42022_3782"
+                  },
+                  "rep_child_catid": "5022086",
+                  "price": { "offerPrice": "7.99", "priceMessage": "", "savings": "", "regularPrice": "7.99" },
+                  "thumbnail": "//assets.academy.com/mgen/75/20046275.jpg",
+                  "shortDescription": "The Brava Soccer Youth Package Soccer Ball features a soft-touch cover and a highly visible design.",
+                  "manufacturer": "Brava Soccer",
+                  "attributes": [
+                    { "value": "2", "usage": "Descriptive", "uniqueID": "35313", "key": "Tran_level" },
+                    { "value": "11175", "usage": "Descriptive", "uniqueID": "35322", "key": "primaryCategoryNodeID" },
+                    { "value": "regular", "usage": "Descriptive", "uniqueID": "129325", "key": "variantType" },
+                    { "value": "ALL COLOR", "usage": "Descriptive", "uniqueID": "35314", "key": "Diff1" },
+                    { "value": "Brava Yth Package Soccer Ball", "usage": "Descriptive", "uniqueID": "35320", "key": "ipItemDescription" },
+                    { "value": "SPORTBALL", "usage": "Descriptive", "uniqueID": "35315", "key": "Diff2" },
+                    { "value": "223", "usage": "Descriptive", "uniqueID": "35323", "key": "specificationNodeID" },
+                    { "value": "Pink", "usage": "Defining", "uniqueID": "3707", "key": "Color" },
+                    { "value": "1", "usage": "Descriptive", "uniqueID": "9701", "key": "reviewcount" },
+                    { "value": "5", "usage": "Descriptive", "uniqueID": "9700", "key": "rating" },
+                    { "value": "#4", "usage": "Defining", "uniqueID": "3731", "key": "Ball Size" },
+                    {
+                      "value": "Butyl bladder and core promote lasting air retention",
+                      "usage": "Descriptive",
+                      "uniqueID": "1208",
+                      "key": "featureBenefit1"
+                    },
+                    {
+                      "value": "Soft-touch cover made with TPU and a TPE foam finish withstands aggressive training",
+                      "usage": "Descriptive",
+                      "uniqueID": "1209",
+                      "key": "featureBenefit2"
+                    },
+                    {
+                      "value": "Bold colors and graphics help keep the ball visible",
+                      "usage": "Descriptive",
+                      "uniqueID": "1211",
+                      "key": "featureBenefit4"
+                    },
+                    {
+                      "value": "Double reverse-stitch seams guard against wear",
+                      "usage": "Descriptive",
+                      "uniqueID": "1210",
+                      "key": "featureBenefit3"
+                    },
+                    { "value": "DELTA SPORT JSC", "usage": "Descriptive", "uniqueID": "1202", "key": "vendorName" },
+                    { "value": "Brava Soccer Youth Package Soccer Ball", "usage": "Descriptive", "uniqueID": "1205", "key": "whatIncluded1" },
+                    { "value": "41576", "usage": "Descriptive", "uniqueID": "1201", "key": "vendor" },
+                    { "value": "Suitable for ages 3 - 12 years", "usage": "Descriptive", "uniqueID": "3704", "key": "featureBenefit5" }
+                  ],
+                  "sKUs": [
+                    {
+                      "itemId": "113137345",
+                      "skuId": "5022085",
+                      "imageURL": "//assets.academy.com/mgen/74/20046274.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/74/20046274.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": {
+                        "Ball Size": "25972",
+                        "sequenceBall Size": "3.00000",
+                        "sequenceColor": ".00000",
+                        "Color": "3782"
+                      },
+                      "price": { "offerPrice": "7.99", "priceMessage": "", "savings": "", "regularPrice": "7.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "BALL#4", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLUE", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3731", "name": "Ball Size", "usage": "Defining", "value": "#4", "sequence": "3.00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001557387", "sequence": ".00000" },
+                        { "uniqueID": "1202", "name": "vendorName", "usage": "Descriptive", "value": "DELTA SPORT JSC", "sequence": ".00000" },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "41576", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16235", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113137329",
+                      "skuId": "5022086",
+                      "imageURL": "//assets.academy.com/mgen/75/20046275.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/75/20046275.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": {
+                        "Ball Size": "25972",
+                        "sequenceBall Size": "3.00000",
+                        "sequenceColor": ".00000",
+                        "Color": "2519639"
+                      },
+                      "price": { "offerPrice": "7.99", "priceMessage": "", "savings": "", "regularPrice": "7.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "BALL#4", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "PINK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3731", "name": "Ball Size", "usage": "Defining", "value": "#4", "sequence": "3.00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001557400", "sequence": ".00000" },
+                        { "uniqueID": "1202", "name": "vendorName", "usage": "Descriptive", "value": "DELTA SPORT JSC", "sequence": ".00000" },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "41576", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16235", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113137311",
+                      "skuId": "5042514",
+                      "imageURL": "//assets.academy.com/mgen/75/20046275.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/75/20046275.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": {
+                        "Ball Size": "42022",
+                        "sequenceBall Size": "3.00000",
+                        "sequenceColor": ".00000",
+                        "Color": "2519639"
+                      },
+                      "price": { "offerPrice": "7.99", "priceMessage": "", "savings": "", "regularPrice": "7.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "BALL#3", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "PINK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3731", "name": "Ball Size", "usage": "Defining", "value": "#3", "sequence": "3.00000" },
+                        { "uniqueID": "1202", "name": "vendorName", "usage": "Descriptive", "value": "DELTA SPORT JSC", "sequence": ".00000" },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "41576", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001557394", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16235", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113137337",
+                      "skuId": "5042515",
+                      "imageURL": "//assets.academy.com/mgen/74/20046274.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/74/20046274.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": {
+                        "Ball Size": "42022",
+                        "sequenceBall Size": "3.00000",
+                        "sequenceColor": ".00000",
+                        "Color": "3782"
+                      },
+                      "price": { "offerPrice": "7.99", "priceMessage": "", "savings": "", "regularPrice": "7.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLUE", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "BALL#3", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3731", "name": "Ball Size", "usage": "Defining", "value": "#3", "sequence": "3.00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001557417", "sequence": ".00000" },
+                        { "uniqueID": "1202", "name": "vendorName", "usage": "Descriptive", "value": "DELTA SPORT JSC", "sequence": ".00000" },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "41576", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16235", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    }
+                  ],
+                  "adbug": "7.99"
+                }
+              },
+              {
+                "productDetails": {
+                  "startdate_flag": "Y",
+                  "hasSingleSKU": false,
+                  "startDate": "Fri Feb 16 22:42:26 CST 2018",
+                  "rep_catid_price": "4.99",
+                  "color_count": "2",
+                  "map_flag": "N",
+                  "categoryId": "16234",
+                  "varianttype": "regular",
+                  "catalogEntryTypeCode": "ProductBean",
+                  "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                  "ecom_code_desc": "01 SELL ONLINE",
+                  "productSpecifications": [
+                    {
+                      "featureBenefits": {
+                        "value": [
+                          "Elastic straps allow for a secure fit",
+                          "Lightweight polyurethane shell for minimal distractions",
+                          "Ankle guards attach to the shells to help protect you during gameplay",
+                          "Meet industry impact safety standards",
+                          "Padded with EVA foam for a comfortable feel"
+                        ],
+                        "key": "Features and Benefits"
+                      }
+                    },
+                    { "specifications": { "value": { "Gender": "Kids'" }, "key": "Specifications" } },
+                    { "What's in the Box": { "value": ["Brava Soccer Kids' Soccer Shin Guards"], "key": "What's in the Box" } }
+                  ],
+                  "fullImage": "//assets.academy.com/mgen/50/20105450.jpg",
+                  "attributeGroups": ["Color", "Size"],
+                  "resourceId": "http://usolr400.academy.com:3737/search/resources/store/10151/productview/byId/5117001",
+                  "xfullimage": "//assets.academy.com/mgen/50/20105450.jpg",
+                  "seo_token_ntk": "brava-soccer-kids-soccer-shin-guards-113335421#repChildCatid=5135029",
+                  "imageAltDesc": "Brava Soccer Kids' Soccer Shin Guards",
+                  "productAttrGroups": [
+                    {
+                      "Color": [
+                        {
+                          "id": "3782",
+                          "sequence": ".00000",
+                          "value": "Blue",
+                          "nextAvailableDiff": [{ "ids": ["52092", "3851", "3798", "4290", "5153"], "key": "Size" }],
+                          "imageURL": "//assets.academy.com/mgen/43/20088343.jpg"
+                        },
+                        {
+                          "id": "2519639",
+                          "sequence": ".00000",
+                          "value": "Pink",
+                          "nextAvailableDiff": [{ "ids": ["3851", "3798", "4290", "5153", "52092"], "key": "Size" }],
+                          "imageURL": "//assets.academy.com/mgen/50/20105450.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "Size": [
+                        {
+                          "id": "52092",
+                          "sequence": "100.00000",
+                          "value": "XX Small",
+                          "nextAvailableDiff": [{ "ids": ["3782", "2519639"], "key": "Color" }]
+                        },
+                        {
+                          "id": "5153",
+                          "sequence": "103.00000",
+                          "value": "X Small",
+                          "nextAvailableDiff": [{ "ids": ["3782", "2519639"], "key": "Color" }]
+                        },
+                        {
+                          "id": "4290",
+                          "sequence": "104.00000",
+                          "value": "Small",
+                          "nextAvailableDiff": [{ "ids": ["3782", "2519639"], "key": "Color" }]
+                        },
+                        {
+                          "id": "3798",
+                          "sequence": "106.00000",
+                          "value": "Medium",
+                          "nextAvailableDiff": [{ "ids": ["3782", "2519639"], "key": "Color" }]
+                        },
+                        {
+                          "id": "3851",
+                          "sequence": "109.00000",
+                          "value": "Large",
+                          "nextAvailableDiff": [{ "ids": ["3782", "2519639"], "key": "Color" }]
+                        }
+                      ]
+                    }
+                  ],
+                  "name": "Brava Soccer Kids' Soccer Shin Guards",
+                  "longDescription": "Play safe with the Brava Soccer Kids' Soccer Shin Guards. Thanks to the ankle guards and lightweight polyurethane shells, you'll be able to jump into the game with confidence knowing your ankles and shins are protected. The interiors are backed with soft EVA foam padding for comfort, and the elastic straps make it easy to find a secure fit.",
+                  "storeID": "10051",
+                  "numberOfSKUs": 10,
+                  "wg_flag": "N",
+                  "partNumber": "113335421",
+                  "min_product_price": "4.99",
+                  "isGiftCard": "N",
+                  "uniqueID": "5117001",
+                  "catalogGroupID": [
+                    "10051_16234",
+                    "10051_15743",
+                    "10051_220432",
+                    "10001_180333",
+                    "10001_150736",
+                    "10001_150719",
+                    "10051_239550",
+                    "10051_3074457345616907168",
+                    "10051_215931",
+                    "10051_197936"
+                  ],
+                  "attrCombinationGroups": {
+                    "5117002": "52092_3782",
+                    "5117003": "3851_3782",
+                    "5117004": "3798_3782",
+                    "5117005": "4290_3782",
+                    "5117006": "5153_3782",
+                    "5135027": "3851_2519639",
+                    "5135028": "3798_2519639",
+                    "5135029": "4290_2519639",
+                    "5135030": "5153_2519639",
+                    "5135031": "52092_2519639"
+                  },
+                  "rep_child_catid": "5135029",
+                  "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                  "thumbnail": "//assets.academy.com/mgen/50/20105450.jpg",
+                  "shortDescription": "The Brava Soccer Kids' Soccer Shin Guards feature soft EVA foam padding and lightweight shells.",
+                  "manufacturer": "Brava Soccer",
+                  "attributes": [
+                    { "value": "2", "usage": "Descriptive", "uniqueID": "35313", "key": "Tran_level" },
+                    { "value": "regular", "usage": "Descriptive", "uniqueID": "129325", "key": "variantType" },
+                    { "value": "ALL COLOR", "usage": "Descriptive", "uniqueID": "35314", "key": "Diff1" },
+                    { "value": "Brava Package Shin Guards", "usage": "Descriptive", "uniqueID": "35320", "key": "ipItemDescription" },
+                    { "value": "226", "usage": "Descriptive", "uniqueID": "35323", "key": "specificationNodeID" },
+                    { "value": "EXTND SIZE", "usage": "Descriptive", "uniqueID": "35315", "key": "Diff2" },
+                    { "value": "11174", "usage": "Descriptive", "uniqueID": "35322", "key": "primaryCategoryNodeID" },
+                    { "value": "Pink", "usage": "Defining", "uniqueID": "3707", "key": "Color" },
+                    { "value": "Large", "usage": "Defining", "uniqueID": "3717", "key": "Size" },
+                    { "value": "Kids'", "usage": "Descriptive", "uniqueID": "18737", "key": "Gender" },
+                    { "value": "WELLPOWER SPORTING GOODS CO LTD", "usage": "Descriptive", "uniqueID": "1202", "key": "vendorName" },
+                    { "value": "Elastic straps allow for a secure fit", "usage": "Descriptive", "uniqueID": "1211", "key": "featureBenefit4" },
+                    { "value": "46257", "usage": "Descriptive", "uniqueID": "1201", "key": "vendor" },
+                    {
+                      "value": "Lightweight polyurethane shell for minimal distractions",
+                      "usage": "Descriptive",
+                      "uniqueID": "1208",
+                      "key": "featureBenefit1"
+                    },
+                    { "value": "Brava Soccer Kids' Soccer Shin Guards", "usage": "Descriptive", "uniqueID": "1205", "key": "whatIncluded1" },
+                    {
+                      "value": "Ankle guards attach to the shells to help protect you during gameplay",
+                      "usage": "Descriptive",
+                      "uniqueID": "1210",
+                      "key": "featureBenefit3"
+                    },
+                    { "value": "Meet industry impact safety standards", "usage": "Descriptive", "uniqueID": "3704", "key": "featureBenefit5" },
+                    { "value": "Padded with EVA foam for a comfortable feel", "usage": "Descriptive", "uniqueID": "1209", "key": "featureBenefit2" },
+                    { "value": "https://assets.academy.com/mgen/80/20103180.pdf", "usage": "Descriptive", "uniqueID": "3706", "key": "sizeChartURL" }
+                  ],
+                  "sKUs": [
+                    {
+                      "itemId": "113335528",
+                      "skuId": "5117002",
+                      "imageURL": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "100.00000", "sequenceColor": ".00000", "Color": "3782", "Size": "52092" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "XXSMALL", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLUE", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "XX Small", "sequence": "100.00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573608", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113335481",
+                      "skuId": "5117003",
+                      "imageURL": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "109.00000", "sequenceColor": ".00000", "Color": "3782", "Size": "3851" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLUE", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "LARGE", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "Large", "sequence": "109.00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Blue", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573905", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113335499",
+                      "skuId": "5117004",
+                      "imageURL": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "106.00000", "sequenceColor": ".00000", "Color": "3782", "Size": "3798" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLUE", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "MEDIUM", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "Medium", "sequence": "106.00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573912", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113335501",
+                      "skuId": "5117005",
+                      "imageURL": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "104.00000", "sequenceColor": ".00000", "Color": "3782", "Size": "4290" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLUE", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "SMALL", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "Small", "sequence": "104.00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573929", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113335510",
+                      "skuId": "5117006",
+                      "imageURL": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/43/20088343.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "103.00000", "sequenceColor": ".00000", "Color": "3782", "Size": "5153" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "BLUE", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "XSMALL", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Blue", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "X Small", "sequence": "103.00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Blue", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573936", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113335430",
+                      "skuId": "5135027",
+                      "imageURL": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "109.00000", "sequenceColor": ".00000", "Color": "2519639", "Size": "3851" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "LARGE", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "PINK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "Large", "sequence": "109.00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Pink", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573851", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113335448",
+                      "skuId": "5135028",
+                      "imageURL": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "106.00000", "sequenceColor": ".00000", "Color": "2519639", "Size": "3798" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "MEDIUM", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "PINK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "Medium", "sequence": "106.00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Pink", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573868", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113335456",
+                      "skuId": "5135029",
+                      "imageURL": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "104.00000", "sequenceColor": ".00000", "Color": "2519639", "Size": "4290" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "SMALL", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "PINK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "Small", "sequence": "104.00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Pink", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573875", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113335464",
+                      "skuId": "5135030",
+                      "imageURL": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "103.00000", "sequenceColor": ".00000", "Color": "2519639", "Size": "5153" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "PINK", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "XSMALL", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "X Small", "sequence": "103.00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Pink", "sequence": ".00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573882", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    },
+                    {
+                      "itemId": "113335472",
+                      "skuId": "5135031",
+                      "imageURL": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/50/20105450.jpg",
+                      "sellable": "true",
+                      "alternateImages": [],
+                      "skuResolvingAttrIdentifiers": { "sequenceSize": "100.00000", "sequenceColor": ".00000", "Color": "2519639", "Size": "52092" },
+                      "price": { "offerPrice": "4.99", "priceMessage": "", "savings": "", "regularPrice": "4.99" },
+                      "attributes": [
+                        { "uniqueID": "35313", "name": "Tran_level", "usage": "Descriptive", "value": "2", "sequence": ".00000" },
+                        { "uniqueID": "35321", "name": "SafetyStockLevel", "usage": "Descriptive", "value": "1", "sequence": ".00000" },
+                        { "uniqueID": "35318", "name": "isSerialTrackedFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35319", "name": "labelPickFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35317", "name": "shipFromStoreFlag", "usage": "Descriptive", "value": "Y", "sequence": ".00000" },
+                        { "uniqueID": "35315", "name": "Diff2", "usage": "Descriptive", "value": "XXSMALL", "sequence": ".00000" },
+                        { "uniqueID": "81813", "name": "vendorShipRestrictionFlag", "usage": "Descriptive", "value": "N", "sequence": ".00000" },
+                        { "uniqueID": "35314", "name": "Diff1", "usage": "Descriptive", "value": "PINK", "sequence": ".00000" },
+                        { "uniqueID": "3707", "name": "Color", "usage": "Defining", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3716", "name": "Color", "usage": "Descriptive", "value": "Pink", "sequence": ".00000" },
+                        { "uniqueID": "3717", "name": "Size", "usage": "Defining", "value": "XX Small", "sequence": "100.00000" },
+                        {
+                          "uniqueID": "1202",
+                          "name": "vendorName",
+                          "usage": "Descriptive",
+                          "value": "WELLPOWER SPORTING GOODS CO LTD",
+                          "sequence": ".00000"
+                        },
+                        { "uniqueID": "1201", "name": "vendor", "usage": "Descriptive", "value": "46257", "sequence": ".00000" },
+                        { "uniqueID": "3202", "name": "UPCcode", "usage": "Descriptive", "value": "0420001573899", "sequence": ".00000" }
+                      ],
+                      "hasSingleSKU": false,
+                      "map_flag": "N",
+                      "catalogEntryTypeCode": "ItemBean",
+                      "parentCatalogGroupID": ["10001_180333", "10051_16234", "10051_239550"],
+                      "xoffertype": "REGPC"
+                    }
+                  ],
+                  "adbug": "4.99"
+                }
+              }
+            ],
+            "productType": "bundle",
+            "breadCrumb": [
+              { "label": "Academy", "seoURL": "/" },
+              { "value": "220432", "label": "Sports", "seoURL": "/shop/browse/sports" },
+              { "value": "15743", "label": "Soccer", "seoURL": "/shop/browse/sports/soccer" },
+              { "value": "238997", "label": "Youth Soccer Packages", "seoURL": "/shop/browse/sports/soccer/youth-soccer-packages" }
+            ]
+          }
+        }
+      },
+      "labels": {
+        "clearanceStylesAvailable": "Clearance styles available",
+        "colorsAvailable": "Colors Available",
+        "priceInCart": "Our Price in Cart",
+        "compareAt": "Compare at",
+        "specialPrice": "For special pricing Call (888)888-888 ",
+        "itemAddedMessage": "Item added successfully",
+        "dropship": "This item may ship from a different location therefore only eligible for ground shipping. Standard delivery of 10-14 days. Additionally, this item is not eligble for APO/FPO delivery."
+      },
+      "pageInfo": {
+        "template": "bundleMultipleSKUPage",
+        "variantType": "product",
+        "seoURL": "",
+        "pageType": "PDP",
+        "productId": "5104004",
+        "variantValue": "bundle",
+        "parentCatId": null,
+        "id": "5b616a0cc453bc00019d8ea7",
+        "page": "bundle-multi-sku",
+        "bundleType": "bundle",
+        "aemURL": "/content/academy/pages/pdp/bundle-multi-sku.html",
+        "categoryId": "",
+        "pageURL": "/shop/pdp/brava-pink-soccer-package-201400825b"
+      },
+      "isCSR": false,
+      "emotion": [
+        "8atqhb",
+        "1agmewj",
+        "cp28ta",
+        "268cl0",
+        "9nohtn",
+        "1wrklh7",
+        "1gapyfo",
+        "1b3u8yi",
+        "xyqw17",
+        "1xhj18k",
+        "1vh6b7a",
+        "ndn8mp",
+        "6c9g2g",
+        "a2t67h",
+        "1f7v3xc",
+        "1l1a059",
+        "7233l5",
+        "1oecvnb",
+        "wm5wia",
+        "1n8lqiu",
+        "gtki06"
+      ]
+    }
+  }
+}

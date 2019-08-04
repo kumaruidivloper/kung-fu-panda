@@ -1,0 +1,14 @@
+{
+  "name": "address-book",
+  "version": "1.0.0",
+  "description": "Address Book component",
+  "main": "addressBook.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.3"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Clickable Image Component",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "headlineCopy": "Lorem Ipsum",
+        "mobileBackgroundColor": "blue",
+        "textColor": "white",
+        "image": [
+          {
+            "ctaCopy": "Adidas",
+            "ctaLink": "http://www.google.com",
+            "imageAltText": "Adidas",
+            "desktopImage": "/assets/images/demo/brands/adidas/category_adidas.png"
+          },
+          {
+            "ctaCopy": "New Balance",
+            "ctaLink": "http://www.apple.com",
+            "imageAltText": "New Balance",
+            "desktopImage": "/assets/images/demo/brands/newbalance/category_newbalance.png"
+          },
+          {
+            "ctaCopy": "Nike",
+            "ctaLink": "http://www.atlassian.com",
+            "imageAltText": "Nike",
+            "desktopImage": "/assets/images/demo/brands/nike/category_nike.png"
+          },
+          {
+            "ctaCopy": "Reebok",
+            "ctaLink": "http://www.gmail.com",
+            "imageAltText": "Reebok",
+            "desktopImage": "/assets/images/demo/brands/reebok/category_reebok.png"
+          },
+          {
+            "ctaCopy": "Under Armour",
+            "ctaLink": "http://news.ycombinator.com",
+            "imageAltText": "Under Armour",
+            "desktopImage": "/assets/images/demo/brands/underarmour/category_underarmour.png"
+          }
+        ]
+      }
+    }
+  }
+}

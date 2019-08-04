@@ -1,0 +1,11 @@
+{
+  "name": "product-suggestions",
+  "version": "1.0.0",
+  "description": "Product Suggestions component",
+  "main": "productSuggestions.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

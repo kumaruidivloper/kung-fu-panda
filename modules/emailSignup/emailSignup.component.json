@@ -1,0 +1,19 @@
+{
+  "title": "Email Signup",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "signUpHeadline": "GET MORE DEALS!",
+        "signUpBody": "Enter your email below to receive our weekly ad, new store openings, store events and more.",
+        "signUpError": "Please enter valid email address",
+        "emailSubmit": "Submit",
+        "signUpSuccess": "YOU ARE 'SET",
+        "successBody": "Your first deal will be sent to you shortly!",
+        "errorMessage": "We Fumbled",
+        "errorSubText": "Please try again later",
+        "errorAnimation": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9iFifU-SMtWF84BRyxdzDvs1x04tHPsbgzSFGxvX99jMPjes"
+      }
+    }
+  }
+}

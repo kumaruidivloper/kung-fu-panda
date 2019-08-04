@@ -1,0 +1,17 @@
+export const NODE_TO_MOUNT = 'heroImage';
+export const DATA_COMP_ID = 'data-compId';
+export const HERO_IMAGE_3Q = 'three-quarter';
+export const HERO_IMAGE_HALF = 'half';
+export const HERO_IMAGE_QUARTER = 'quarter';
+export const HERO_IMAGE_FULL = 'full';
+export const LEFT = 'left';
+export const RIGHT = 'right';
+export const CENTER = 'center';
+export const LEFT_TOP = 'left top';
+export const LEFT_BOTTOM = 'left bottom';
+export const RIGHT_TOP = 'right top';
+export const RIGHT_BOTTOM = 'right bottom';
+export const CENTER_TOP = 'center top';
+export const CENTER_BOTTOM = 'center bottom';
+export const SHORT_HEADLINE_MAX_LENGTH = 20;
+export const MEDIUM_HEADLINE_MAX_LENGTH = 40;

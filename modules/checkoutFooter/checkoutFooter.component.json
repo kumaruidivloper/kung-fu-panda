@@ -1,0 +1,41 @@
+{
+  "title": "Checkout Footer",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "helpLabel": "Need Help?",
+        "chatNowLabel" : "Chat Now",
+        "contactNumber" : "1-888-922-2236",
+        "commonLabels": {
+          "cardsAccepted": [
+            {
+              "label": "Visa",
+              "url": ""
+            },
+            {
+              "label": "Mastercard",
+              "url": ""
+            }
+          ]
+        },
+        "legalLinks" : [
+          {
+            "label" : "PrivacyPolicy",
+            "url" : "privacyUrl"
+            },
+            {
+            "label" : "Terms & Conditions",
+            "url" : "termsUrl"
+            },
+            {
+            "label" : "California Proposition 65 California Transparency in Supply Chain Act(SB 657)",
+            "url" : "/content/academy"
+            }
+        ],
+        "copyrightText" : "© Academy Sports + Outdoors. All Rights Reserved"
+      }
+    }
+  }
+}

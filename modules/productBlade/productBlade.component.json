@@ -1,0 +1,356 @@
+{
+  "title": "Product Blade",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "itemsLabel": "Items",
+          "totalLabel": "Total",
+          "checkoutLabel": "Checkout",
+          "colorLabel": "Color",
+          "sizeLabel": "Size",
+          "removeLabel": "Remove",
+          "promoCodeLabel": "Promo Code",
+          "promoCodeAddedLabel": "Promo Code {{promocode}} added",
+          "militaryDiscountLabel": "Military Discount",
+          "shipItemsLabel": "Ship Items",
+          "quantityLabel": "Quantity",
+          "inStorePickUpLabel": "In-Store Pickup",
+          "freeLabel": "Free",
+          "addToWishlistLabel": "Add To Wishlist",
+          "removeFromCartLabel": "Remove From Cart",
+          "employeeDiscountLabel": "Employee Discount",
+          "subTotalLabel": "Subtotal",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "estimatedTaxesLabel": "Estimated Taxes",
+          "signInLabel": "Sign In",
+          "continueShoppingLabel": "Continue Shipping",
+          "submitLabel": "Submit",
+          "editLabel": "Edit",
+          "secureLabel": "Secure",
+          "addPromoCodeLabel": "Add Promo Code",
+          "hidePromoCodeLabel": "Hide Promo Code",
+          "shippingLabel": "Shipping",
+          "taxesLabel": "Taxes",
+          "shippingItemsLabel": "Shipping Items",
+          "editMyCartLabel": "Edit My Cart",
+          "placeOrderLabel": "Place Order",
+          "emailAddressLabel": "Email Address",
+          "goToPaymentLabel": "Go To Payment",
+          "doneLabel": "Done",
+          "checkoutWithPaypalLabel": "Paypal",
+          "printLabel": "Print",
+          "orderSummaryLabel": "ORDER SUMMARY"
+        },
+        "successMsg": {
+          "promoCodeAppliedLabel": "Promo Code Applied",
+          "itemRemoveFromCartLabel": "has been removed from cart.",
+          "itemAddedToWishListLabel": "has been added to your wish list."
+        },
+        "errorMsg": {
+          "limitedStock": "We're sorry! Due to limited stock,only part of your ordercan be fulfilled at this time",
+          "outOfStock": "This item is out of stock.Please add it in wish list or remove it from your cart to proceed"
+        },
+        "promotionalMsg": {
+          "itemShipForFreeLabel": "Item Ship For Free",
+          "freeGiftLabel": "Free Gift"
+        },
+        "validationMsg": {
+          "invalidEmailText": "Invalid Email",
+          "combinePaypalMessageText": "On Academy.com we are unable to combine Paypal with creditcards or gift cards."
+        },
+        "yourCartTitle": "YOUR CART",
+        "shopWithConfidenceTitle": "SHOP WITH CONFIDENCE",
+        "howToProceedtitleLabel": "How do you want to Proceed?",
+        "howToProceedSubTitle": "Only {count} available for in-store pickup at this time. See options below.",
+        "tooltipMsg":"Any orders placed on the weekends, holidays, or weekdays after 2PM CST will be processed the following business day. Not all zip codes may be available for expedited shipping.",
+        "shopWithConfidenceSubHeading": "Shop with Academy.com is safe and secure",
+        "freeInStoreReturns": "FREE IN STORE RETURNS",
+        "weAcceptLabel": "WE ACCEPT",
+        "legalLinks": [
+          {
+            "label": "Shipping Policy",
+            "url": "www.google.com"
+          },
+          {
+            "label": "Return Policy",
+            "url": "www.google.com"
+          }
+        ],
+        "enterPromoCodeLabel": "Enter Promo Code",
+        "cardsAccepted": [
+          {
+            "text": "/content/dam/academysports/Lighthouse.jpg"
+          },
+          {
+            "text": "/content/dam/academysports/Lighthouse.jpg"
+          },
+          {
+            "text": "/content/dam/academysports/Lighthouse.jpg"
+          }
+        ],
+        "emptyCartHeading": "YOUR CART IS EMPTY",
+        "emptyCartSubHeading":
+          "Looks like you forgot to load up,but dont worry! Sign in to see if you have any saved items or simply continue shopping for great gear. ",
+        "inStorePickupLabel": {
+          "notAvailableAtLabel": "Not available at"
+        },
+        "notAvailableShippingLabel": "These items are not available for shipping",
+        "optionLabel": "OPTION {no}",
+        "splitOrderLabel": "Split Order",
+        "itemSplitLabel": "Item {no} of 2"
+      },
+      "api": {
+        "orderItems": [
+          {
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDesc": null,
+                "shippingType": "SG",
+                "estimatedFromDate": "2018-07-28",
+                "estimatedToDate": "2018-07-30"
+              },
+              {
+                "shipmodeId": "10553",
+                "shippingType": "PICKUPINSTORE"
+              }
+            ],
+            "orderItemId": "20001",
+            "unitPrice": "$12",
+            "zipCode": "560066",
+            "quantity": "1",
+            "shipModeCode": "UPS Ground",
+            "shipModeId": "10551",
+            "orderItemPrice": "$123",
+            "discountedOrderItemPrice": "$123",
+            "skuId": "111083697",
+            "isfreeGift": "",
+            "productId": "4686067",
+            "skuDetails": {
+              "inventory": {
+                "store": [
+                  {
+                    "storeId": "1005",
+                    "availableQuantity": "0",
+                    "inventoryStatus": "OUT_OF_STOCK"
+                  }
+                ],
+                "online": [
+                  {
+                    "availableQuantity": "2",
+                    "inventoryStatus": "OUT_OF_STOCK"
+                  }
+                ]
+              },
+              "skuInfo": {
+                "name": "Mag M SS Laguna Madre:Grey:X Small",
+                "shortDescription": "",
+                "longDescription":
+                  "Just slip on the Magellan Outdoors Men's Laguna Madre Solid Short Sleeve Fishing Shirt, pack up your reel, rod and tackle box and you'll be ready to go. Made of lightweight, yet sturdy nylon, this short-sleeve shirt offers UPF 20+ protection from the sun's harmful rays. Plus, moisture-wicking fabric technology helps keep you cool and dry on especially hot days out on the water.",
+                "sellable": "true",
+                "fullImage": "//assets.academy.com/mgen/68/20004268.jpg",
+                "thumbnail": "//assets.academy.com/mgen/68/20004268.jpg",
+                "imageAltDescription": "Mag M SS Laguna Madre:Grey:X Small",
+                "skuAttributes": [
+                  {
+                    "name": "color",
+                    "value": "blue"
+                  },
+                  {
+                    "name": "size",
+                    "value": "43"
+                  }
+                ]
+              },
+              "availableShippingMethods": [
+                {
+                  "shipmodeId": "10551",
+                  "shipmodeDesc": "UPS Ground",
+                  "shippingType": "SG",
+                  "estimatedFromDate": "7-1",
+                  "estimatedToDate": "7-4"
+                },
+                {
+                  "shipmodeId": "10556",
+                  "shipmodeDesc": "Pickup In Store",
+                  "shippingType": "PICKUPINSTORE"
+                },
+                {
+                  "shipmodeId": "10556",
+                  "shipmodeDesc": "Ship To Store",
+                  "shippingType": "STS",
+                  "estimatedFromDate": "7-1",
+                  "estimatedToDate": "7-4"
+                }
+              ]
+            }
+          },
+          {
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDesc": null,
+                "shippingType": "SG",
+                "estimatedFromDate": "2018-07-28",
+                "estimatedToDate": "2018-07-30"
+              },
+              {
+                "shipmodeId": "10553",
+                "shippingType": "PICKUPINSTORE"
+              }
+            ],
+            "orderItemId": "20001",
+            "unitPrice": "$12",
+            "zipCode": "560066",
+            "quantity": "10",
+            "shipModeCode": "PickupInStore",
+            "shipModeId": "10551",
+            "orderItemPrice": "$123",
+            "discountedOrderItemPrice": "$123",
+            "skuId": "111083697",
+            "isfreeGift": "",
+            "productId": "4686067",
+            "skuDetails": {
+              "inventory": {
+                "store": [
+                  {
+                    "storeId": "1005",
+                    "availableQuantity": "2",
+                    "inventoryStatus": "OUT_OF_STOCK"
+                  }
+                ],
+                "online": [
+                  {
+                    "availableQuantity": "2",
+                    "inventoryStatus": "OUT_OF_STOCK"
+                  }
+                ]
+              },
+              "skuInfo": {
+                "name": "Mag M SS Laguna Madre:Grey:X Small",
+                "shortDescription": "",
+                "longDescription":
+                  "Just slip on the Magellan Outdoors Men's Laguna Madre Solid Short Sleeve Fishing Shirt, pack up your reel, rod and tackle box and you'll be ready to go. Made of lightweight, yet sturdy nylon, this short-sleeve shirt offers UPF 20+ protection from the sun's harmful rays. Plus, moisture-wicking fabric technology helps keep you cool and dry on especially hot days out on the water.",
+                "sellable": "true",
+                "fullImage": "//assets.academy.com/mgen/68/20004268.jpg",
+                "thumbnail": "//assets.academy.com/mgen/68/20004268.jpg",
+                "imageAltDescription": "Mag M SS Laguna Madre:Grey:X Small",
+                "skuAttributes": [
+                  {
+                    "name": "color",
+                    "value": "blue"
+                  },
+                  {
+                    "name": "size",
+                    "value": "43"
+                  }
+                ]
+              },
+              "availableShippingMethods": [
+                {
+                  "shipmodeId": "10551",
+                  "shipmodeDesc": "UPS Ground",
+                  "shippingType": "SG",
+                  "estimatedFromDate": "7-1",
+                  "estimatedToDate": "7-4"
+                },
+                {
+                  "shipmodeId": "10556",
+                  "shipmodeDesc": "Pickup In Store",
+                  "shippingType": "PICKUPINSTORE"
+                },
+                {
+                  "shipmodeId": "10556",
+                  "shipmodeDesc": "Ship To Store",
+                  "shippingType": "STS",
+                  "estimatedFromDate": "7-1",
+                  "estimatedToDate": "7-4"
+                }
+              ],
+              "isBundleItem": true,
+              "bundleInfo": {
+                "catEntryId": 101
+              }
+            }
+          },
+          {
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDesc": null,
+                "shippingType": "SG",
+                "estimatedFromDate": "2018-07-28",
+                "estimatedToDate": "2018-07-30"
+              },
+              { "shippingType": "PICKUPINSTORE", "shipmodeId": "786" }
+            ],
+            "orderItemId": "20001",
+            "unitPrice": "$123",
+            "zipCode": "560066",
+            "quantity": "1",
+            "shipModeCode": "PickupInStore",
+            "shipModeId": "786",
+            "orderItemPrice": "$123",
+            "discountedOrderItemPrice": "$123",
+            "skuId": "111083697",
+            "isfreeGift": "",
+            "productId": "4686067",
+            "skuDetails": {
+              "inventory": {
+                "store": [],
+                "online": []
+              },
+              "skuInfo": {
+                "name": "Mag M SS Laguna Madre:Grey:X Small",
+                "shortDescription": "",
+                "longDescription":
+                  "Just slip on the Magellan Outdoors Men's Laguna Madre Solid Short Sleeve Fishing Shirt, pack up your reel, rod and tackle box and you'll be ready to go. Made of lightweight, yet sturdy nylon, this short-sleeve shirt offers UPF 20+ protection from the sun's harmful rays. Plus, moisture-wicking fabric technology helps keep you cool and dry on especially hot days out on the water.",
+                "sellable": "true",
+                "fullImage": "//assets.academy.com/mgen/68/20004268.jpg",
+                "thumbnail": "//assets.academy.com/mgen/68/20004268.jpg",
+                "imageAltDescription": "Mag M SS Laguna Madre:Grey:X Small",
+                "skuAttributes": [
+                  {
+                    "name": "color",
+                    "value": "blue"
+                  },
+                  {
+                    "name": "size",
+                    "value": "43"
+                  }
+                ]
+              },
+              "availableShippingMethods": [
+                {
+                  "shipmodeId": "10551",
+                  "shipmodeDesc": "UPS Ground",
+                  "shippingType": "SG",
+                  "estimatedFromDate": "7-1",
+                  "estimatedToDate": "7-4"
+                },
+                {
+                  "shipmodeId": "10556",
+                  "shipmodeDesc": "Pickup In Store",
+                  "shippingType": "PICKUPINSTORE"
+                },
+                {
+                  "shipmodeId": "10556",
+                  "shipmodeDesc": "Ship To Store",
+                  "shippingType": "STS",
+                  "estimatedFromDate": "7-1",
+                  "estimatedToDate": "7-4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "labels":{
+        "bopisEnabled" : false
+      }
+    }
+  }
+}

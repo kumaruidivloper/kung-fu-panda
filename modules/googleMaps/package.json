@@ -1,0 +1,15 @@
+{
+  "name": "google-maps",
+  "version": "1.0.0",
+  "description": "Google Maps component",
+  "main": "googleMaps.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-google-maps": "^9.4.5",
+    "recompose": "^0.26.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

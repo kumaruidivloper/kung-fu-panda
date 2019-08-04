@@ -1,0 +1,10 @@
+export const NODE_TO_MOUNT = 'orderSummary';
+export const DATA_COMP_ID = 'data-compid';
+export const ESTIMATED_SHIPPING = 'estimated-shipping';
+export const ESTIMATED_TAXES = 'estimated-taxes';
+export const ESTIMATED_TAXES_ERROR = 'estimated-tax-error';
+export const ESTIMATED_TAXES_SUCCESS = 'estimated-tax-success';
+export const ZIP_VALIDATION = '@cart/zipvalidation';
+export const ZIP_VALIDATION_SUCCESS = '@cart/zipvalidationsuccess';
+export const ZIP_VALIDATION_FAILED = '@cart/zipvalidationfailed';
+export const FREE_LABEL = 'FREE';

@@ -1,0 +1,539 @@
+<mjml>
+  <mj-head>
+    <mj-title>Email order confirmation</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"></mj-font>
+    <mj-font name="Open Sans Condensed" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image align="left" width="203px" src="https://content.academy.com/webassets/images/logo-email.gif">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="12px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-navbar base-url="https://academy.com">
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">CLOTHING</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">SHOES</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">SPORTS</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">OUTDOORS</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">HOT DEALS</mj-navbar-link>
+          <mj-navbar-link font-size="14px" style="text-decoration: none; color: #333333;" href="https://academy.com" rel="noopener noreferrer">CLEARANCE</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" padding-top="0px" padding-bottom="0px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="900" text-transform="uppercase" padding-bottom="16px" padding-top="32px" font-size="32px" line-height="120%" color="#333333"><span style="font-family:'Open Sans Condensed', Helvetica, Arial, sans-serif">THANKS FOR YOUR ORDER</span>
+        </mj-text>
+        <mj-text font-size="16px" padding-bottom="32px">
+          Thanks for shopping with us! Please wait for an email confirming that your order is ready for pickup before heading to the store. Your confirmation number is ABC123456789.
+        </mj-text>
+        <mj-divider border-width="1px" padding-top="0px" border-style="solid" border-color="#cccccc" />
+        <mj-text font-size="16px" padding-bottom="32px">
+          <span>1. <strong>Before going to the store,</strong> wait for an email confirming. it's ready.</span> <br/>
+          <span>2. Bring your valid government issued ID to the store.</span> <br/>
+          <span>3. Bring this confirmation email or your order number with you.</span><br/>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" padding-top="0px" padding-bottom="0px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="32px">
+      <mj-column>
+        <mj-text font-size="24px" padding-bottom="0px" padding-top="0px">
+          ORDER #: ABC123456789 <span style="font-size:16px;">Order Date: 5/26/18</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="32px">
+      <mj-column>
+        <mj-text>
+          ITEMS FOR PICKUP
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="32px" padding-bottom="32px">
+      <mj-column width="25%">
+        <mj-image padding-top="0" width="150px" href="https://www.academy.com/shop/pdp/nike-womens-flex-experience-running-shoes-112921613#repChildCatid=5087511" src="http://assets.academy.com/mgen/64/20054964.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;">
+           <a href="https://www.academy.com/shop/pdp/nike-womens-flex-experience-running-shoes-112921613#repChildCatid=5087511" style="text-decoration: none; font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #0055a6;">Nike Women's Flex Experience Running Shoes</a> 
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style=" font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">Color:</span> Navy/Mint/Blue
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">Size:</span> 9.5
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">Shoe Width:</span> B
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">SKU:</span>123615763
+          </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="32px">
+      <mj-column>
+        <mj-text>
+          ITEMS FOR SHIPPING
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="32px" padding-bottom="32px">
+      <mj-column width="25%">
+        <mj-image padding-top="0" width="150px" href="https://www.academy.com/shop/pdp/nike-womens-flex-experience-running-shoes-112921613#repChildCatid=5087511" src="http://assets.academy.com/mgen/64/20054964.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;">
+           <a href="https://www.academy.com/shop/pdp/nike-womens-flex-experience-running-shoes-112921613#repChildCatid=5087511" style="text-decoration: none; font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #0055a6;">Nike Women's Flex Experience Running Shoes</a> 
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style=" font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">Color:</span> Navy/Mint/Blue
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">Size:</span> 9.5
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">Shoe Width:</span> B
+          </span>
+        </mj-text>
+        <mj-text padding-top="0">
+          <span style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;"><span style="font-weight:bold">SKU:</span>123615763
+          </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-left="0" padding-right="0">
+      <mj-column width="50%"></mj-column>
+      <mj-column width="50%">
+        <mj-section>
+          <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="16px">
+              <p style="font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+        color: #333333;padding-top:0;margin-top:0;margin-bottom:0;float:left">Subtotal:
+              </p>
+              <p style="font-size: 20px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.2;
+        letter-spacing: 0.2px;
+        text-align: right;
+        color: #333333;padding-top:0;margin-top:0;margin-bottom:0;float:right">$79.99
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-left="0" padding-right="0">
+      <mj-column width="50%"></mj-column>
+      <mj-column width="50%">
+        <mj-section>
+          <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="16px">
+              <p style="font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+        color: #008800;padding-top:0;margin-top:0;margin-bottom:0;float:left">Discount:
+              </p>
+              <p style="font-size: 20px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.2;
+        letter-spacing: 0.2px;
+        text-align: right;
+        color: #008800;padding-top:0;margin-top:0;margin-bottom:0;float:right">-$10.99
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-left="0" padding-right="0">
+      <mj-column width="50%"></mj-column>
+      <mj-column width="50%">
+        <mj-section>
+          <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="16px">
+              <p style="font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+        color: #333333;padding-top:0;margin-top:0;margin-bottom:0;float:left">In-Store Pickup:
+              </p>
+              <p style="font-size: 20px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.2;
+        letter-spacing: 0.2px;
+        text-align: right;
+        color: #333333;padding-top:0;margin-top:0;margin-bottom:0;float:right">FREE
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-left="0" padding-right="0">
+      <mj-column width="50%"></mj-column>
+      <mj-column width="50%">
+        <mj-section>
+          <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="16px">
+              <p style="font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+        color: #333333;padding-top:0;margin-top:0;margin-bottom:0;float:left">Taxes:
+              </p>
+              <p style="font-size: 20px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.2;
+        letter-spacing: 0.2px;
+        text-align: right;
+        color: #333333;padding-top:0;margin-top:0;margin-bottom:0;float:right">$10.48
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-left="0" padding-right="0">
+      <mj-column width="50%">
+        <mj-text><a href="http://www.academy.com" style="text-decoration: none; color: #0055a6;">View order details</a></mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-section>
+          <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="16px">
+              <p style="font-size: 16px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+        color: #333333;padding-top:0;margin-top:0;margin-bottom:0;float:left">Total:
+              </p>
+              <p style="font-size: 20px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.2;
+        letter-spacing: 0.2px;
+        text-align: right;
+        color: #333333;padding-top:0;margin-top:0;margin-bottom:0;float:right">$67.99
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" padding-bottom="5px">
+          Your credit card will be authorized for this total. You will be charged for In Store Pickup items at the time of order pickup and for delivery items at the time the order ships.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="50%">
+        <mj-section>
+          <mj-column width="20%">
+            <mj-image padding-right="0px" padding-left="25px" align="left" width="70px" src="http://s7d2.scene7.com/is/image/academy/pickup-in-store-icon?wid=32"></mj-image>
+          </mj-column>
+          <mj-column width="80%">
+            <mj-text padding="0 25px">
+              <p style=" font-size: 14px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: 1.71;
+                letter-spacing: 0.2px;
+                color: #333333;text-transform:uppercase;margin-bottom:0;padding-bottom:16px;">Pickup Information</p>
+            </mj-text>
+            <mj-text padding-top="0" padding-bottom="0">
+              <p style="width: 30px;
+                height: 2px;
+                background-color: #0055a6;margin-top:0;padding-top:0;margin-bottom:0"></p>
+            </mj-text>
+            <mj-text padding-bottom="0px">
+              Joe McNeil
+            </mj-text>
+            <mj-text font-size="14px">
+              1540 S Mason Rd<br/> Houston, TX 77494 <br/> Open Mon - Sat 9am - 9pm, Sun 9am - 5pm
+            </mj-text>
+            <mj-text>
+              <strong>Joe McNeil</strong><br/> mcneil.joe@gmail.com
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-section>
+          <mj-column width="20%">
+            <mj-image padding-right="0px" padding-left="25px" align="left" width="70px" src="http://s7d2.scene7.com/is/image/academy/shipping-icon?wid=32"></mj-image>
+          </mj-column>
+          <mj-column width="80%">
+            <mj-text padding="0 25px">
+              <p style=" font-size: 14px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: 1.71;
+                color: #333333;text-transform:uppercase;margin-bottom:0;padding-bottom:16px;">Shipping Information</p>
+            </mj-text>
+            <mj-text padding-top="0" padding-bottom="0">
+              <p style="width: 30px;
+                height: 2px;
+                background-color: #0055a6;margin-top:0;padding-top:0;margin-bottom:0"></p>
+            </mj-text>
+            <mj-text padding-bottom="0px">
+              Joe Doe
+            </mj-text>
+            <mj-text font-size="14px">
+              23155 Katy Freeway<br/> Katy,
+              <br/> TX 77493 <br/>
+            </mj-text>
+            <mj-text>
+              <strong>Arrives Aug 2 - Aug 9</strong><br/> Ground Shipping
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="50%">
+        <mj-section>
+          <mj-column width="20%">
+            <mj-image padding-right="0px" padding-left="25px" align="left" width="70px" src="http://s7d2.scene7.com/is/image/academy/card-icon?wid=32"></mj-image>
+          </mj-column>
+          <mj-column width="80%">
+            <mj-text padding="0 25px">
+              <p style=" font-size: 14px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: 1.71;
+                letter-spacing: 0.2px;
+                color: #333333;text-transform:uppercase;margin-bottom:0;padding-bottom:16px;">Billing Information</p>
+            </mj-text>
+            <mj-text padding-top="0" padding-bottom="0">
+              <p style="width: 30px;
+                height: 2px;
+                background-color: #0055a6;margin-top:0;padding-top:0;margin-bottom:0"></p>
+            </mj-text>
+            <mj-text padding-bottom="0px">
+              <strong>VISA Ending in - 7777</strong>
+            </mj-text>
+            <mj-text padding-bottom="0px" padding-top="16px">
+              <strong>Joe McNeil</strong>
+            </mj-text>
+            <mj-text padding-bottom="0px" padding-top="0px" font-size="14px">
+              1540 N Mason Rd <br/> Katy, TX 77494
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-section>
+          <mj-column width="20%">
+            <mj-image padding-right="0px" padding-left="25px" align="left" width="70px" src="http://s7d2.scene7.com/is/image/academy/gift-box-icon?wid=32"></mj-image>
+          </mj-column>
+          <mj-column width="80%">
+            <mj-text padding="0 25px">
+              <p style=" font-size: 14px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: 1.71;
+                letter-spacing: 0.2px;
+                color: #333333;text-transform:uppercase;margin-bottom:0;padding-bottom:16px;">Gift card used</p>
+            </mj-text>
+            <mj-text padding-top="0" padding-bottom="0">
+              <p style="width: 30px;
+                height: 2px;
+                background-color: #0055a6;margin-top:0;padding-top:0;margin-bottom:0"></p>
+            </mj-text>
+            <mj-text padding-bottom="0px">
+              <strong>XXX-XXX-XXXX-1234</strong>
+            </mj-text>
+            <mj-text padding-bottom="0px" padding-top="16px">
+              <strong>Balance raminaing</strong>
+            </mj-text>
+            <mj-text padding-bottom="0px" padding-top="0px">
+              $12.34
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="32px">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="32px" background-color="#0055a6" padding-bottom="32px">
+      <mj-section padding-top="0" padding-bottom="16px">
+        <mj-column width="100%">
+          <mj-text font-size="32px" align="center" color="#FFFFFF" line-height="40px">
+            QUESTIONS ABOUT YOUR ORDER?
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-column width="50%">
+        <mj-image align="center" width="215px" alt="Get answers" href="https://www.academy.com/shop/pdp/nike-womens-flex-experience-running-shoes-112921613#repChildCatid=5087511" src="http://s7d2.scene7.com/is/image/academy/get_answers?wid=215"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image align="center" width="226px" alt="Order pickup faqs" href="https://www.academy.com/shop/pdp/nike-womens-flex-experience-running-shoes-112921613#repChildCatid=5087511" src="http://s7d2.scene7.com/is/image/academy/pickup_isntructions?wid=215"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" padding="0px" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="32px" padding-top="32px">
+      <mj-column width="60%">
+        <mj-text font-size="12px">Need help? <a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;">Live Chat</a> with Customer Care.</mj-text>
+        <mj-text font-size="12px">Academy Sports + Outdoors <br/>565 South Mason Rd #419<br/>Katy, TX 77450</mj-text>
+        <mj-text font-size="12px"><a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;"> Update Profile</a> | <a href="https://academy.custhelp.com/app/answers/detail/a_id/649/kw/privacy" rel="noopener noreferrer" style="text-decoration: none; color: #0055a6;">Privacy Policy </a></mj-text>
+      </mj-column>
+      <mj-group width="40%" margin-top="0px">
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy facebook" href="https://www.facebook.com/Academy/" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/facebook_social"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy twitter" href="https://twitter.com/academy" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/twiter_social"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy pinterest" href="https://www.pinterest.com/academy/" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/pinterest_social"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy youtube" href="https://www.youtube.com/academy" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/youtube_social"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0" width="32px" alt="academy instagram" href="https://www.instagram.com/academy/" rel="noopener noreferrer" src="http://s7d2.scene7.com/is/image/academy/instagram_social"></mj-image>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>

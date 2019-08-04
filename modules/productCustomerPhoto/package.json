@@ -1,0 +1,11 @@
+{
+  "name": "product-customer-photo",
+  "version": "1.0.0",
+  "description": "Product Customer Photo component",
+  "main": "productCustomerPhoto.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

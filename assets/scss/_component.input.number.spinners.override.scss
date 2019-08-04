@@ -1,0 +1,8 @@
+/*
+    Overriding styles for number input field, specifically to remove implicit spinners.
+*/
+.remove-spinner__number-field::-webkit-inner-spin-button, 
+.remove-spinner__number-field::-webkit-inner-spin-button {
+    -webkit-appearance: none; 
+    margin: 0; 
+}

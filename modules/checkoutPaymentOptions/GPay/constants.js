@@ -1,0 +1,10 @@
+export const ALLOWED_PAYMENT_METHODS = ['CARD', 'TOKENIZED_CARD'];
+export const ALLOWED_CARD_NETWORKS = ['AMEX', 'DISCOVER', 'JCB', 'MASTERCARD', 'VISA'];
+export const MERCHANT_ID = '125229515';
+export const GATEWAY_MERCHANT_ID = '3176752955';
+export const TOKENIZATION_TYPE = 'PAYMENT_GATEWAY';
+export const GATEWAY = 'firstdata';
+export const ENVIRONMENT = 'TEST';
+export const CURRENCY_CODE = 'USD';
+export const GOOGLE_PAY_API = 'https://pay.google.com/gp/p/js/pay.js';
+export const ALLOWED_AUTH_METHODS = ['PAN_ONLY', 'CRYPTOGRAM_3DS'];

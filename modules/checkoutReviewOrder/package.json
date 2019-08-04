@@ -1,0 +1,15 @@
+{
+  "name": "checkout-review-order",
+  "version": "1.0.0",
+  "description": "Checkout Review Order component",
+  "main": "checkoutReviewOrder.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "latest",
+    "axios-mock-adapter": "^1.15.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

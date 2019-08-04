@@ -1,0 +1,11 @@
+{
+  "name": "show-shipping-info",
+  "version": "1.0.0",
+  "description": "Show Shipping Info component",
+  "main": "showShippingInfo.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

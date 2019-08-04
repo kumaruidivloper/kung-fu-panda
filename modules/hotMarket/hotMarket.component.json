@@ -1,0 +1,20 @@
+{
+  "title": "Hot Market",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+          "isAuthoring": "Y",
+          "prodIds": [
+            "1363761",
+            "4772149",
+            "4617018",
+            "642252"
+          ],
+          "ctaLabel": "shop all astro",
+          "ctaLink": "/content",
+          "ctaTarget": "_blank"
+      }
+    }
+  }
+}

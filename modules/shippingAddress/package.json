@@ -1,0 +1,15 @@
+{
+  "name": "shipping-address",
+  "version": "1.0.0",
+  "description": "Shipping Address component",
+  "main": "shippingAddress.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "1.0.107",
+    "@react-nitro/error-boundary": "0.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

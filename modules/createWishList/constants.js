@@ -1,0 +1,10 @@
+export const NODE_TO_MOUNT = 'createWishList';
+export const DATA_COMP_ID = 'data-compid';
+export const CREATE_WISHLIST = 'create-wishlist';
+export const CREATE_WISHLIST_SUCCESS = 'create-wishlist-success';
+export const CREATE_WISHLIST_DATA = 'create-wishlist-data';
+export const RENAME_WISHLIST = 'rename-wishlist';
+export const RENAME_WISHLIST_SUCCESS = 'rename-wishlist-success';
+export const RENAME_WISHLIST_FAILURE = 'rename-wishlist-failure';
+export const CREATE_WISHLIST_FAILURE = 'create-wishlist-failure';
+export const WISH_LIST_WARNING = 'Wish List Name is Required';

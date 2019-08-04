@@ -1,0 +1,11 @@
+{
+  "name": "show-ship-to-store",
+  "version": "1.0.0",
+  "description": "Show Ship To Store component",
+  "main": "showShipToStore.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,144 @@
+{
+  "cms": {
+    "buyNow": {
+      "labels": {
+        "common": {
+          "add": "Add",
+          "cancel": "CANCEL",
+          "update": "Update",
+          "edit": "Edit",
+          "default": "Default",
+          "remove": "Remove",
+          "undo": "Undo",
+          "setAsDefault": "Set as Default",
+          "signUpMessage": "Sign up to get Hot Deals, Weekly Ads, Local Events, and more delivered straight to your inbox. You can usubscribe at anytime."
+        },
+        "shippingModal": {
+          "soloStep": {
+            "title": "ONE MORE THING TO SET YOU UP!",
+            "subTitle": "Please Fill Out Your Default Shipping Address To Enable Buy Now",
+            "shippingAddressTitle": "SHIPPING ADDRESS",
+            "submitText": "BUY NOW"
+          },
+          "stepOneOfTwo": {
+            "title": "LET'S SET YOU UP!",
+            "subTitle": "Please Fill Out Your Info To Enable Buy Now Feature",
+            "shippingAddressTitle": "STEP 1 OF 2 - SHIPPING ADDRESS",
+            "submitText": "ADD A DEFAULT PAYMENT OPTION"
+          }
+        },
+        "paymentModal": {
+          "soloStep": {
+            "title": "ONE MORE THING TO SET YOU UP!",
+            "subTitle": "Please Fill Out Your Default Payment Method To Enable Buy Now",
+            "creditCardTitle": "ENTER DEFAULT PAYMENT METHOD",
+            "billingAddressTitle": "BILLING INFORMATION",
+            "submitText": "BUY NOW"
+          },
+          "stepTwoOfTwo": {
+            "title": "LET'S SET YOU UP!",
+            "subTitle": "Please Fill Out Your Info To Enable Buy Now Feature",
+            "creditCardTitle": "STEP 2 OF 2 - ENTER DEFAULT PAYMENT METHOD",
+            "billingAddressTitle": "BILLING INFORMATION",
+            "submitText": "BUY NOW"
+          }
+        },
+        "shippingAddress": {
+          "shippingAddress": "SHIPPING ADDRESS",
+          "firstName": "First Name",
+          "lastName": "Last Name",
+          "phoneNumber": "Phone Number",
+          "address": "Address",
+          "addMoreDetailsOptional": "Add Company Name, Apt. Number, etc. (Optional)",
+          "city": "City",
+          "state": "State",
+          "zipCode": "ZIP Code",
+          "email": "Email",
+          "phone": "Phone"
+        },
+        "creditCard": {
+          "creditCardNumber": "Credit Card Number",
+          "expirationDate": "Expiration Date",
+          "cvv": "CVV",
+          "cvvHintText": "The 3 digit code found on far right of signature box",
+          "pinHintTextLabel": "The pin is located above the barcode",
+          "cardEndingIn": "ending in",
+          "cardEndingDeleted": "ending in {{cardNo}} has been deleted."
+        },
+        "billingAddress": {
+          "billingAddress": "BILLING INFORMATION",
+          "sameAsShipping": "Same As Shipping Address",
+          "firstName": "First Name",
+          "lastName": "Last Name",
+          "address": "Address",
+          "addMoreDetailsOptional": "Add Company Name, Apt. Number, etc. (Optional)",
+          "city": "City",
+          "state": "State",
+          "zipCode": "ZIP Code",
+          "email": "Email",
+          "phone": "Phone"
+        },
+        "addressSuggestion": {
+          "addressVerification": "Address Verification",
+          "addressVerificationUnableDescription": "We were unable to verify your address with the postal database. Using the address you entered may cause delays receiving your order.",
+          "suggestedAddressLabel": "Suggested Address",
+          "youEnteredAddressLabel": "You Entered",
+          "modifyAddressLabel": "Modify Address",
+          "submitText": "Use Selected Address"
+        }
+      },
+      "errorMsg": {
+        "_ERR_UPDATE_CARD_FAIL": "Unable to add credit card to profile. Please try again.",
+        "_RTS_GC_INACTIVE": "This gift card is currently inactive. Please contact Customer Care Live Chat or 1-888-922-2336 for further assistance.",
+        "pastExpirationDate": "Past expiration date",
+        "_ERR_DEFAULT_KEY": "Unable to process your request at this time. Please try again.",
+        "invalidExpirationDate": "Unrecognized expiration date",
+        "creditCardExpiredLabel": "This credit card has expired",
+        "_DUPLICATE_GC_CARD": "Gift Card already exists in profile.",
+        "_STORE_ONLY_GIFT_CARD": "Your merchandise credit gift card can only be used in stores. Please use another form of payment method.",
+        "merchandiseCreditCard": "The number you entered is an in-store merchandise credit. Please visit your local store to redeem.",
+        "_RTS_INVALID_NUMBER_OR_PIN": "Invalid Gift Card Number/Insufficient Funds",
+        "invalidEmailText": "Invalid Email",
+        "_ERR_GET_CARD_FAIL": "Unable to load your saved payment information. Please try again later.",
+        "invalidCardNumberLength": "Unrecognized card number",
+        "giftCardNumber": "Enter Gift Card Number",
+        "invalidCVVLength": "Please enter a valid security code",
+        "outOfStock": "This item is out of stock. Please add it to your wishlist or remove it from your cart to proceed.",
+        "giftCardPin": "Enter PIN",
+        "_ERR_ADD_CARD_FAIL": "Unable to add credit card to profile. Please try again."
+      },
+      "data": {
+        "cardsAccepted": [
+          {
+            "label": "Visa",
+            "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/visa.png"
+          },
+          {
+            "label": "Master Card",
+            "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/mastercard.png"
+          },
+          {
+            "label": "Paypal",
+            "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/paypal.png"
+          },
+          {
+            "label": "GooglePay",
+            "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/googlepay.png"
+          },
+          {
+            "label": "ApplePay",
+            "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/applepay.png"
+          },
+          {
+            "label": "Amex Card",
+            "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/amex.png"
+          },
+          {
+            "label": "Discover",
+            "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/discover.png"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "bait-variant",
+  "version": "1.0.0",
+  "description": "Bait Variant component",
+  "main": "baitVariant.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-tabs": "2.3.0"
+  }
+}

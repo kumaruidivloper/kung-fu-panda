@@ -1,0 +1,14 @@
+{
+  "title": "Product Mixed Media Loader Box",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Product Mixed Media Loader Box works!"
+      },
+      "dependencies": {
+        "react-emotion": "^9.1.3"
+      }
+    }
+  }
+}

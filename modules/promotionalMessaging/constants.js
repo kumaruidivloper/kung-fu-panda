@@ -1,0 +1,14 @@
+export const NODE_TO_MOUNT = 'promotionalMessaging';
+export const DATA_COMP_ID = 'data-compid';
+export const ADD_PROMOCODE = 'add-promocode';
+export const REMOVE_PROMOCODE = 'remove-promocode';
+export const PROMOCODE_SUCCESS = '@cart/promocodeSuccess';
+export const PROMOCODE_ERROR = '@cart/promocodeError';
+export const LOAD_CART = '@cart/loadCart';
+export const PROMOFIELD_MOBILE_HEIGHT = '2.5625rem';
+export const FALLBACK_GENERIC_ERROR_MSG = 'An error occurred.';
+export const EVENT_NAME = 'promocode';
+export const EVENT_CATEGORY_NAME = 'promo code';
+export const EVENT_ACTION_ERROR = 'promo code error';
+export const EVENT_ACTION_SUCCESS = 'promo code applied';
+export const EVENT_ACTION_REMOVED_PROMOCODE = 'promo code removed';

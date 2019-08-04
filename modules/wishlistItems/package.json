@@ -1,0 +1,14 @@
+{
+  "name": "wishlist-items",
+  "version": "1.0.0",
+  "description": "Wishlist Items component",
+  "main": "wishlistItems.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.29"
+  }
+}

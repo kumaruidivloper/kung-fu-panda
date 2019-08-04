@@ -1,0 +1,6 @@
+.loader-height {
+  height: calc(100vh - 452px);
+  @media screen and (min-width: 768px) {
+    height: calc(100vh - 365px);
+  }
+}

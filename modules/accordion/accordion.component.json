@@ -1,0 +1,34 @@
+{
+  "title": "Accordion",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "year": "2018",
+        "accordionItems": [
+          {
+            "linkText": "06/09/18 Academy Sports + Outdoors opens new store in Columbus, Ga.",
+            "linkUrl": "https://www.academy.com/shop/en/store/06-09-2018-press-release"
+          },
+          {
+            "linkText": "05/26/18 Academy Sports + Outdoors opens new store in Matthews, N.C.",
+            "linkUrl": "https://www.academy.com/shop/en/store/05-26-2018-press-release"
+          },
+          {
+            "linkText": "05/16/18 Academy Sports + Outdoors Announces Ken C. Hicks as Chairman and CEO",
+            "linkUrl": "https://www.academy.com/shop/en/store/05-16-2018-press-release.pdf"
+          },
+          {
+            "linkText": "05/08/18 Academy Sports + Outdoors to open new store in Columbus, Ga.",
+            "linkUrl": "https://www.academy.com/shop/en/store/05-08-2018-press-release"
+          },
+          {
+            "linkText": "05/02/18 Academy Sports + Outdoors to open two new North Carolina locations",
+            "linkUrl": "https://www.academy.com/shop/en/store/05-02-2018-press-release.pdf"
+          }
+        ]
+      }
+    }
+  }
+}

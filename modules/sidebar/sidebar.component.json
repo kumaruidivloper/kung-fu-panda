@@ -1,0 +1,36 @@
+{
+  "title": "Sidebar",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "helloLabel": "Hello"
+        },
+        "servletURLMapping": [
+          {
+            "label": "ORDERS",
+            "url": "/content/academy/pages/myAccount.orders.json"
+          },
+          {
+            "label": "PROFILE",
+            "url": "/content/academy/pages/myAccount.profile.json"
+          },
+          {
+            "label": "ADDRESS BOOK",
+            "url": "/content/academy/pages/myAccount.address.json"
+          },
+          {
+            "label": "WISHLIST",
+            "url": "/content/academy/pages/myAccount.wishlist.json"
+          },
+          {
+            "label": "PAYMENT",
+            "url": "/content/academy/pages/myAccount.payments.json"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+/** Bootstrap grid overrides **/
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';
+@include media-breakpoint-up(xs) {
+  [class^='container'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  [class*='container-fluid'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+@include media-breakpoint-up(sm) {
+  [class*='col-'] {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  [class^='row'] {
+    margin-left: -1rem;
+    margin-right: -1rem;
+  }
+  [class^='container'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  [class*='container-fluid'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+@include media-breakpoint-up(md) {
+  [class*='col-'] {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  [class^='row'] {
+    margin-left: -1rem;
+    margin-right: -1rem;
+  }
+  [class^='container'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  [class*='container-fluid'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+@include media-breakpoint-up(lg) {
+  [class*='col-'] {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  [class^='row'] {
+    margin-left: -1rem;
+    margin-right: -1rem;
+  }
+  [class^='container'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  [class*='container-fluid'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+@include media-breakpoint-up(xl) {
+  [class*='col-'] {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  [class^='row'] {
+    margin-left: -1rem;
+    margin-right: -1rem;
+  }
+  [class^='container'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  [class*='container-fluid'] {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+//Custom spacers

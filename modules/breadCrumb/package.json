@@ -1,0 +1,12 @@
+{
+  "name": "bread-crumb",
+  "version": "1.0.0",
+  "description": "Bread Crumb component",
+  "main": "breadCrumb.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

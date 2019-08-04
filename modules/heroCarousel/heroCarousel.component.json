@@ -1,0 +1,119 @@
+{
+  "title": "Hero Carousel",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "carouselPanel": [{
+            "legalLink": "https://www.google.com",
+            "image": {
+              "mobileImage": "/content/dam/academysports/Lighthouse.jpg",
+              "desktopImage": "/content/dam/academysports/Lighthouse.jpg"
+            },
+            "imageAltText": "Alt text",
+            "height": "full",
+            "legalCopy": "Legal Copy 1",
+            "cta": [{
+              "ctaPath": "https://www.google.com",
+              "ctaType": "primary",
+              "ctaText": "CTA 1",
+              "ctaType@Delete": "primary",
+              "ctaTarget@Delete": "_self",
+              "ctaTarget": "_self"
+            }],
+            "subcopy": "Subcopy 1",
+            "eyebrow": "Eyebrow 1",
+            "ctaAlignment": "left",
+            "headline": "Headline 1"
+          },
+          {
+            "legalLink": "https://www.google.com",
+            "height": "full",
+            "image": {
+              "mobileImage": "/content/dam/academysports/Lighthouse.jpg",
+              "desktopImage": "/content/dam/academysports/Lighthouse.jpg"
+            },
+            "imageAltText": "Alt text 2",
+            "legalCopy": "Legal Copy 2",
+            "cta": [{
+                "ctaPath": "https://www.google.com",
+                "ctaType": "primary",
+                "ctaText": "CTA 1",
+                "ctaType@Delete": "",
+                "ctaTarget@Delete": "",
+                "ctaTarget": "_blank"
+              },
+              {
+                "ctaPath": "https://www.google.com",
+                "ctaType": "secondary",
+                "ctaText": "CTA 2",
+                "ctaType@Delete": "secondary",
+                "ctaTarget@Delete": "",
+                "ctaTarget": "_blank"
+              }
+            ],
+            "subcopy": "Subcopy 2",
+            "eyebrow": "Eyebrow 2",
+            "ctaAlignment": "center",
+            "headline": "Headline 2"
+          },
+          {
+            "legalLink": "https://www.google.com",
+            "image": {
+              "mobileImage": "/content/dam/academysports/Lighthouse.jpg",
+              "desktopImage": "/content/dam/academysports/Lighthouse.jpg"
+            },
+            "imageAltText": "Alt text",
+            "height": "full",
+            "legalCopy": "Legal Copy 3",
+            "cta": [{
+              "ctaPath": "https://www.google.com",
+              "ctaType": "primary",
+              "ctaText": "CTA 3",
+              "ctaType@Delete": "primary",
+              "ctaTarget@Delete": "_self",
+              "ctaTarget": "_self"
+            }],
+            "subcopy": "Subcopy 3",
+            "eyebrow": "Eyebrow 3",
+            "ctaAlignment": "left",
+            "headline": "Headline 3"
+          },
+          {
+            "legalLink": "https://www.google.com",
+            "height": "full",
+            "image": {
+              "mobileImage": "/content/dam/academysports/Lighthouse.jpg",
+              "desktopImage": "/content/dam/academysports/Lighthouse.jpg"
+            },
+            "imageAltText": "Alt text 4",
+            "legalCopy": "Legal Copy 4",
+            "cta": [{
+                "ctaPath": "https://www.google.com",
+                "ctaType": "primary",
+                "ctaText": "CTA 4",
+                "ctaType@Delete": "",
+                "ctaTarget@Delete": "",
+                "ctaTarget": "_blank"
+              },
+              {
+                "ctaPath": "https://www.google.com",
+                "ctaType": "secondary",
+                "ctaText": "CTA 4",
+                "ctaType@Delete": "secondary",
+                "ctaTarget@Delete": "",
+                "ctaTarget": "_blank"
+              }
+            ],
+            "subcopy": "Subcopy 4",
+            "eyebrow": "Eyebrow 4",
+            "ctaAlignment": "center",
+            "headline": "Headline 4"
+          }
+        ],
+        "isAuthoring": "N",
+        "height": "half"
+      }
+    }
+  }
+}

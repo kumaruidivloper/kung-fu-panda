@@ -1,0 +1,15 @@
+{
+  "name": "hero-image-variant",
+  "version": "1.0.0",
+  "description": "Hero Image Variant component",
+  "main": "heroImageVariant.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@academysports/fusion-components": "1.1.17",
+    "redux-mock-store": "1.5.3"
+  }
+}

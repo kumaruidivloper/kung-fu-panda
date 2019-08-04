@@ -1,0 +1,29 @@
+{
+  "title": "Recommendations",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "N",
+        "propertyId": "promoBanner",
+        "target": "recommendations"
+      },
+      "api": {},
+      "pageInfo": {
+        "id": "5afe66c8c283c4000150153b",
+        "page": "homepage",
+        "template": "homepage",
+        "pageType": "content",
+        "variantType": "",
+        "variantValue": "",
+        "aemURL": "/content/academy/pages/homepage.html",
+        "seoURL": "/",
+        "categoryId": null,
+        "parentCatId": null,
+        "productId": null,
+        "pageURL": "/"
+      },
+      "emotion": []
+    }
+  }
+}

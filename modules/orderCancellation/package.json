@@ -1,0 +1,15 @@
+{
+  "name": "order-cancellation",
+  "version": "1.0.0",
+  "description": "Order Cancellation component",
+  "main": "orderCancellation.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.3",
+    "react-router-dom": "^4.3.1"
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "title": "Header",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "logo": "https://uat6www.academy.com/content/dam/academysports/Logo.png",
+        "logoAltText": "Brand Logo Alt",
+        "logoTargetURL": "/",
+        "findStoreLabel": "Find a Store",
+        "findStoreLink": "#",
+        "changeStoreLabel": "Store",
+        "weeklyAdsLabel": "Weekly Ads",
+        "weeklyAdsLink": "/weeklyad",
+        "signInLabel": "Sign In",
+        "signInLink": "/shop/LogonForm?catalogId=10051&langId=-1&storeId=10151",
+        "myAccountLabel": "My Account",
+        "myAccountLink": "https://www.academy.com/shop/LogonForm",
+        "searchLabel": "Search",
+        "seeAllLabel": "See All",
+        "searchAutoSuggestLimit": "3",
+        "cartLink": "aaaa",
+        "myAccDropDown": {
+          "accSummaryLabel": "Account Summary",
+          "accSummaryLink": "/shop/AYRAccountSummary#accountSummaryPage",
+          "wishListLabel": "Wish List",
+          "wishListLink": "/shop/AYRAccountSummary#wishListsPage",
+          "signOutLabel": "Sign Out",
+          "signOutLink":
+            "/shop/Logoff?catalogId=10051&langId=-1&storeId=10151&deleteCartCookie=true&URL=/shop/LogonForm?catalogId=10051&langId=-1&storeId=10151 "
+        },
+        "navDetails": [
+          {
+            "sectionLabel": "SHOP",
+            "menuItems": [
+              {
+                "title": "OUTDOORS",
+                "seoURL": "",
+                "categoryID": "220431",
+                "subMenuItems": [
+                  { "title": "Shooting", "seoURL": "", "categoryID": "64413" },
+                  { "title": "Hunting", "seoURL": "", "categoryID": "15758" },
+                  { "title": "Camping", "seoURL": "", "categoryID": "15286" },
+                  { "title": "Fishing", "seoURL": "", "categoryID": "15478" },
+                  { "title": "Bikes & Cycling", "seoURL": "", "categoryID": "15613" },
+                  { "title": "Boating", "seoURL": "", "categoryID": "15157" },
+                  { "title": "Outdoor Living", "seoURL": "", "categoryID": "15973" },
+                  { "title": "Grills & Outdoor Cooking", "seoURL": "", "categoryID": "15999" },
+                  { "title": "Games & Recreation", "seoURL": "", "categoryID": "16018" },
+                  { "title": "Water Sports", "seoURL": "", "categoryID": "16028" },
+                  { "title": "Automotive & Towing", "seoURL": "", "categoryID": "207453" }
+                ]
+              },
+              {
+                "title": "CLOTHING",
+                "seoURL": "",
+                "categoryID": "15053",
+                "subMenuItems": [
+                  { "title": "Mens", "seoURL": "", "categoryID": "15054" },
+                  { "title": "Womens", "seoURL": "", "categoryID": "15082" },
+                  { "title": "Boys", "seoURL": "", "categoryID": "15090" },
+                  { "title": "Girls", "seoURL": "", "categoryID": "15109" },
+                  { "title": "Toddler", "seoURL": "", "categoryID": "17401" },
+                  { "title": "Fan Shop", "seoURL": "", "categoryID": "15415" },
+                  { "title": "Hunting & Cameo", "seoURL": "", "categoryID": "15134" },
+                  { "title": "Fishing", "seoURL": "", "categoryID": "15149" },
+                  { "title": "Workwear", "seoURL": "", "categoryID": "235947" },
+                  { "title": "Swimwear", "seoURL": "", "categoryID": "235947" },
+                  { "title": "School Uniforms", "seoURL": "", "categoryID": "15171" },
+                  { "title": "Hats & Accessories", "seoURL": "", "categoryID": "235940" }
+                ]
+              },
+              {
+                "title": "SHOES",
+                "seoURL": "/shop/browse/footwear",
+                "categoryID": "15645",
+                "subMenuItems": [
+                  { "title": "Womens Shoes", "seoURL": "", "categoryID": "15630" },
+                  { "title": "Boys Shoes", "seoURL": "", "categoryID": "15692" },
+                  { "title": "Mens Shoes", "seoURL": "/shop/browse/footwear/mens-footwear", "categoryID": "15646" },
+                  { "title": "Girls", "seoURL": "", "categoryID": "15663" },
+                  { "title": "Shoes By Sport", "seoURL": "", "categoryID": "15663" },
+                  { "title": "Accessories & More", "seoURL": "", "categoryID": "15722" }
+                ]
+              },
+              {
+                "title": "SPORTS",
+                "seoURL": "",
+                "categoryID": "220432",
+                "subMenuItems": [
+                  { "title": "Fitness", "seoURL": "", "categoryID": "15609" },
+                  { "title": "Baseball", "seoURL": "", "categoryID": "16155" },
+                  { "title": "Soccer", "seoURL": "", "categoryID": "15743" },
+                  { "title": "Football", "seoURL": "", "categoryID": "15732" },
+                  { "title": "Basketball", "seoURL": "", "categoryID": "15725" },
+                  { "title": "Softball", "seoURL": "", "categoryID": "16166" },
+                  { "title": "Volleyball", "seoURL": "", "categoryID": "15745" },
+                  { "title": "Golf", "seoURL": "", "categoryID": "15733" },
+                  { "title": "Racquet Sports", "seoURL": "", "categoryID": "16101" },
+                  { "title": "Indoor Fun & Games", "seoURL": "", "categoryID": "65653" },
+                  { "title": "Fan Shop", "seoURL": "", "categoryID": "15415" }
+                ]
+              },
+              {
+                "title": "ACCESSORIES",
+                "seoURL": "",
+                "categoryID": "230953",
+                "subMenuItems": [
+                  { "title": "Sunglasses", "seoURL": "", "categoryID": "15991" },
+                  { "title": "Coolers & Drinkware", "seoURL": "", "categoryID": "15991" },
+                  { "title": "Backpacks & Bags", "seoURL": "", "categoryID": "15377" },
+                  { "title": "Travel Accessories", "seoURL": "", "categoryID": "15376" },
+                  { "title": "Nutrition & Supplements", "seoURL": "", "categoryID": "15576" },
+                  { "title": "Sports Medicine", "seoURL": "", "categoryID": "15578" },
+                  { "title": "Electronics", "seoURL": "", "categoryID": "15345" },
+                  { "title": "Knives & Blades", "seoURL": "", "categoryID": "15370" },
+                  { "title": "Dog Supplies", "seoURL": "", "categoryID": "15959" },
+                  { "title": "Toys", "seoURL": "", "categoryID": "15877" }
+                ]
+              },
+              { "title": "", "seoURL": "/weeklyad", "categoryID": "", "subMenuItems": [] },
+              {
+                "title": "",
+                "seoURL": "",
+                "categoryID": "",
+                "subMenuItems": [
+                  { "title": "", "seoURL": "/shop/browse/search", "categoryID": "" },
+                  { "title": "", "seoURL": "/shop/browse/nullsearch", "categoryID": "" }
+                ]
+              },
+              {
+                "title": "BRANDS",
+                "featuredBrands": [
+                  { "imagePath": "https://uat6www.academy.com/content/dam/academysports/homepage/adidas.png", "brandPageURL": "https://www.adidas.co.in/" },
+                  { "imagePath": "https://uat6www.academy.com/content/dam/academysports/homepage/nike.png", "brandPageURL": "https://www.nike.com/" },
+                  {
+                    "imagePath": "https://uat6www.academy.com/content/dam/academysports/homepage/underarmour.png",
+                    "brandPageURL": "https://www.academy.com/shop/browse/columbia"
+                  },
+                  {
+                    "imagePath": "https://uat6www.academy.com/content/dam/academysports/homepage/puma.jpg",
+                    "brandPageURL": "https://www.academy.com/shop/browse/SearchDisplay?searchTerm=reebok"
+                  }
+                ],
+                "brandsList": [
+                  { "brandName": "Calvin Klein", "brandURL": "http://www.academy.com" },
+                  { "brandName": "PRADA", "brandURL": "http://www.academy.com" },
+                  { "brandName": "nike", "brandURL": "/shop/browse/nike" },
+                  { "brandName": "Columbia", "brandURL": "/content/academy/pages/homepage" }
+                ]
+              }
+            ]
+          },
+          {
+            "sectionLabel": "TRENDING",
+            "featureLabel": "Feature",
+            "menuItems": [
+              {
+                "menuLabel": "Community Finds",
+                "features": [
+                  {
+                    "image": "https://uat6www.academy.com/content/dam/academysports/kayak.jpeg",
+                    "ctaTarget": "-http://www.google.com",
+                    "imageDescription1": "KAYAK SAFETY 102",
+                    "imageDescription2": "A Beginner Guide "
+                  },
+                  {
+                    "image": "https://uat6www.academy.com/content/dam/academysports/homepage/Camping.jpg",
+                    "ctaTarget": "-http://www.google.com",
+                    "imageDescription1": "FISHING COOLERS",
+                    "imageDescription2": "Tips for buying, packing and cleaning"
+                  },
+                  {
+                    "image": "https://uat6www.academy.com/content/dam/academysports/homepage/grills.jpeg",
+                    "ctaTarget": "-http://www.google.com",
+                    "imageDescription1": "ROCK CLIMBING TOOLS",
+                    "imageDescription2": "A Beginner Guide"
+                  },
+                  {
+                    "image": "https://uat6www.academy.com/content/dam/academysports/crossbow1.jpg",
+                    "ctaTarget": "-http://www.google.com",
+                    "imageDescription1": "CROSSBOW",
+                    "imageDescription2": "Tips for traveling"
+                  }
+                ]
+              },
+              {
+                "menuLabel": "Camping",
+                "features": [
+                  {
+                    "image": "https://uat6www.academy.com/content/dam/academysports/homepage/promo2.jpeg",
+                    "ctaTarget": "",
+                    "imageDescription1": "Camping",
+                    "imageDescription2": "How to make Hiking with Kids fun"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "sectionLabel": "DEALS",
+            "dealsCategoryID": "15053,15082,15090",
+            "categoryLabel": "Daily Deals",
+            "seeAllLink": "www.academy.com",
+            "seeAllLabel": "See All",
+            "linkURL": "",
+            "productID": ["1363761", "4772149", "4617018", "642252", "51164", " 3511012"]
+          }
+        ]
+      },
+      "api": {},
+      "labels": {
+        "clearanceStylesAvailable": "Clearance styles available",
+        "colorsAvailable": "Colors Available",
+        "priceInCart": "Our Price in Cart",
+        "compareAt": "Compare at",
+        "specialPrice": "For special pricing Call (888)888-888 ",
+        "itemAddedMessage": "Item added successfully",
+        "dropship":
+          "This item may ship from a different location therefore only eligible for ground shipping. Standard delivery of 10-14 days. Additionally, this item is not eligble for APO/FPO delivery."
+      },
+      "pageInfo": {
+        "id": "5b3dc95cf8cfba0001bea065",
+        "page": "homepage",
+        "template": "homepage",
+        "pageType": "content",
+        "variantType": "",
+        "variantValue": "",
+        "aemURL": "/content/academy/pages/homepage.html",
+        "seoURL": "/",
+        "categoryId": "",
+        "parentCatId": null,
+        "productId": null,
+        "debug": "aso",
+        "pageURL": "/?debug=aso"
+      },
+      "isCSR": false
+    }
+  }
+}

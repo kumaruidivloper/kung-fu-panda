@@ -1,0 +1,35 @@
+{
+  "title": "Bread Crumb Component",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "breadCrumb": [
+          {
+              "label":"Academy",
+              "value":"https://www.academy.com"
+          },
+          {
+              "label": "Fishing Shirts",
+              "value": "https://www.academy.com/shop/browse/shops/fathers-day-gifts/shirts-for-dad"                            
+          },
+          {
+             "label": "Magellan Outdoors Men's Laguna Madre Solid Short Sleeve Fishing Shirt",
+              "value": "https://www.academy.com/shop/browse/shops/fathers-day-gifts/shirts-for-dad"
+          },
+          {
+            "label": "Fishing Shirts",
+            "value": "https://www.academy.com/shop/browse/shops/fathers-day-gifts/shirts-for-dad"                            
+        },
+        {
+          "label": "Fishing Shirts",
+          "value": "https://www.academy.com/shop/browse/shops/fathers-day-gifts/shirts-for-dad"                            
+      },
+      {
+        "label": "Fishing Shirts",
+        "value": ""                            
+      } ]
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "rebates",
+  "version": "1.0.0",
+  "description": "Rebates component",
+  "main": "rebates.component.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register rebates.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "emotion": "9.2.10",
+    "react-emotion": "9.2.10"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "enzyme-adapter-react-16": "1.5.0"
+  }
+}

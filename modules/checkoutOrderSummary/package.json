@@ -1,0 +1,14 @@
+{
+  "name": "checkout-order-summary",
+  "version": "1.0.0",
+  "description": "Checkout Order Summary component",
+  "main": "checkoutOrderSummary.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}

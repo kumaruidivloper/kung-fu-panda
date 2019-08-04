@@ -1,0 +1,68 @@
+{
+  "title": "Bait Variant",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Bait Variant works!",
+        "sKUs" : [ {
+          "skuId" : "026991679",
+          "itemId" : "1042115",
+          "imageURL" : "//assets.academy.com/mgen/05/10334505.jpg",
+          "thumbnail" : "//assets.academy.com/mgen/05/10334505.jpg",
+          "sellable" : "true"
+          },
+          {
+          "skuId" : "026991695",
+          "itemId" : "1042116",
+          "imageURL" : "//assets.academy.com/mgen/57/10521057.jpg",
+          "thumbnail" : "//assets.academy.com/mgen/57/10521057.jpg",
+          "sellable" : "true"
+           },
+           {
+          "skuId" : "026991703",
+          "itemId" : "1042117",
+          "imageURL" : "/assets/images/demo/brands/newbalance/category_newbalance.png",
+          "thumbnail" : "/assets/images/demo/brands/newbalance/category_newbalance.png",
+          "sellable" : "true"
+         
+          }, {
+          "skuId" : "026991687",
+          "itemId" : "1042118",
+          "imageURL" : "/assets/images/demo/brands/nike/category_nike.png",
+          "thumbnail" : "/assets/images/demo/brands/nike/category_nike.png",
+          "sellable" : "true"
+          
+          }, {
+          "skuId" : "105359811",
+          "itemId" : "3080769",
+          "imageURL" : "/assets/images/demo/brands/adidas/category_adidas.png",
+          "thumbnail" : "/assets/images/demo/brands/adidas/category_adidas.png",
+          "sellable" : "true"
+          
+          }, {
+            "skuId" : "105359811",
+            "itemId" : "3080769",
+            "imageURL" : "/assets/images/demo/brands/reebok/category_reebok.png",
+            "thumbnail" : "/assets/images/demo/brands/reebok/category_reebok.png",
+            "sellable" : "true"
+            
+            },
+            {
+              "skuId" : "105359811",
+              "itemId" : "3080769",
+              "imageURL" : "/assets/images/demo/brands/reebok/category_reebok.png",
+              "thumbnail" : "/assets/images/demo/brands/reebok/category_reebok.png",
+              "sellable" : "true"
+              
+              } ]
+      },
+      "data": {
+        "price": {
+          "salePrice": "10"
+        }
+      },
+      "selectedQty": "2"
+    }
+  }
+}

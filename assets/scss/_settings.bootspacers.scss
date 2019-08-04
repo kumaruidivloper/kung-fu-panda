@@ -1,0 +1,14 @@
+//custom variable for spacing
+$spacer: 1rem !default;
+$spacers: (
+        quarter:($spacer * .25),
+        half:($spacer * .5),
+        0:0,
+        1:($spacer),
+        2:($spacer * 1.5),
+        3:($spacer * 2),
+        4:($spacer * 2.5),
+        5:($spacer * 3),
+        6:($spacer * 3.5),
+        12:($spacer * 0.75),
+);

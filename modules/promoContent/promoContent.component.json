@@ -1,0 +1,96 @@
+{
+  "title": "Promo Content",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "padding": "yes",
+        "name": "Promot test",
+        "promoContent": [
+          {
+            "mobileImage": "/assets/images/demo/mountains/mt3.jpg",
+            "desktopImage": "/assets/images/demo/brands/adidas/category_adidas.png",
+            "imageAltText": "catalogs",
+            "imageUrl": "http://www.google.com",
+            "headline": "Cookout Ready",
+            "subText": "There are many variations of passages of Lorem Ipsum available",
+            "cta": [
+              {
+                "type": "link",
+                "label": "Shop Men",
+                "url": "/apps/academysports"
+              },
+              {
+                "type": "link",
+                "label": "Shop Women",
+                "url": "/apps/academysports"
+              }
+            ]
+          },
+
+          {
+            "mobileImage": "/assets/images/demo/mountains/mt3.jpg",
+            "desktopImage": "/assets/images/demo/brands/adidas/category_adidas.png",
+            "imageAltText": "catalogs",
+            "imageUrl": "http://www.google.com",
+            "headline": "Cookout Ready",
+            "subText": "There are many variations of passages of Lorem Ipsum available",
+            "cta": [
+              {
+                "type": "link",
+                "label": "Shop Men",
+                "url": "/apps/academysports"
+              },
+              {
+                "type": "link",
+                "label": "Shop Women",
+                "url": "/apps/academysports"
+              }
+            ]
+          },
+          {
+            "mobileImage": "/assets/images/demo/mountains/mt3.jpg",
+            "desktopImage": "/assets/images/demo/brands/adidas/category_adidas.png",
+            "imageAltText": "catalogs",
+            "imageUrl": "http://www.google.com",
+            "headline": "Cookout Ready",
+            "subText": "There are many variations of passages of Lorem Ipsum available",
+            "cta": [
+              {
+                "type": "link",
+                "label": "Shop Men",
+                "url": "/apps/academysports"
+              },
+              {
+                "type": "link",
+                "label": "Shop Women",
+                "url": "/apps/academysports"
+              }
+            ]
+          },
+
+          {
+            "mobileImage": "/assets/images/demo/mountains/mt3.jpg",
+            "desktopImage": "/assets/images/demo/brands/nike/category_nike.png",
+            "imageAltText": "catalogs",
+            "imageUrl": "http://www.yahoo.com",
+            "headline": "Cookout Ready",
+            "subText": "There are many variations of passages of Lorem Ipsum available",
+            "cta": [
+              {
+                "type": "button",
+                "label": "Shop Now",
+                "url": "/apps/academysports"
+              }
+            ]
+          }
+        ]
+      },
+      "dimension83": "09/21/18",
+      "name": "August Sale",
+      "id": "AUGUST_PROMO18",
+      "position": "slot1",
+      "creative": "promocontent1"
+    }
+  }
+}

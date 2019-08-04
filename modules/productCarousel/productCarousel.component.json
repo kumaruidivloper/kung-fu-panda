@@ -1,0 +1,30 @@
+{
+  "title": "Product Carousel",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "N",
+        "desktopImage": "/content/dam/we-unlimited-app/issues/images/DI_trailer.jpg",
+        "mobileImage": "/content/dam/we-unlimited-app/issues/images/DI_trailer.jpg",
+        "carouselHeadline": "Product Headline",
+        "productIDs": [
+          { "productId": "3717858" },
+          { "productId": "4806731" },
+          { "productId": "3741079" },
+          { "productId": "3588138" },
+          { "productId": "3635984" },
+          { "productId": "1197059" },
+          { "productId": "4806742" },
+          { "productId": "4280140" }
+        ],
+        "dimension83": "08/16/18",
+        "name": "campaign name",
+        "id": "campaign id",
+        "position": "slot1",
+        "isAuthoring": "N",
+        "creative": "product carousel"
+      }
+    }
+  }
+}

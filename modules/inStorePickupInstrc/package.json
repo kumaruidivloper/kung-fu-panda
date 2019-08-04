@@ -1,0 +1,11 @@
+{
+  "name": "in-store-pickup-instrc",
+  "version": "1.0.0",
+  "description": "In Store Pickup Instrc component",
+  "main": "inStorePickupInstrc.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

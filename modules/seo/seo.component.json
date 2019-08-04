@@ -1,0 +1,17 @@
+{
+    "title": "Seo",
+    "status": "wip",
+    "context": {
+        "data": {
+            "api": { 
+                "seoTitle": "", 
+                "seoMetaDescription": "",
+                "seoKeyWords": "" 
+            },
+            "pageInfo": {
+                "pageType": "",
+                "pageURL": ""
+            }
+        }
+    }
+}

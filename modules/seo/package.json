@@ -1,0 +1,20 @@
+{
+  "name": "seo",
+  "version": "1.0.0",
+  "description": "Seo component",
+  "main": "seo.component.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register seo.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-parse-stringify": "1.0.2",
+    "react-safe": "1.1.1"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "enzyme": "3.6.0",
+    "enzyme-adapter-react-16": "1.5.0"
+  }
+}

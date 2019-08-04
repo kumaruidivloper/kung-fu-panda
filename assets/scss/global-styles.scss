@@ -1,0 +1,70 @@
+body {
+  font-family: 'Mallory';
+}
+
+.mallory-book {
+  font-family: 'Mallory-Book';
+}
+.mallory-book-italic {
+  font-family: 'Mallory-Book-Italic';
+}
+.mallory-bold {
+  font-family: 'Mallory-Bold';
+}
+.mallory-bold-italic {
+  font-family: 'Mallory-Bold-Italic';
+}
+.mallory-black {
+  font-family: 'Mallory-Black';
+}
+.mallory-black-italic {
+  font-family: 'Mallory-Black-Italic';
+}
+.mallory-medium {
+  font-family: 'Mallory-Medium';
+}
+.mallory-medium-italic {
+  font-family: 'Mallory-Medium-Italic';
+}
+.mallory-thin {
+  font-family: 'Mallory-Thin';
+}
+.mallory-thin-italic {
+  font-family: 'Mallory-Thin-Italic';
+}
+.mallory-ultra {
+  font-family: 'Mallory-Ultra';
+}
+.mallory-ultra-italic {
+  font-family: 'Mallory-Ultra-Italic';
+}
+.mallory-light {
+  font-family: 'Mallory-Light';
+}
+.mallory-light-italic {
+  font-family: 'Mallory-Light-Italic';
+}
+.mallory-extra-light {
+  font-family: 'Mallory-ExtraLight';
+}
+.mallory-extra-light-italic {
+  font-family: 'Mallory-ExtraLight-Italic';
+}
+.mallory-cond-black {
+  font-family: 'MalloryCond-Black';
+}
+.mallory-cond-medium {
+  font-family: 'MalloryCond-Medium';
+}
+.mallory-cond-light {
+  font-family: 'MalloryCond-Light';
+}
+
+.homepage > .row > div {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.homepage button:hover {
+  color: white;
+}

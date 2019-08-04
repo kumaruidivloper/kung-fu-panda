@@ -1,0 +1,46 @@
+{
+  "title": "Sign Up Component",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "weakLabel": "Weak",
+          "strongLabel": "Strong",
+          "passwordStrengthLabel": "Password strength",
+          "passwordStrengthCopyLabel": "Password Strength Copy",
+          "submit": "Submit",
+          "emailaddressLabel": "Email Address"
+        },
+        "checkoutLabels": {
+          "firstNameLabel": "First Name",
+          "lastNameLabel": "Last Name"
+        },
+        "errorMsg": {
+          "mandatoryFirstName": "Please enter the First Name",
+          "mandatoryLastName": "Please enter the Last Name",
+          "mandatoryEmailAddress": "Please enter an Email address",
+          "mandatoryPassword": "Please enter a Password",
+          "incorrectLoginIdPassword": "The combination of Email Address and Password is incorrect. Please try again.",
+          "accountLockedMultipleAttempts": "For maximum security, we have locked your account due to multiple unsuccessful login attempts. Please retrieve the password from your email and try again.",
+          "emailIdPasswordBlank": "Please enter an Email address and/or Password",
+          "accountDoesNotExist": "Sorry, we do not have an account registered with this email address. Please enter a registered email address or create a new account.",
+          "forgotPasswordConfirmation": "Your password has been reset. Please retrieve the new password from your email and try again.",
+          "blankEmailAddress": "Please enter your email address.",
+          "emailFormatIncorrect": "Please enter the Email Address in a valid format (ex. abc@xyz.com)"
+        },
+        "signUpHeadingLabel": "Sign Up",
+        "signUpMessageLabel": "Create Your Academy.com account to track & manage your Orders",
+        "createPassword": "Create Password",
+        "promotionalMessageLabel": "I would like to recieve promotion&special offers",
+        "signUp": "Sign Up",
+        "alreadyHaveAnAccountLabel": "Already have an Account?",
+        "signInNow": "Sign In Now",
+        "signUpSuccessLabel": "Congratulations",
+        "signUpSuccessMessageLabel": "You have Successfully Registered with Academy.com",
+        "letsShopLabel": "Let's Shop"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "order-return",
+  "version": "1.0.0",
+  "description": "Order Return component",
+  "main": "orderReturn.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}

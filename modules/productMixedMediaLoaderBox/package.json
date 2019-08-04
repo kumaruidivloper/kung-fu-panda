@@ -1,0 +1,11 @@
+{
+  "name": "product-mixed-media-loader-box",
+  "version": "1.0.0",
+  "description": "Product Mixed Media Loader Box component",
+  "main": "productMixedMediaLoaderBox.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

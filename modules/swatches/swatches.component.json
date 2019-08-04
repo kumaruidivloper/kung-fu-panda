@@ -1,0 +1,21 @@
+{
+  "title": "Swatches",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Swatches works!",
+        "swatchList": [
+          "5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5" 
+        ],
+        "swatchImgList": [
+          "/assets/images/demo/brands/adidas/category_adidas.png", 
+          "/assets/images/demo/brands/newbalance/category_newbalance.png", 
+          "/assets/images/demo/brands/nike/category_nike.png",
+          "/assets/images/demo/brands/reebok/category_reebok.png",
+          "/assets/images/demo/brands/underarmour/category_underarmour.png"
+        ]
+      }
+    }
+  }
+}

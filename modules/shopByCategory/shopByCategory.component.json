@@ -1,0 +1,105 @@
+{
+  "title": "Shop By Category component",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "headlineCopy": "SHOP BY CATEGORY",
+        "headlineAlignment": "center",
+        "backgroundDesktopImage": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "backgroundMobileImage": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=550"
+      },
+      "api": {
+        "categories": [
+          {
+            "categoryId": "16142",
+            "name": "Football Apparel",
+            "storeID": "10151",
+            "seoURL": "/browse/sports/football/football-apparel/football-apparel",
+            "shortDescription": "Football Apparel",
+            "subCategories": [
+              {
+                "thumbnail": "http://assets.academy.com/mgen/79/10265379.jpg?is=150,150",
+                "shortDescription": "Football Training Apparel",
+                "name": "Football Training Apparel",
+                "categoryId": "168244",
+                "storeID": "10151",
+                "identifier": "Football Training Apparel",
+                "seoURL": "/browse/sports/football/football-apparel/football-training-apparel"
+              },
+              {
+                "thumbnail": "http://assets.academy.com/mgen/90/10208890.jpg?is=150,150",
+                "shortDescription": "Football Jerseys & Tops",
+                "name": "Football Jerseys & Tops",
+                "categoryId": "24893",
+                "storeID": "10151",
+                "identifier": "Football Jerseys & Tops",
+                "seoURL": "/browse/sports/football/football-apparel/football-jerseys"
+              },
+              {
+                "thumbnail": "http://assets.academy.com/mgen/30/10654230.jpg?is=150,150",
+                "shortDescription": "Football Compression Shirts & Shorts",
+                "name": "Football Compression Shirts & Shorts",
+                "categoryId": "189936",
+                "storeID": "10151",
+                "identifier": "Football Compression Shirts & Shorts",
+                "seoURL": "/browse/sports/football/football-apparel/football-compression-shirts--shorts"
+              },
+              {
+                "thumbnail": "http://assets.academy.com/mgen/22/10625022.jpg?is=150,150",
+                "name": "Football Graphic Tops",
+                "categoryId": "216943",
+                "storeID": "10151",
+                "identifier": "Football Graphic Tops",
+                "seoURL": "/browse/sports/football/football-apparel/football-graphic-tops"
+              },
+              {
+                "thumbnail": "http://assets.academy.com/mgen/66/10158666.jpg?is=150,150",
+                "shortDescription": "Armbands and Sleeves",
+                "name": "Armbands and Sleeves",
+                "categoryId": "24895",
+                "storeID": "10151",
+                "identifier": "Headbands and Wristbands",
+                "seoURL": "/browse/sports/football/football-apparel/football-apparel-accessories"
+              },
+              {
+                "thumbnail": "http://assets.academy.com/mgen/76/10161876.jpg?is=150,150",
+                "shortDescription": "Football Girdles & Pants",
+                "name": "Football Girdles & Pants",
+                "categoryId": "24894",
+                "storeID": "10151",
+                "identifier": "Football Girdles & Pants",
+                "seoURL": "/browse/sports/football/football-apparel/football-bottoms"
+              },
+              {
+                "thumbnail": "http://assets.academy.com/mgen/89/10393289.jpg?is=150,150",
+                "name": "Football Skull Caps",
+                "categoryId": "193446",
+                "storeID": "10151",
+                "identifier": "Football Skull Caps",
+                "seoURL": "/browse/sports/football/football-apparel/football-skull-cap"
+              },
+              {
+                "thumbnail": "http://assets.academy.com/mgen/55/10639955.jpg?is=150,150",
+                "shortDescription": "Football Socks",
+                "name": "Football Socks",
+                "categoryId": "187940",
+                "storeID": "10151",
+                "identifier": "AP_Football Socks",
+                "seoURL": "/browse/sports/football/football-apparel/football-socks--1"
+              },
+              {
+                "thumbnail": "http://assets.academy.com/mgen/96/10277096.jpg?is=150,150",
+                "name": "Youth Football Apparel",
+                "categoryId": "219940",
+                "storeID": "10151",
+                "identifier": "Youth Football Apparel",
+                "seoURL": "/browse/sports/football/football-apparel/youth-football-apparel"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+/** BV overrides for Product Grid **/
+.c-product__ratings-reviews > div {
+  .product-card-reviews {
+    display: inline;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.33;
+  }
+}
+.horizontal.product-card .c-product__ratings-reviews {
+  font-size: 12px;
+}
+.product-card-reviews .bv_main_container {
+  .bv_numReviews_component_container {
+    padding: 0 !important;
+  }
+  .bv_stars_component_container {
+    display: none !important;
+  }
+  .bv_numReviews_component_container button {
+    font-family: Mallory-Book !important;
+    font-size: 10px !important;
+    line-height: 14px !important;
+    padding: 0 !important;
+    position: relative !important;
+
+    @media only screen and (min-width: 992px) {
+      font-size: 12px !important;
+      line-height: 16px !important;
+    }
+  }
+}
+.product-card [data-bv-show=inline_rating] .bv_main_container .bv_numReviews_component_container {
+  padding-left: 0px!important;
+}
+.vertical.product-card .product-card-reviews .bv_main_container {
+  .bv_numReviews_component_container button {
+    font-size: 12px !important;
+    line-height: 16px !important;
+  }
+}

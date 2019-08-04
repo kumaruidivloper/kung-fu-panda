@@ -1,0 +1,19 @@
+{
+  "title": "Product Additional Details",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Product Additional Details works!"
+      },
+      "price": {
+        "salePrice": "4.98",
+        "priceMessage": "wasNowPrice",
+        "savings": "301.41%",
+        "listPrice": "19.99",
+        "regularPrice": "20.00",
+        "offerPrice": "20.00"
+      }
+    }
+  }
+}

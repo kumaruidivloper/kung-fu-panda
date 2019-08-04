@@ -1,0 +1,14 @@
+{
+  "name": "no-diff-product-detailed-content",
+  "version": "1.0.0",
+  "description": "No Diff Product Detailed Content component",
+  "main": "noDiffProductDetailedContent.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-tabs": "2.3.0"
+  }
+}

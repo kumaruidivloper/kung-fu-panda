@@ -1,0 +1,18 @@
+{
+  "name": "accordion",
+  "version": "1.0.0",
+  "description": "Accordion component",
+  "main": "accordion.component.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register accordion.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "enzyme-adapter-react-16": "1.5.0"
+  }
+}

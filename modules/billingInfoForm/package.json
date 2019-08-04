@@ -1,0 +1,14 @@
+{
+  "name": "billing-info-form",
+  "version": "1.0.0",
+  "description": "Billing Info Form component",
+  "main": "billingInfoForm.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "1.0.107"
+  },
+  "author": "",
+  "license": "ISC"
+}

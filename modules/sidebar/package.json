@@ -1,0 +1,15 @@
+{
+  "name": "sidebar",
+  "version": "1.0.0",
+  "description": "Sidebar component",
+  "main": "sidebar.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1"
+  }
+}

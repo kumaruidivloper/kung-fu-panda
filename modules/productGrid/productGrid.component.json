@@ -1,0 +1,11 @@
+{
+  "title": "Product Grid component",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": { "items": "Items", "sortBy": "Sort By" },
+      "api": {
+      }
+    }
+  }
+}

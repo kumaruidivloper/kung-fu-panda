@@ -1,0 +1,16 @@
+{
+  "title": "Rebate",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "heading": "Browning",
+        "offerInformation": "Receive $3 back(limit 2) on purchase of BXD Turkey ammunition via mail-in rebate",
+        "ctaLink": "Click for offer",
+        "ctaURL": "http://dev.academy.com/shop/en/store/press-releases",
+        "expiryDate": "06/30/18"
+      }
+    }
+  }
+}

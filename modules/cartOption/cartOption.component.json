@@ -1,0 +1,370 @@
+{
+  "title": "Cart Option",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "commonLabels": {
+          "checkoutLabel": "Checkout",
+          "colorLabel": "Color",
+          "sizeLabel": "Size",
+          "removeLabel": "Remove",
+          "promoCodeLabel": "Promo Code {{promocode}} added",
+          "militaryDiscountLabel": "Military Discount",
+          "shipItemsLabel": "Ship Items",
+          "quantityLabel": "Quantity",
+          "inStorePickUpLabel": "In-Store Pickup",
+          "freeLabel": "Free",
+          "addToWishlistLabel": "Add To Wishlist",
+          "removeFromCartLabel": "Remove From Cart",
+          "employeeDiscountLabel": "Employee Discount",
+          "subTotalLabel": "Subtotal",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "estimatedTaxesLabel": "Estimated Taxes",
+          "signInLabel": "Sign In",
+          "continueShoppingLabel": "Continue Shipping",
+          "submitLabel": "Submit",
+          "editLabel": "Edit",
+          "secureLabel": "Secure",
+          "addPromoCodeLabel": "Add Promo Code",
+          "shippingLabel": "Shipping",
+          "taxesLabel": "Taxes",
+          "shippingItemsLabel": "Shipping Items",
+          "editMyCartLabel": "Edit My Cart",
+          "placeOrderLabel": "Place Order",
+          "emailAddressLabel": "Email Address",
+          "goToPaymentLabel": "Go To Payment",
+          "doneLabel": "Done",
+          "checkoutWithPaypalLabel": "Paypal",
+          "promoCodeTextLabel": "Promo Code"
+        }
+      },
+      "orderItems": [
+        {
+          "orderItemId": "550246089",
+          "unitPrice": 40,
+          "totalAdjustment": [
+            {
+              "amount": -28.8,
+              "displayLevel": "Order"
+            },
+            {
+              "amount": -32,
+              "displayLevel": "OrderItem"
+            }
+          ],
+          "zipCode": null,
+          "quantity": 8,
+          "shipModeCode": "UPS Ground",
+          "shipModeId": "10551",
+          "orderItemPrice": 320,
+          "orderItemDiscountedPrice": 288,
+          "skuId": "103412876",
+          "isfreeGift": false,
+          "productId": "1311822",
+          "skuDetails": {
+            "inventory": {
+              "online": [
+                {
+                  "inventoryStatus": "IN_STOCK",
+                  "availableQuantity": "26.0",
+                  "storeId": null
+                }
+              ],
+              "store": [
+                {
+                  "inventoryStatus": null,
+                  "availableQuantity": null,
+                  "storeId": "false"
+                }
+              ]
+            },
+            "skuInfo": {
+              "name": "M NIKE NET 11\"SHORT:Black:Small",
+              "shortDescription": "",
+              "longDescription": "Stay cool and comfortable on the court in the Nike� Men's Woven Tennis Short. Made of stretchy 88% polyester and 12% spandex, this short features moisture-wicking Dri-FIT fabric technology and a mesh yoke and gusset to provide ventilation. The elastic waistband with a draw cord offers a secure fit. Left zip pocket and side-slit ball pockets. 11\" inseam based on size medium.",
+              "sellable": "true",
+              "fullImage": "//assets.academy.com/mgen/92/10411292.jpg",
+              "thumbnail": "//assets.academy.com/mgen/92/10411292.jpg",
+              "imageAltDescription": "M NIKE NET 11\"SHORT:Black:Small",
+              "skuAttributes": [
+                {
+                  "name": "Color",
+                  "value": "Black",
+                  "usage": "Defining"
+                },
+                {
+                  "name": "Size",
+                  "value": "Small",
+                  "usage": "Defining"
+                }
+              ]
+            }
+          },
+          "storeAddres": [],
+          "isBundleItem": true,
+          "bundleInfo": {
+            "catEntryId": "1217203"
+          },
+          "availableShippingMethods": [
+            {
+              "shipmodeId": "10551",
+              "shipmodeDesc": null,
+              "shippingType": "SG",
+              "estimatedFromDate": "2018-07-30",
+              "estimatedToDate": "2018-08-01",
+              "hasSOFItems": true,
+              "hasAgeRestrictedItems": true
+            }
+          ]
+        },
+        {
+          "orderItemId": "550246089",
+          "unitPrice": 40,
+          "totalAdjustment": [
+            {
+              "amount": -28.8,
+              "displayLevel": "Order"
+            },
+            {
+              "amount": -32,
+              "displayLevel": "OrderItem"
+            }
+          ],
+          "zipCode": null,
+          "quantity": 8,
+          "shipModeCode": "PickupInStore",
+          "shipModeId": "10556",
+          "orderItemPrice": 320,
+          "orderItemDiscountedPrice": 288,
+          "skuId": "103412876",
+          "isfreeGift": false,
+          "productId": "1311822",
+          "skuDetails": {
+            "inventory": {
+              "online": [
+                {
+                  "inventoryStatus": "IN_STOCK",
+                  "availableQuantity": "26.0",
+                  "storeId": null
+                }
+              ],
+              "store": [
+                {
+                  "inventoryStatus": null,
+                  "availableQuantity": null,
+                  "storeId": "false"
+                }
+              ]
+            },
+            "skuInfo": {
+              "name": "M NIKE NET 11\"SHORT:Black:Small",
+              "shortDescription": "",
+              "longDescription": "Stay cool and comfortable on the court in the Nike� Men's Woven Tennis Short. Made of stretchy 88% polyester and 12% spandex, this short features moisture-wicking Dri-FIT fabric technology and a mesh yoke and gusset to provide ventilation. The elastic waistband with a draw cord offers a secure fit. Left zip pocket and side-slit ball pockets. 11\" inseam based on size medium.",
+              "sellable": "true",
+              "fullImage": "//assets.academy.com/mgen/92/10411292.jpg",
+              "thumbnail": "//assets.academy.com/mgen/92/10411292.jpg",
+              "imageAltDescription": "M NIKE NET 11\"SHORT:Black:Small",
+              "skuAttributes": [
+                {
+                  "name": "Color",
+                  "value": "Black",
+                  "usage": "Defining"
+                },
+                {
+                  "name": "Size",
+                  "value": "Small",
+                  "usage": "Defining"
+                }
+              ]
+            }
+          },
+          "storeAddres": ["23155 Katy Freeway", "STORE-33", "33"],
+          "isBundleItem": true,
+          "bundleInfo": {
+            "catEntryId": "1217203"
+          },
+          "availableShippingMethods": [
+            {
+              "shipmodeId": "10551",
+              "shipmodeDesc": null,
+              "shippingType": "SG",
+              "estimatedFromDate": "2018-07-30",
+              "estimatedToDate": "2018-08-01",
+              "hasSOFItems": true,
+              "hasAgeRestrictedItems": true
+            }
+          ]
+        },
+        {
+          "orderItemId": "20001",
+          "unitPrice": "12",
+          "zipCode": "560066",
+          "quantity": 1,
+          "shipModeCode": "UPS Ground",
+          "shipModeId": "10551",
+          "orderItemPrice": "123",
+          "orderItemDiscountedPrice": "123",
+          "showPromotionalMessage": "true",
+          "skuId": "111083697",
+          "isfreeGift": "",
+          "productId": "4686067",
+          "skuDetails": {
+            "inventory": {
+              "store": [
+                {
+                  "storeId": "1005",
+                  "availableQuantity": "2",
+                  "inventoryStatus": "OUT_OF_STOCK"
+                }
+              ],
+              "online": [
+                {
+                  "availableQuantity": "2",
+                  "inventoryStatus": "OUT_OF_STOCK"
+                }
+              ]
+            },
+            "skuInfo": {
+              "name": "Mag M SS Laguna Madre:Grey:X Small",
+              "shortDescription": "",
+              "longDescription": "Just slip on the Magellan Outdoors Men's Laguna Madre Solid Short Sleeve Fishing Shirt, pack up your reel, rod and tackle box and you'll be ready to go. Made of lightweight, yet sturdy nylon, this short-sleeve shirt offers UPF 20+ protection from the sun's harmful rays. Plus, moisture-wicking fabric technology helps keep you cool and dry on especially hot days out on the water.",
+              "sellable": "true",
+              "fullImage": "//assets.academy.com/mgen/68/20004268.jpg",
+              "thumbnail": "//assets.academy.com/mgen/68/20004268.jpg",
+              "imageAltDescription": "Mag M SS Laguna Madre:Grey:X Small",
+              "skuAttributes": [
+                {
+                  "name": "color",
+                  "value": "blue"
+                },
+                {
+                  "name": "size",
+                  "value": "43"
+                }
+              ]
+            },
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDesc": "UPS Ground",
+                "shippingType": "SG",
+                "estimatedFromDate": "7-1",
+                "estimatedToDate": "7-4"
+              },
+              {
+                "shipmodeId": "10556",
+                "shipmodeDesc": "Pickup In Store",
+                "shippingType": "PICKUPINSTORE"
+              },
+              {
+                "shipmodeId": "10556",
+                "shipmodeDesc": "Ship To Store",
+                "shippingType": "STS",
+                "estimatedFromDate": "7-1",
+                "estimatedToDate": "7-4"
+              }
+            ]
+          }
+        },
+        {
+          "orderItemId": "20001",
+          "unitPrice": "123",
+          "zipCode": "560066",
+          "quantity": 1,
+          "showPromotionalMessage": "true",
+          "shipModeCode": "UPS Ground",
+          "shipModeId": "10551",
+          "orderItemPrice": "123",
+          "orderItemDiscountedPrice": "123",
+          "skuId": "111083697",
+          "isfreeGift": "",
+          "productId": "4686067",
+          "skuDetails": {
+            "inventory": {
+              "store": [
+                {
+                  "storeId": "1005",
+                  "availableQuantity": "2",
+                  "inventoryStatus": "OUT_OF_STOCK"
+                }
+              ],
+              "online": [
+                {
+                  "availableQuantity": "2",
+                  "inventoryStatus": "IN_STOCK"
+                }
+              ]
+            },
+            "skuInfo": {
+              "name": "Mag M SS Laguna Madre:Grey:X Small",
+              "shortDescription": "",
+              "longDescription": "Just slip on the Magellan Outdoors Men's Laguna Madre Solid Short Sleeve Fishing Shirt, pack up your reel, rod and tackle box and you'll be ready to go. Made of lightweight, yet sturdy nylon, this short-sleeve shirt offers UPF 20+ protection from the sun's harmful rays. Plus, moisture-wicking fabric technology helps keep you cool and dry on especially hot days out on the water.",
+              "sellable": "true",
+              "fullImage": "//assets.academy.com/mgen/68/20004268.jpg",
+              "thumbnail": "//assets.academy.com/mgen/68/20004268.jpg",
+              "imageAltDescription": "Mag M SS Laguna Madre:Grey:X Small",
+              "skuAttributes": [
+                {
+                  "name": "color",
+                  "value": "blue"
+                },
+                {
+                  "name": "size",
+                  "value": "43"
+                }
+              ]
+            },
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDesc": "UPS Ground",
+                "shippingType": "SG",
+                "estimatedFromDate": "7-1",
+                "estimatedToDate": "7-4"
+              },
+              {
+                "shipmodeId": "10556",
+                "shipmodeDesc": "Pickup In Store",
+                "shippingType": "PICKUPINSTORE"
+              },
+              {
+                "shipmodeId": "10556",
+                "shipmodeDesc": "Ship To Store",
+                "shippingType": "STS",
+                "estimatedFromDate": "7-1",
+                "estimatedToDate": "7-4"
+              }
+            ]
+          }
+        }
+      ],
+      "bundleProductInfo": [
+        {
+          "catEntryId": "1217203",
+          "info": {
+            "name": "M NIKE NET 11\"SHORT:Black:Small",
+            "shortDescription": "",
+            "longDescription": "Stay cool and comfortable on the court in the Nike� Men's Woven Tennis Short. Made of stretchy 88% polyester and 12% spandex, this short features moisture-wicking Dri-FIT fabric technology and a mesh yoke and gusset to provide ventilation. The elastic waistband with a draw cord offers a secure fit. Left zip pocket and side-slit ball pockets. 11\" inseam based on size medium.",
+            "sellable": "true",
+            "fullImage": "//assets.academy.com/mgen/92/10411292.jpg",
+            "thumbnail": "//assets.academy.com/mgen/92/10411292.jpg",
+            "imageAltDescription": "M NIKE NET 11\"SHORT:Black:Small",
+            "skuAttributes": [
+              {
+                "name": "Color",
+                "value": "Black",
+                "usage": "Defining"
+              },
+              {
+                "name": "Size",
+                "value": "Small",
+                "usage": "Defining"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

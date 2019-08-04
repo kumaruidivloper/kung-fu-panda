@@ -1,0 +1,98 @@
+{
+  "title": "Find A Store Modal",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "commonLabels": {
+          "outOfStockImageURL": "/content/dam/academysports/cart/ProductGreyOut@4x.png"
+        },
+        "findAStoreLabel": "Find a Store",
+        "findStoreHeading": "Find a Store",
+        "viewNextStoreLabel": "View The Next {{remainingStore}} Stores",
+        "yourStoreLabel": "Your Store",
+        "makeMyStoreLabel": "Make My Store",
+        "closestStoreNumber": "5",
+        "closestStoresLabel": "Closest Stores to Your Location",
+        "availableLabel": "Available",
+        "notAvailableLabel": "Not Available",
+        "itemsAvailableForPickUpLabel": "Items Available For Pickup",
+        "itemsNotAvailableForPickUpLabel": "Items Not Available For Pickup",
+        "miLabel": "mi",
+        "drivingDirectionLabel": "Driving Directions",
+        "radiusLabel": "250",
+        "sorryMessageLabel": "Sorry! There are no stores within {{radiusLabel}} miles. Please order online or try new ZIP code."
+      },
+      "storeData": {
+        "storeDetails": {
+          "data": [
+            {
+              "store-0089": {
+                "inventory": {},
+                "properties": {
+                  "streetAddress": "3855 S 26th St",
+                  "storeLocalID": "2622190",
+                  "phone": "(479) 619-1900",
+                  "services":
+                    "<ul>\n<li>Hunting & Fishing Licenses</li>\n<li>Line Spooling</li>\n<li>Scope Mounting & Bore Sighting</li>\n<li>FFL Transfer Service</li>\n<li>CO2 Refills</li>\n<li>Propane Exchange</li>\n<li>Racquet Stringing</li>\n<li>Product Delivery & Assembly</li>\n<li>Archery Lane</li>\n<li>Archery Shop</li>\n<li>Electronic Driving Range</li>\n<!--<li>Golf Club Regripping</li>-->\n<li>Golf Club Trade-In</li>\n</ul>\n<br>\n<br><a href='/webapp/wcs/stores/servlet/InStoreServices?langId=-1&storeId=10151&catalogId=10051'>View details</a>",
+                  "storePicURL": "",
+                  "storeName": "Academy Sports + Outdoors 0089",
+                  "storeHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                  "neighborhood": "Pleasant Grove",
+                  "state": "ar",
+                  "todayHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                  "gx_id": "89",
+                  "city": "Rogers",
+                  "country": "US",
+                  "careers": "10560170185",
+                  "distance": "2.86",
+                  "zipCode": "72758",
+                  "EVENTS": "<div class='monetateevents'></div>",
+                  "promo1": ""
+                },
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [36.2899, -94.1582, 0]
+                }
+              }
+            },
+            {
+              "store-0180": {
+                "inventory": {},
+                "properties": {
+                  "streetAddress": "3864 N. Steele Blvd.",
+                  "storeLocalID": "",
+                  "phone": "(479) 444-2500",
+                  "services":
+                    "<ul>\n<li>Hunting & Fishing Licenses</li>\n<li>Line Spooling</li>\n<li>Scope Mounting & Bore Sighting</li>\n<li>FFL Transfer Service</li>\n<li>CO2 Refills</li>\n<li>Propane Exchange</li>\n<li>Racquet Stringing</li>\n<li>Product Delivery & Assembly</li>\n<li>Archery Lane</li>\n<li>Archery Shop</li>\n<li>Electronic Driving Range</li>\n<!--<li>Golf Club Regripping</li>-->\n<li>Golf Club Trade-In</li>\n</ul>\n<br>\n<br><a href='/webapp/wcs/stores/servlet/InStoreServices?langId=-1&storeId=10151&catalogId=10051'>View details</a>",
+                  "storePicURL": "",
+                  "storeName": "Academy Sports + Outdoors 180",
+                  "storeHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                  "neighborhood": "Mud Creek",
+                  "state": "ar",
+                  "todayHours": "Sun. 9:30am-9:30pm Mon. 8am-9:30pm Tues. 8am-9:30pm Weds. 8am-9:30pm Thurs. 8am-9:30pm Fri. 8am-10pm Sat. 8am-10pm",
+                  "gx_id": "180",
+                  "city": "Fayetteville",
+                  "country": "US",
+                  "careers": "",
+                  "distance": "14.06",
+                  "zipCode": "72703",
+                  "EVENTS": "<div class='monetateevents'></div>",
+                  "promo1": ""
+                },
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [36.121747, -94.154561, 0]
+                }
+              }
+            }
+          ]
+        },
+        "isFetching": false
+      },
+      "neighborhood": "neighborhood"
+    }
+  }
+}

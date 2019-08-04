@@ -1,0 +1,49 @@
+$states:open close;
+
+@each $state in $states {
+  .bundle-title-wrapper-#{$state} {
+    .bundle-title-#{$state} {
+      text-transform: uppercase;
+    }
+  }
+}
+.bundle-title-wrapper-close {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.bundle-title-close {
+  height: 24px;
+  font-family: "Mallory";
+  font-size: 24px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1;
+  letter-spacing: normal;
+  color: $academy-gray;
+}
+.bundle-title-open {
+  font-family: "Mallory";
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1;
+  letter-spacing: normal;
+  color: $academy-gray;
+  height: 32px;
+  font-size: 32px;
+}
+
+.bundle-accordion-body {
+  overflow: hidden;
+  min-height: 500px;
+  flex: 1;
+}
+
+.bundle-accordion-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}

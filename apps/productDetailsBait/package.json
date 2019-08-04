@@ -1,0 +1,22 @@
+{
+  "name": "pdp-generic",
+  "version": "1.0.0",
+  "description": "Pdp Generic component",
+  "main": "pdpGeneric.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.18.0",
+    "react": "16.5.2",
+    "react-emotion": "9.2.10",
+    "react-redux": "5.0.7",
+    "react-router-dom": "4.3.1",
+    "redux": "4.0.0"
+  },
+  "devDependencies": {
+    "redux-mock-store": "1.5.3"
+  }
+}

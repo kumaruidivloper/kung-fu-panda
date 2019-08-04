@@ -1,0 +1,11 @@
+{
+  "name": "apple-pay",
+  "version": "1.0.0",
+  "description": "Apple Pay component",
+  "main": "applePay.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

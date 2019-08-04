@@ -1,0 +1,14 @@
+{
+  "name": "sweepstakes",
+  "version": "1.0.0",
+  "description": "Sweepstakes component",
+  "main": "sweepstakes.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.3"
+  },
+  "author": "",
+  "license": "ISC"
+}

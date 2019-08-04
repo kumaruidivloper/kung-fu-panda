@@ -1,0 +1,4274 @@
+{
+  "title": "Product Attributes And Sizes",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Product Attributes And Sizes works!",
+        "productItem": {
+             "mixedMediaMetaData": null,
+             "id": "1334748",
+             "name": "BCG Men's Basic 5\" Running Short",
+             "sellable": "true",
+             "defaultSku": "1343391",
+             "imageURL": "//assets.academy.com/mgen/05/10424505.jpg",
+             "price": {
+                "salePrice": "14.99",
+                "priceMessage": "",
+                "savings": "",
+                "listPrice": "14.99"
+             },
+             "swatchImgList": [
+                {
+                   "itemId": 0,
+                   "imageURL": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "sellable": true
+                },
+                {
+                   "itemId": 1,
+                   "imageURL": "//assets.academy.com/mgen/14/10684314.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/14/10684314.jpg",
+                   "sellable": true
+                },
+                {
+                   "itemId": 2,
+                   "imageURL": "//assets.academy.com/mgen/75/10797175.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/75/10797175.jpg",
+                   "sellable": true
+                },
+                {
+                   "itemId": 3,
+                   "imageURL": "//assets.academy.com/mgen/07/10790507.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/07/10790507.jpg",
+                   "sellable": true
+                },
+                {
+                   "itemId": 4,
+                   "imageURL": "//assets.academy.com/mgen/97/10797197.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/97/10797197.jpg",
+                   "sellable": true
+                }
+             ],
+             "itemId": "102533916",
+             "mfItemId": "SGBCMR6007",
+             "bvRating": "4",
+             "isGiftCard": "N",
+             "productSpecifications": [
+                {
+                   "featureBenefits": {
+                      "value": [
+                         "2 side pockets and 1 inner key pocket",
+                         "Machine wash cold with like colors, do not bleach, do not use softeners; tumble dry low, do not iron, do not dry clean",
+                         "Made of 86% polyester and 14% spandex for sporty wear",
+                         "5-inch inseam",
+                         "100% polyester inner brief for support",
+                         "Reflective, heat-transferred BCG™ logo helps keep you visible and safe during low-light runs",
+                         "Drawstring closure and an elastic waistband",
+                         "Moisture-wicking Tru-Wick™ fabric technology and an odor-resistant finish help keep you feeling fresh"
+                      ],
+                      "key": "Features and Benefits"
+                   }
+                },
+                {
+                   "specifications": {
+                      "value": {
+                         "Moisture Wicking": "Yes",
+                         "Inseam (in.)": "5\"",
+                         "Activity": "Running",
+                         "Type": "Shorts",
+                         "Size Range": "Men's",
+                         "Gender": "Men's",
+                         "Material": "86% polyester, 14% spandex",
+                         "Style": "Athletic",
+                         "Compression": "No"
+                      },
+                      "key": "Specifications"
+                   }
+                },
+                {
+                   "What's in the Box": {
+                      "value": "BCG Men's Basic 5\" Running Short",
+                      "key": "What's in the Box"
+                   }
+                }
+             ],
+             "partNumber": "102533836",
+             "longDescription": "The BCG Men's Basic 5\" Running Short is made of polyester and spandex and features a reflective, heat-transferred BCG™ logo to help keep you visible and safe during low-light runs. The Tru-Wick™ fabric technology and polyester inner brief help you stay dry and comfortable. Drawstring closure. 5-inch inseam.",
+             "skuId": "1352561",
+             "sKUs": [
+                {
+                   "itemId": "102534038",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1343390",
+                   "imageURL": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/91/10420991.jpg",
+                      "//assets.academy.com/mgen/72/10804172.jpg",
+                      "//assets.academy.com/mgen/25/10797525.jpg",
+                      "//assets.academy.com/mgen/73/10804173.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "4285",
+                      "Size": "4290"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "CHARCOAL01",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "SMALL",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Charcoal",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Small",
+                         "sequence": "104.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/91/10420991.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/72/10804172.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/25/10797525.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/73/10804173.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307419",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "102534011",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1343391",
+                   "imageURL": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/91/10420991.jpg",
+                      "//assets.academy.com/mgen/72/10804172.jpg",
+                      "//assets.academy.com/mgen/25/10797525.jpg",
+                      "//assets.academy.com/mgen/73/10804173.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "4285",
+                      "Size": "3851"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "LARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "CHARCOAL01",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Charcoal",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Large",
+                         "sequence": "109.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/91/10420991.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/72/10804172.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/25/10797525.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/73/10804173.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307396",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "102534020",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1343392",
+                   "imageURL": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/91/10420991.jpg",
+                      "//assets.academy.com/mgen/72/10804172.jpg",
+                      "//assets.academy.com/mgen/25/10797525.jpg",
+                      "//assets.academy.com/mgen/73/10804173.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "4285",
+                      "Size": "3798"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "CHARCOAL01",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "MEDIUM",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Charcoal",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Medium",
+                         "sequence": "106.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/91/10420991.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/72/10804172.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/25/10797525.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/73/10804173.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307402",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "102533991",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1343393",
+                   "imageURL": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/91/10420991.jpg",
+                      "//assets.academy.com/mgen/72/10804172.jpg",
+                      "//assets.academy.com/mgen/25/10797525.jpg",
+                      "//assets.academy.com/mgen/73/10804173.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "4285",
+                      "Size": "4286"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "CHARCOAL01",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "XLARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Charcoal",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "X Large",
+                         "sequence": "112.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/91/10420991.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/72/10804172.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/25/10797525.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/73/10804173.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307389",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "102533983",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1343394",
+                   "imageURL": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/90/10420990.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/91/10420991.jpg",
+                      "//assets.academy.com/mgen/72/10804172.jpg",
+                      "//assets.academy.com/mgen/25/10797525.jpg",
+                      "//assets.academy.com/mgen/73/10804173.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "4285",
+                      "Size": "4299"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "CHARCOAL01",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "XXLARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Charcoal",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "XX Large",
+                         "sequence": "115.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/91/10420991.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/72/10804172.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/25/10797525.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/73/10804173.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307372",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "102533916",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1352561",
+                   "imageURL": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/14/10684314.jpg",
+                      "//assets.academy.com/mgen/75/10797175.jpg",
+                      "//assets.academy.com/mgen/07/10790507.jpg",
+                      "//assets.academy.com/mgen/97/10797197.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "3839",
+                      "Size": "3851"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "LARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BLACK",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Large",
+                         "sequence": "109.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/14/10684314.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/75/10797175.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/07/10790507.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/97/10797197.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307297",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "102533924",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1352562",
+                   "imageURL": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/14/10684314.jpg",
+                      "//assets.academy.com/mgen/75/10797175.jpg",
+                      "//assets.academy.com/mgen/07/10790507.jpg",
+                      "//assets.academy.com/mgen/97/10797197.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "3839",
+                      "Size": "3798"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BLACK",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "MEDIUM",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Medium",
+                         "sequence": "106.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/14/10684314.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/75/10797175.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/07/10790507.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/97/10797197.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307303",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "102533895",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1352563",
+                   "imageURL": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/14/10684314.jpg",
+                      "//assets.academy.com/mgen/75/10797175.jpg",
+                      "//assets.academy.com/mgen/07/10790507.jpg",
+                      "//assets.academy.com/mgen/97/10797197.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "3839",
+                      "Size": "4286"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BLACK",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "XLARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "X Large",
+                         "sequence": "112.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/14/10684314.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/75/10797175.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/07/10790507.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/97/10797197.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307273",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "102533908",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1352564",
+                   "imageURL": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/14/10684314.jpg",
+                      "//assets.academy.com/mgen/75/10797175.jpg",
+                      "//assets.academy.com/mgen/07/10790507.jpg",
+                      "//assets.academy.com/mgen/97/10797197.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "3839",
+                      "Size": "4299"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BLACK",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "XXLARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "XX Large",
+                         "sequence": "115.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/14/10684314.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/75/10797175.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/07/10790507.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/97/10797197.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307280",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "102533932",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "1352566",
+                   "imageURL": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/05/10424505.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/14/10684314.jpg",
+                      "//assets.academy.com/mgen/75/10797175.jpg",
+                      "//assets.academy.com/mgen/07/10790507.jpg",
+                      "//assets.academy.com/mgen/97/10797197.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "3839",
+                      "Size": "4290"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BLACK",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35818",
+                         "name": "WMSShipAloneFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "SMALL",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Black",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Small",
+                         "sequence": "104.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/14/10684314.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/75/10797175.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/07/10790507.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/97/10797197.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000307310",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "108089852",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "3613304",
+                   "imageURL": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/39/10665339.jpg",
+                      "//assets.academy.com/mgen/80/10804380.jpg",
+                      "//assets.academy.com/mgen/50/10812550.jpg",
+                      "//assets.academy.com/mgen/81/10804381.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "1027622",
+                      "Size": "4290"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "NAVY04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "SMALL",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Medieval Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Small",
+                         "sequence": "104.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/39/10665339.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/80/10804380.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/50/10812550.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/81/10804381.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000889328",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "108089861",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "3613305",
+                   "imageURL": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/39/10665339.jpg",
+                      "//assets.academy.com/mgen/80/10804380.jpg",
+                      "//assets.academy.com/mgen/50/10812550.jpg",
+                      "//assets.academy.com/mgen/81/10804381.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "1027622",
+                      "Size": "3798"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "NAVY04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "MEDIUM",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Medieval Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Medium",
+                         "sequence": "106.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/39/10665339.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/80/10804380.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/50/10812550.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/81/10804381.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000889335",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "108089887",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "3613306",
+                   "imageURL": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/39/10665339.jpg",
+                      "//assets.academy.com/mgen/80/10804380.jpg",
+                      "//assets.academy.com/mgen/50/10812550.jpg",
+                      "//assets.academy.com/mgen/81/10804381.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "1027622",
+                      "Size": "3851"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "LARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "NAVY04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Medieval Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Large",
+                         "sequence": "109.00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/39/10665339.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/80/10804380.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/50/10812550.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/81/10804381.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000889342",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "108089908",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "3613307",
+                   "imageURL": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/39/10665339.jpg",
+                      "//assets.academy.com/mgen/80/10804380.jpg",
+                      "//assets.academy.com/mgen/50/10812550.jpg",
+                      "//assets.academy.com/mgen/81/10804381.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "1027622",
+                      "Size": "4286"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "NAVY04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "XLARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Medieval Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "X Large",
+                         "sequence": "112.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/39/10665339.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/80/10804380.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/50/10812550.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/81/10804381.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000889359",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "108089932",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "3613308",
+                   "imageURL": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/38/10665338.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/39/10665339.jpg",
+                      "//assets.academy.com/mgen/80/10804380.jpg",
+                      "//assets.academy.com/mgen/50/10812550.jpg",
+                      "//assets.academy.com/mgen/81/10804381.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "1027622",
+                      "Size": "4299"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "NAVY04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "XXLARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Medieval Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "XX Large",
+                         "sequence": "115.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/39/10665339.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3724",
+                         "name": "image_3",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/80/10804380.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3725",
+                         "name": "image_4",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/50/10812550.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3726",
+                         "name": "image_5",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/81/10804381.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420000889366",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "112507746",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "5152570",
+                   "imageURL": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/60/20110560.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "5552",
+                      "Size": "4290"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BRTBLUE04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "SMALL",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Blue Bright 04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Small",
+                         "sequence": "104.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/60/20110560.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420001459742",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "112507754",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "5152571",
+                   "imageURL": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/60/20110560.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "5552",
+                      "Size": "3798"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BRTBLUE04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "MEDIUM",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Blue Bright 04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Medium",
+                         "sequence": "106.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/60/20110560.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420001459759",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "112507762",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "5152572",
+                   "imageURL": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/60/20110560.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "5552",
+                      "Size": "3851"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "LARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BRTBLUE04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Blue Bright 04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "Large",
+                         "sequence": "109.00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/60/20110560.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420001459766",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "112507771",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "5152573",
+                   "imageURL": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/60/20110560.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "5552",
+                      "Size": "4286"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BRTBLUE04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "XLARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Blue Bright 04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "X Large",
+                         "sequence": "112.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/60/20110560.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420001459773",
+                         "sequence": ".00000"
+                      }
+                   ]
+                },
+                {
+                   "itemId": "112507789",
+                   "mfItemId": "SGBCMR6007",
+                   "skuId": "5152574",
+                   "imageURL": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "thumbnail": "//assets.academy.com/mgen/59/20110559.jpg",
+                   "sellable": "true",
+                   "alternateImages": [
+                      "//assets.academy.com/mgen/60/20110560.jpg"
+                   ],
+                   "skuResolvingAttrIdentifiers": {
+                      "Color": "5552",
+                      "Size": "4299"
+                   },
+                   "price": {
+                      "salePrice": "14.99",
+                      "priceMessage": "",
+                      "savings": "",
+                      "listPrice": "14.99"
+                   },
+                   "attributes": [
+                      {
+                         "uniqueID": "35313",
+                         "name": "Tran_level",
+                         "usage": "Descriptive",
+                         "value": "2",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35318",
+                         "name": "isSerialTrackedFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35319",
+                         "name": "labelPickFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "81813",
+                         "name": "vendorShipRestrictionFlag",
+                         "usage": "Descriptive",
+                         "value": "N",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35321",
+                         "name": "SafetyStockLevel",
+                         "usage": "Descriptive",
+                         "value": "1",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35317",
+                         "name": "shipFromStoreFlag",
+                         "usage": "Descriptive",
+                         "value": "Y",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35314",
+                         "name": "Diff1",
+                         "usage": "Descriptive",
+                         "value": "BRTBLUE04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "35315",
+                         "name": "Diff2",
+                         "usage": "Descriptive",
+                         "value": "XXLARGE",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3707",
+                         "name": "Color",
+                         "usage": "Defining",
+                         "value": "Blue Bright 04",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3716",
+                         "name": "Color",
+                         "usage": "Descriptive",
+                         "value": "Blue",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3717",
+                         "name": "Size",
+                         "usage": "Defining",
+                         "value": "XX Large",
+                         "sequence": "115.00000"
+                      },
+                      {
+                         "uniqueID": "3201",
+                         "name": "image_2",
+                         "usage": "Descriptive",
+                         "value": "//assets.academy.com/mgen/60/20110560.jpg",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1202",
+                         "name": "vendorName",
+                         "usage": "Descriptive",
+                         "value": "XIAMEN C & D INC",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "3202",
+                         "name": "UPCcode",
+                         "usage": "Descriptive",
+                         "value": "0420001459780",
+                         "sequence": ".00000"
+                      },
+                      {
+                         "uniqueID": "1201",
+                         "name": "vendor",
+                         "usage": "Descriptive",
+                         "value": "4577",
+                         "sequence": ".00000"
+                      }
+                   ]
+                }
+             ],
+             "skuResolvingAttrIdentifiers": {
+                "Color": "3839",
+                "Size": "3851"
+             },
+             "productAttributes": [
+                {
+                   "sequence": ".00000",
+                   "value": "2",
+                   "usage": "Descriptive",
+                   "uniqueID": "35313",
+                   "key": "Tran_level"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "CORE SIZES",
+                   "usage": "Descriptive",
+                   "uniqueID": "35315",
+                   "key": "Diff2"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "2BDSW0GU",
+                   "usage": "Descriptive",
+                   "uniqueID": "37313",
+                   "key": "invodo360PodId"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "207",
+                   "usage": "Descriptive",
+                   "uniqueID": "35323",
+                   "key": "specificationNodeID"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "BCG M Run Short 5\"",
+                   "usage": "Descriptive",
+                   "uniqueID": "35320",
+                   "key": "ipItemDescription"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "ALL COLOR",
+                   "usage": "Descriptive",
+                   "uniqueID": "35314",
+                   "key": "Diff1"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Men's",
+                   "usage": "Descriptive",
+                   "uniqueID": "84314",
+                   "key": "Size Range"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "No",
+                   "usage": "Descriptive",
+                   "uniqueID": "84313",
+                   "key": "Compression"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "10009",
+                   "usage": "Descriptive",
+                   "uniqueID": "35322",
+                   "key": "primaryCategoryNodeID"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "TPP - Goods (Unreviewed)",
+                   "usage": "Descriptive",
+                   "uniqueID": "36315",
+                   "key": "taxCategory"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Yes",
+                   "usage": "Descriptive",
+                   "uniqueID": "84315",
+                   "key": "Moisture Wicking"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "5\"",
+                   "usage": "Descriptive",
+                   "uniqueID": "18749",
+                   "key": "Inseam (in.)"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "86% polyester, 14% spandex",
+                   "usage": "Descriptive",
+                   "uniqueID": "18738",
+                   "key": "Material"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Medieval Blue",
+                   "usage": "Defining",
+                   "uniqueID": "3707",
+                   "key": "Color"
+                },
+                {
+                   "sequence": "115.00000",
+                   "value": "XX Large",
+                   "usage": "Defining",
+                   "uniqueID": "3717",
+                   "key": "Size"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "75",
+                   "usage": "Descriptive",
+                   "uniqueID": "9701",
+                   "key": "reviewcount"
+                },
+                {
+                   "sequence": "2.00000",
+                   "value": "4",
+                   "usage": "Descriptive",
+                   "uniqueID": "9700",
+                   "key": "rating"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Men's",
+                   "usage": "Descriptive",
+                   "uniqueID": "18737",
+                   "key": "Gender"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Running",
+                   "usage": "Descriptive",
+                   "uniqueID": "18719",
+                   "key": "Activity"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Athletic",
+                   "usage": "Descriptive",
+                   "uniqueID": "18718",
+                   "key": "Style"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Shorts",
+                   "usage": "Descriptive",
+                   "uniqueID": "18716",
+                   "key": "Type"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "2 side pockets and 1 inner key pocket",
+                   "usage": "Descriptive",
+                   "uniqueID": "1211",
+                   "key": "featureBenefit4"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "BCG Men's Basic 5\" Running Short",
+                   "usage": "Descriptive",
+                   "uniqueID": "1205",
+                   "key": "whatIncluded1"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Machine wash cold with like colors, do not bleach, do not use softeners; tumble dry low, do not iron, do not dry clean",
+                   "usage": "Descriptive",
+                   "uniqueID": "3709",
+                   "key": "featureBenefit8"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Made of 86% polyester and 14% spandex for sporty wear",
+                   "usage": "Descriptive",
+                   "uniqueID": "1208",
+                   "key": "featureBenefit1"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "5-inch inseam",
+                   "usage": "Descriptive",
+                   "uniqueID": "3708",
+                   "key": "featureBenefit7"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "100% polyester inner brief for support",
+                   "usage": "Descriptive",
+                   "uniqueID": "1209",
+                   "key": "featureBenefit2"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Reflective, heat-transferred BCG™ logo helps keep you visible and safe during low-light runs",
+                   "usage": "Descriptive",
+                   "uniqueID": "3705",
+                   "key": "featureBenefit6"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Drawstring closure and an elastic waistband",
+                   "usage": "Descriptive",
+                   "uniqueID": "3704",
+                   "key": "featureBenefit5"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "XIAMEN C & D INC",
+                   "usage": "Descriptive",
+                   "uniqueID": "1202",
+                   "key": "vendorName"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "Moisture-wicking Tru-Wick™ fabric technology and an odor-resistant finish help keep you feeling fresh",
+                   "usage": "Descriptive",
+                   "uniqueID": "1210",
+                   "key": "featureBenefit3"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "https://assets.academy.com/mgen/41/20008041.pdf",
+                   "usage": "Descriptive",
+                   "uniqueID": "3706",
+                   "key": "sizeChartURL"
+                },
+                {
+                   "sequence": ".00000",
+                   "value": "4577",
+                   "usage": "Descriptive",
+                   "uniqueID": "1201",
+                   "key": "vendor"
+                }
+             ],
+             "breadCrumb": [
+                {
+                   "label": "Academy",
+                   "seoURL": "/"
+                },
+                {
+                   "value": "15053",
+                   "label": "Clothing",
+                   "seoURL": "/shop/browse/apparel"
+                },
+                {
+                   "value": "15054",
+                   "label": "Men's Clothing",
+                   "seoURL": "/shop/browse/apparel/mens-apparel"
+                },
+                {
+                   "value": "15061",
+                   "label": "Men's Shorts",
+                   "seoURL": "/shop/browse/apparel/mens-apparel/mens-shorts"
+                }
+             ],
+             "identifiersMap": {
+                "Color": [
+                   {
+                      "itemId": "4285",
+                      "sellable": true,
+                      "text": "Charcoal",
+                      "sequence": ".00000",
+                      "identifier": {
+                         "key": "Color",
+                         "value": "4285"
+                      },
+                      "imageURL": "//assets.academy.com/mgen/90/10420990.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/90/10420990.jpg",
+                      "isClearance": false
+                   },
+                   {
+                      "itemId": "3839",
+                      "sellable": true,
+                      "text": "Black",
+                      "sequence": ".00000",
+                      "identifier": {
+                         "key": "Color",
+                         "value": "3839"
+                      },
+                      "imageURL": "//assets.academy.com/mgen/05/10424505.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/05/10424505.jpg",
+                      "isClearance": false
+                   },
+                   {
+                      "itemId": "1027622",
+                      "sellable": true,
+                      "text": "Medieval Blue",
+                      "sequence": ".00000",
+                      "identifier": {
+                         "key": "Color",
+                         "value": "1027622"
+                      },
+                      "imageURL": "//assets.academy.com/mgen/38/10665338.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/38/10665338.jpg",
+                      "isClearance": false
+                   },
+                   {
+                      "itemId": "5552",
+                      "sellable": true,
+                      "text": "Blue Bright 04",
+                      "sequence": ".00000",
+                      "identifier": {
+                         "key": "Color",
+                         "value": "5552"
+                      },
+                      "imageURL": "//assets.academy.com/mgen/59/20110559.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/59/20110559.jpg",
+                      "isClearance": false
+                   }
+                ],
+                "Size": [
+                   {
+                      "itemId": "4290",
+                      "sellable": true,
+                      "text": "Small",
+                      "sequence": "104.00000",
+                      "identifier": {
+                         "key": "Size",
+                         "value": "4290"
+                      }
+                   },
+                   {
+                      "itemId": "3798",
+                      "sellable": true,
+                      "text": "Medium",
+                      "sequence": "106.00000",
+                      "identifier": {
+                         "key": "Size",
+                         "value": "3798"
+                      }
+                   },
+                   {
+                      "itemId": "3851",
+                      "sellable": true,
+                      "text": "Large",
+                      "sequence": "109.00000",
+                      "identifier": {
+                         "key": "Size",
+                         "value": "3851"
+                      }
+                   },
+                   {
+                      "itemId": "4286",
+                      "sellable": true,
+                      "text": "X Large",
+                      "sequence": "112.00000",
+                      "identifier": {
+                         "key": "Size",
+                         "value": "4286"
+                      }
+                   },
+                   {
+                      "itemId": "4299",
+                      "sellable": true,
+                      "text": "XX Large",
+                      "sequence": "115.00000",
+                      "identifier": {
+                         "key": "Size",
+                         "value": "4299"
+                      }
+                   }
+                ]
+             },
+             "identifiersValueMap": {
+                "3839": [
+                   "3851",
+                   "3798",
+                   "4286",
+                   "4299",
+                   "4290"
+                ],
+                "4285": [
+                   "4290",
+                   "3851",
+                   "3798",
+                   "4286",
+                   "4299"
+                ],
+                "5552": [
+                   "4290",
+                   "3798",
+                   "3851",
+                   "4286",
+                   "4299"
+                ],
+                "1027622": [
+                   "4290",
+                   "3798",
+                   "3851",
+                   "4286",
+                   "4299"
+                ]
+             },
+             "alternateImageMap": {
+                "3839": [
+                   {
+                      "itemId": 0,
+                      "imageURL": "//assets.academy.com/mgen/05/10424505.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/05/10424505.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 1,
+                      "imageURL": "//assets.academy.com/mgen/14/10684314.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/14/10684314.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 2,
+                      "imageURL": "//assets.academy.com/mgen/75/10797175.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/75/10797175.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 3,
+                      "imageURL": "//assets.academy.com/mgen/07/10790507.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/07/10790507.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 4,
+                      "imageURL": "//assets.academy.com/mgen/97/10797197.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/97/10797197.jpg",
+                      "sellable": true
+                   }
+                ],
+                "4285": [
+                   {
+                      "itemId": 0,
+                      "imageURL": "//assets.academy.com/mgen/90/10420990.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/90/10420990.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 1,
+                      "imageURL": "//assets.academy.com/mgen/91/10420991.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/91/10420991.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 2,
+                      "imageURL": "//assets.academy.com/mgen/72/10804172.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/72/10804172.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 3,
+                      "imageURL": "//assets.academy.com/mgen/25/10797525.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/25/10797525.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 4,
+                      "imageURL": "//assets.academy.com/mgen/73/10804173.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/73/10804173.jpg",
+                      "sellable": true
+                   }
+                ],
+                "5552": [
+                   {
+                      "itemId": 0,
+                      "imageURL": "//assets.academy.com/mgen/59/20110559.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/59/20110559.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 1,
+                      "imageURL": "//assets.academy.com/mgen/60/20110560.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/60/20110560.jpg",
+                      "sellable": true
+                   }
+                ],
+                "1027622": [
+                   {
+                      "itemId": 0,
+                      "imageURL": "//assets.academy.com/mgen/38/10665338.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/38/10665338.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 1,
+                      "imageURL": "//assets.academy.com/mgen/39/10665339.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/39/10665339.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 2,
+                      "imageURL": "//assets.academy.com/mgen/80/10804380.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/80/10804380.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 3,
+                      "imageURL": "//assets.academy.com/mgen/50/10812550.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/50/10812550.jpg",
+                      "sellable": true
+                   },
+                   {
+                      "itemId": 4,
+                      "imageURL": "//assets.academy.com/mgen/81/10804381.jpg",
+                      "thumbnail": "//assets.academy.com/mgen/81/10804381.jpg",
+                      "sellable": true
+                   }
+                ]
+             },
+             "sizeChartURL": "https://assets.academy.com/mgen/41/20008041.pdf",
+             "inventory": {
+                "store": [
+                   {
+                      "productId": "1334748",
+                      "skuId": "1352563",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "1352564",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "1352561",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "1352562",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "1352566",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "1343394",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "1343393",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "1343392",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "1343390",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "3613304",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "3613305",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "3613306",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "3613307",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   },
+                   {
+                      "skuId": "3613308",
+                      "storeId": "false",
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   }
+                ],
+                "online": [
+                   {
+                      "skuId": "1343390",
+                      "availableQuantity": "14.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "1343391",
+                      "availableQuantity": "77.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Sold In Stores",
+                            "key": "SOLD_IN_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "1343392",
+                      "availableQuantity": "36.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "1343393",
+                      "availableQuantity": "84.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "1343394",
+                      "availableQuantity": "36.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "1352561",
+                      "availableQuantity": "87.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "1352562",
+                      "availableQuantity": "1007.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "1352563",
+                      "availableQuantity": "204.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "1352564",
+                      "availableQuantity": "65.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "1352566",
+                      "availableQuantity": "40.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "3613304",
+                      "availableQuantity": "22.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "3613305",
+                      "availableQuantity": "135.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "3613306",
+                      "availableQuantity": "156.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "3613307",
+                      "availableQuantity": "69.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "3613308",
+                      "availableQuantity": "19.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Store Inventory Lookup Not Available",
+                            "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "5152570",
+                      "availableQuantity": "37.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Sold In Stores",
+                            "key": "SOLD_IN_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "5152571",
+                      "availableQuantity": "96.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Sold In Stores",
+                            "key": "SOLD_IN_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "5152572",
+                      "availableQuantity": "203.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Sold In Stores",
+                            "key": "SOLD_IN_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "5152573",
+                      "availableQuantity": "154.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Sold In Stores",
+                            "key": "SOLD_IN_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   },
+                   {
+                      "skuId": "5152574",
+                      "availableQuantity": "72.0",
+                      "inventoryStatus": "IN_STOCK",
+                      "deliveryMessage": {
+                         "onlineDeliveryMessage": {
+                            "value": "In Stock Online",
+                            "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                            "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                            "key": "IN_STOCK_ONLINE"
+                         },
+                         "storeDeliveryMessage": {
+                            "value": "Sold In Stores",
+                            "key": "SOLD_IN_STORE"
+                         }
+                      },
+                      "onlineStoreName": "Academy",
+                      "availabilityDate": null,
+                      "products": []
+                   }
+                ]
+             },
+             "inventoryMessage": {
+                "skuId": "1352561",
+                "availableQuantity": "87.0",
+                "inventoryStatus": "IN_STOCK",
+                "deliveryMessage": {
+                   "onlineDeliveryMessage": {
+                      "value": "In Stock Online",
+                      "additionalInfoKey": "IN_STOCK_ONLINE_MORE_INFO_1",
+                      "additionalInfoValue": "Usually leaves warehouse in 3-4 business days",
+                      "key": "IN_STOCK_ONLINE"
+                   },
+                   "storeDeliveryMessage": {
+                      "value": "Store Inventory Lookup Not Available",
+                      "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+                   }
+                },
+                "onlineStoreName": "Academy",
+                "availabilityDate": null,
+                "products": []
+             },
+             "storeInventory": {
+                "skuId": "1352561",
+                "storeId": "false",
+                "value": "Store Inventory Lookup Not Available",
+                "key": "INVENTORY_LOOK_UP_NOT_AVAILABLE_STORE"
+             },
+             "productId": "1334748",
+             "productAttributeGroups": [
+                "Color",
+                "Size"
+             ],
+             "productType": "standard",
+             "seoURL": "/shop/pdp/bcg-mens-basic-5-running-short?defaultSKU=1352562",
+             "selectedIdentifier": {
+                "Color": "3839",
+                "Size": "3851"
+             },
+             "thumbnail": "//assets.academy.com/mgen/05/10424505.jpg",
+             "alternateImages": [
+                "//assets.academy.com/mgen/14/10684314.jpg",
+                "//assets.academy.com/mgen/75/10797175.jpg",
+                "//assets.academy.com/mgen/07/10790507.jpg",
+                "//assets.academy.com/mgen/97/10797197.jpg"
+             ],
+             "attributes": [
+                {
+                   "uniqueID": "35313",
+                   "name": "Tran_level",
+                   "usage": "Descriptive",
+                   "value": "2",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "35318",
+                   "name": "isSerialTrackedFlag",
+                   "usage": "Descriptive",
+                   "value": "N",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "35319",
+                   "name": "labelPickFlag",
+                   "usage": "Descriptive",
+                   "value": "N",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "81813",
+                   "name": "vendorShipRestrictionFlag",
+                   "usage": "Descriptive",
+                   "value": "N",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "35321",
+                   "name": "SafetyStockLevel",
+                   "usage": "Descriptive",
+                   "value": "1",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "35315",
+                   "name": "Diff2",
+                   "usage": "Descriptive",
+                   "value": "LARGE",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "35317",
+                   "name": "shipFromStoreFlag",
+                   "usage": "Descriptive",
+                   "value": "Y",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "35314",
+                   "name": "Diff1",
+                   "usage": "Descriptive",
+                   "value": "BLACK",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "35818",
+                   "name": "WMSShipAloneFlag",
+                   "usage": "Descriptive",
+                   "value": "N",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "3707",
+                   "name": "Color",
+                   "usage": "Defining",
+                   "value": "Black",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "3716",
+                   "name": "Color",
+                   "usage": "Descriptive",
+                   "value": "Black",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "3717",
+                   "name": "Size",
+                   "usage": "Defining",
+                   "value": "Large",
+                   "sequence": "109.00000"
+                },
+                {
+                   "uniqueID": "3201",
+                   "name": "image_2",
+                   "usage": "Descriptive",
+                   "value": "//assets.academy.com/mgen/14/10684314.jpg",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "3724",
+                   "name": "image_3",
+                   "usage": "Descriptive",
+                   "value": "//assets.academy.com/mgen/75/10797175.jpg",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "3725",
+                   "name": "image_4",
+                   "usage": "Descriptive",
+                   "value": "//assets.academy.com/mgen/07/10790507.jpg",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "3726",
+                   "name": "image_5",
+                   "usage": "Descriptive",
+                   "value": "//assets.academy.com/mgen/97/10797197.jpg",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "1202",
+                   "name": "vendorName",
+                   "usage": "Descriptive",
+                   "value": "XIAMEN C & D INC",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "3202",
+                   "name": "UPCcode",
+                   "usage": "Descriptive",
+                   "value": "0420000307297",
+                   "sequence": ".00000"
+                },
+                {
+                   "uniqueID": "1201",
+                   "name": "vendor",
+                   "usage": "Descriptive",
+                   "value": "4577",
+                   "sequence": ".00000"
+                }
+             ]
+          }
+       }
+    }
+  }
+}

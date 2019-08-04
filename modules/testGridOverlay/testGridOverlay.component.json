@@ -1,0 +1,11 @@
+{
+  "title": "Test Grid Overlay",
+  "status": "prototype",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Test Grid Overlay works!"
+      }
+    }
+  }
+}

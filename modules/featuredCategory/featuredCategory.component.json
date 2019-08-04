@@ -1,0 +1,66 @@
+{
+  "title": "Featured Category",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "headline": "FEATURED CATEGORIES",
+        "headlineAlignment": "center",
+        "category": [
+          {
+            "categoryTileLabel": "Team Sports",
+            "ctaPath": "http://www.google.com",
+            "categoryImageUrl": "https://content.academy.com/category/thumbs/ts.jpg",
+            "categoryImageAltText": "sports"
+          },
+          {
+            "categoryTileLabel": "Clothes",
+            "ctaPath": "http://www.yahoo.com",
+            "categoryImageUrl": "https://content.academy.com/category/thumbs/ap.jpg",
+            "categoryImageAltText": "Clothes"
+          },
+          {
+            "categoryTileLabel": "Shoes",
+            "ctaPath": "http://www.google.com",
+            "categoryImageUrl": "https://content.academy.com/category/thumbs/fw.jpg",
+            "categoryImageAltText": "shoes"
+          },
+          {
+            "categoryTileLabel": "Fan Shop",
+            "ctaPath": "http://www.google.com",
+            "categoryImageUrl": "https://content.academy.com/category/thumbs/fs-img.jpg",
+            "categoryImageAltText": "Fan Shop"
+          },
+          {
+            "categoryTileLabel": "Shooting",
+            "ctaPath": "http://www.google.com",
+            "categoryImageUrl": "https://assets.academy.com/mgen/54/10515554.jpg",
+            "categoryImageAltText": "Shooting"
+          },
+          {
+            "categoryTileLabel": "Outdoor Living",
+            "ctaPath": "http://www.google.com",
+            "categoryImageUrl": "https://content.academy.com/category/thumbs/ol.jpg",
+            "categoryImageAltText": "Outdoor Living"
+          },
+          {
+            "categoryTileLabel": "Fitness",
+            "ctaPath": "http://www.google.com",
+            "categoryImageUrl": "https://content.academy.com/category/thumbs/ft.jpg",
+            "categoryImageAltText": "Fitness"
+          },
+          {
+            "categoryTileLabel": "Fishing",
+            "ctaPath": "http://www.google.com",
+            "categoryImageUrl": "https://assets.academy.com/mgen/44/10305244.jpg",
+            "categoryImageAltText": "Fishing"
+          }
+        ],
+        "backgroundDesktopImage": ""
+      },
+      "api": {
+        
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Sweepstakes",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "submitLabel": "Submit",
+          "emailaddressLabel": "Email Address"
+        },
+        "checkoutLabels": {
+          "lastNameLabel": "Last Name",
+          "firstNameLabel": "First Name",
+          "zipCodeLabel": "ZIP Code",
+          "phoneNumberLabel": "Phone Number"
+        },
+        "errorMsg": {
+          "mandatoryLastName": " Please Enter a Last Name",
+          "mandatoryEmailAddress": "Please enter an Email address",
+          "tryAgainLater": "Please try again later",
+          "mandatoryFirstName": "Please enter the First Name",
+          "weFumbled": "WE FUMBLED",
+          "mandatoryZipCode": "Please enter a zip code"
+        },
+        "successMsg": {
+          "yourFirstDealMessage": "Your first deal will be sent to you shortly!",
+          "youreSet": "YOU'RE SET"
+        },
+        "sweepstakesTitle": "ENTER THE SWEEPSTAKES",
+        "sweepstakesDescription": "SWEEPSTAKES Description",
+        "sweepstakesDisclaimer": "SWEEPSTAKES Disclaimer"
+      }
+    }
+  }
+}

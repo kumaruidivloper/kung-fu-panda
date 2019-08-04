@@ -1,0 +1,15 @@
+{
+  "name": "bait-thumbnail",
+  "version": "1.0.0",
+  "description": "Bait Thumbnail component",
+  "main": "baitThumbnail.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17",
+    "react-image-magnify": "2.7.2"
+  }
+}

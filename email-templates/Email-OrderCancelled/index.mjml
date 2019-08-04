@@ -1,0 +1,188 @@
+<mjml>
+  <mj-head>
+    <mj-title>Order Cancellation</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto,Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image padding-bottom="25px" align="left" width="230" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQkRJpD0_7dX78xZx5C37naVTctb8irMhldZRhwSJ4hBc8nNWo">
+        </mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-group padding-bottom="12px">
+        <mj-section>
+        <mj-text padding-top="0" padding-bottom="0">
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">CLOTHING</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">FOOTWARE</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">SPORTS</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">OUTDOORS</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">HOT DEALS</a>
+         <a href="[ADD_LINK_HERE]" style="text-decoration: none;padding:0 15px;color: #585858;letter-spacing: 0.3px;font-size: 12px;float:left;">CLEARANCE</a>
+      </mj-text>
+      </mj-section>
+      </mj-group>
+      </mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-top="0">
+          <h1 style="margin-top:40px; font-size: 42px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #333333;margin-bottom:16px;text-transform:uppercase;">
+            YOUR ORDER HAS BEEN cancelled
+          </h1>
+          <p style="padding-bottom:32px;font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #333333;padding-top:0;margin-bottom:0">
+          Your request to cancel this order has been submitted. It may take 5-7 days to return money to your account. Inquire with your bank for <a href="[ADD_LINK_HERE]" style="text-decoration: none; font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #0055a6;">more information.</a>
+          </p>
+        </mj-text>
+      </mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+    </mj-section>
+
+    <mj-section padding-top="32px">
+      <mj-column>
+        <mj-text padding-top="0" padding-bottom="0">
+          <p style="font-size: 24px;
+                font-weight: 900;
+                font-style: normal;
+                font-stretch: condensed;
+                line-height: 1;
+                letter-spacing: normal;
+                color: #333333;margin-top:0;margin-bottom:0;
+                float:left;text-transform:uppercase;">Order #: ABc123456789
+          </p>
+          <p style="font-size: 14px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                letter-spacing: normal;
+                color: #333333;float:left;padding-left:8px;margin-top:0;margin-bottom:0;">Order Date: 5/26/18</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <p style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;margin-top:0;margin-bottom:0;padding-top:24px;padding-bottom:24px;text-transform:uppercase;">ITEMS CANCELLED</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image padding-top="0" width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://cdn.recast.ai/newsletter/183.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <p style="font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #333333;padding-bottom:12px;margin-bottom:0;margin-top:0;">
+            Brooks Women's Adrenaline GTS 18 Running Shoes
+          </p>
+          <p style=" font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333333;padding-bottom:12px;margin-bottom:0;margin-top:0"><span style="font-weight:bold">SKU:</span> 112672223
+          </p>
+        </mj-text>
+        <mj-section>
+          <mj-column width="100%">
+            <mj-text padding-top="0" padding-bottom="0">
+              <p style="font-size: 14px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0;
+  letter-spacing: normal;
+  color: #333333;margin-bottom:0;float:left;"><span style="font-weight:bold">Quantity:</span> 1
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+   
+    <mj-section padding-top="24px" padding-bottom="24px">
+      <mj-column>
+      <mj-text padding-top="0" padding-bottom="0">
+        <p style="padding-top:12px;margin-top:0">
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none; font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #0055a6;">View Order Details</a>
+        </p>
+      </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+         <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" />
+    </mj-section>
+    <mj-section padding-bottom="32px" padding-top="32px">
+      <mj-column width="55%">
+        <mj-text font-size="12px" margin="0" padding-top="0" padding-bottom="0">
+          <p style="margin-top:0;">Need help? <a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;">Live Chat</a> with Customer Care.
+          </p>
+          <p>Academy Sports + Outdoors <br/>565 South Mason Rd #419<br/>Katy, TX 77450
+          </p>
+          <p>
+            <a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;"> Update Profile</a> | <a href="[ADD_LINK_HERE]" style="text-decoration: none; color: #0055a6;">Privacy Policy </a>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="45%">
+      <mj-group>
+        <mj-section>
+        <mj-text padding="0">
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+          
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+          
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+          
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+          
+          <a href="[ADD_LINK_HERE]" style="text-decoration: none;background:url(http://191n.mj.am/img/191n/3s/x0l.png) no-repeat;background-size:cover;height:40px;width:40px;float:left;margin-left:5px;margin-right:5px;"></a>
+      </mj-text>
+      </mj-section>
+      </mj-group>
+    </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

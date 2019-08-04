@@ -1,0 +1,557 @@
+{
+  "title": "Checkout Payment",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "paymentOptions": [
+          { "id": "creditcard", "text": "Credit Card" },
+          { "id": "paypal", "text": "PayPal" },
+          { "id": "googlepay", "text": "Google Pay" },
+          { "id": "applepay", "text": "Apple Pay" },
+          { "id": "moreoptions", "text": "More Options" }
+        ],
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "paymentOptions": [
+            { "id": "creditcard", "text": "Credit Card" },
+            { "id": "paypal", "text": "PayPal" },
+            { "id": "googlepay", "text": "Google Pay" },
+            { "id": "applepay", "text": "Apple Pay" },
+            { "id": "moreoptions", "text": "More Options" }
+          ],
+          "applyLabel": "APPLY",
+          "cardsAccepted": [
+            {
+              "label": "Visa",
+              "url": "http://uat5glb.academy.com/content/dam/academysports/cart-and-checkout/cards-accepted/visa.jpg"
+            },
+            {
+              "label": "Master Card",
+              "url": "http://uat5glb.academy.com/content/dam/academysports/cart-and-checkout/cards-accepted/mastercard.jpg"
+            },
+            {
+              "label": "Paypal",
+              "url": "http://uat5glb.academy.com/content/dam/academysports/cart-and-checkout/cards-accepted/visa.jpg"
+            }
+          ],
+          "employeeDiscountLabel": "Employee Discount",
+          "shippingItemsLabel": "Shipping items Available",
+          "weakLabel": "Weak",
+          "passwordStrengthLabel": "Password Strength",
+          "continueShoppingLabel": "Contine Shopping",
+          "signInLabel": "Sign in",
+          "itemsLabel": "Items",
+          "addLabel": "Add",
+          "saveLabel": "save",
+          "passwordStrengthCopyLabel": "Password Strength",
+          "doneLabel": "Done",
+          "removeFromCartLabel": "Remove from Cart",
+          "updateLabel": "Update",
+          "defaultLabel": "Default",
+          "colorLabel": "Color",
+          "addPromoCodeLabel": "Add Promo code",
+          "promoCodeAddedLabel": "Promo code {{promocode}}  added",
+          "submitLabel": "Submit",
+          "addToWishlistLabel": "Add to Wishlist",
+          "cancelLabel": "cancel",
+          "shippingLabel": "Shipping",
+          "goToPaymentLabel": "Go to Payment",
+          "strongLabel": "Strong",
+          "skuLabel": "SKU",
+          "checkoutWithPaypalLabel": "Paypal",
+          "editLabel": "Edit",
+          "militaryDiscountLabel": "Military Discount",
+          "subTotalLabel": "Subtotal",
+          "removeLabel": "Remove",
+          "orderSummaryLabel": "ORDER SUMMARY",
+          "shipItemsLabel": "Ship Items",
+          "orderSummaryLinks": [
+            {
+              "label": "Cancel Order",
+              "url": "#"
+            },
+            {
+              "label": "Order History",
+              "url": "#"
+            }
+          ],
+          "addMilitaryDiscount": "Add Military Discount",
+          "readMore": "Read More",
+          "undoLabel": "undo",
+          "setAsDefault": "Set as Default",
+          "emailaddressLabel": "Email Address",
+          "outOfStockImageURL": "/content/dam/academysports/cart-and-checkout/out-of-stock/ProductGreyOut@4x.png",
+          "placeOrderLabel": "Place Order",
+          "inStorePickUpLabel": "In Store Pick Up",
+          "emailAddressLabel": "Email adreess",
+          "estimatedTaxesLabel": "Esimated Taxes",
+          "promoCodeLabel": "Promocode",
+          "taxesLabel": "Taxes",
+          "quantityLabel": "Quantity",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "secureLabel": "Secure",
+          "totalLabel": "Total",
+          "checkoutLabel": "Checkout",
+          "sizeLabel": "Size",
+          "printLabel": "Print",
+          "freeLabel": "Free ",
+          "helloLabel": "Hello",
+          "editMyCartLabel": "Edit my cart"
+        },
+        "errorMsg": {
+          "updateShippingAddressRestriction": "Please update address to restricted state for existing items. ",
+          "_RTS_GC_INACTIVE": "This gift card is currently inactive. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "_RTS_GC_INVALID_TRANS": "Requested transaction is not permitted for this Gift Card. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "creditCardPaymentFailure": "Sorry, the order cannot be processed at this time. Please contact your Credit Card customer service for assistance. Or try a different payment method.",
+          "_RESTRICTED_SHIPPING_ADDRESS": "Please update shipping Address",
+          "backendSystemFailure": "Unfortunately, we are unable to process the order at this time. Please try again later or contact Customer Care Live Chat for help",
+          "systemError": "Sorry, we are having trouble processing the order, please try again or choose a different payment method. You may contact Customer Care at {{customerCareNo}} or through Live Chat.",
+          "promotionAlreadyApplied": "The Promo code has already been applied before and cannot be used again",
+          "invalidZipCode": "Invalid Zip Code",
+          "formFieldFormatIncorrect": "Form Fields Format Invalid",
+          "promocodeNotAvailable": "Sorry, the Promo code is not available at this time. Please try again later.",
+          "giftCardServiceUnavailable": " Unfortunately, the Gift Card service is down at this time. Please try again later or contact Customer Care Live Chat for help.",
+          "updateShippingAddress": "Please update shipping Address",
+          "promocodeBlankOrInvalid": "Please enter a valid Promo code",
+          "cmpiOrderFailed": "Sorry, we could not process the payment information. Please go back and try another payment method.",
+          "_RTS_GC_DECLINED": "The gift card provided has been declined. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "invalidCreditCard": "Unrecognized card number, please check the number and try again. We accept Visa, Mastercard, Discover, and American Express.",
+          "_RTS_MERCH_GC_REDEM_NOT": "Merchandise Credit Gift Card cannot be used for redemption in an e-commerce transaction. Please visit a physical store to redeem Merchandise Credit Gift Card.",
+          "creditCardExpiredLabel": "This credit card has expired",
+          "firstNameLastNameContainLetters": "First name and Last name can only contain letters",
+          "invalidSecurityCode": "Unrecognized security code. Please enter the 3 or 4 digit security code printed on the front or back of the card.",
+          "_RTS_INVALID_NUMBER_OR_PIN": "The combination of Gift Card Number and PIN is incorrect. Please try again.",
+          "BackendSystemFailure": "Unfortunately, we are unable to process the order at this time. Please try again later or contact Customer Care Live Chat for help",
+          "giftServiceUnavailable": "Unfortunately, the Gift Card service is down at this time. Please try again later or contact Customer Care (Live Chat link) for help.",
+          "checkoutSessionExpired": "Sorry, the checkout session has expired due to inactivity. Please try again.",
+          "noGiftCardBalance": "The Gift Card has a balance of $0.00 and cannot be used",
+          "giftCardInactive": "Unfortunately, we are unable to process the order with the gift card. Please try again later or contact Customer Care Live Chat for help.",
+          "promotionApplicationLimit": "The Promo code has already been applied before and cannot be used again",
+          "giftCardProcessingUnavailable": " Unfortunately, the Gift Card service is down at this time. Please try again later or contact Customer Care Live Chat for help.",
+          "itemPriceChanged": "Price has been updated for some items in your cart. Please review and continue to checkout.\t",
+          "mandatoryFormFieldsBlank": "Please fill mandatory fields",
+          "_GC_INVALID_NUMBER_OR_PIN": "The combination of Gift Card Number and PIN is incorrect. Please try again.",
+          "firstLastNameCannotBeBlank": "First name and Last name cannot be blank",
+          "promotionProcessingFailure": "Sorry, the Promo code cannot be processed at this time. Please contact Customer Care Live Chat for help.",
+          "lowGiftCardBalance": "The order total exceeds available balance on the gift card(s). Please provide additional payment method",
+          "timeout": "Time Out Message",
+          "_COULD_NOT_FETCH_GC_INFO": "Unable to fetch gift card information.",
+          "fetchShippingChargesFailure": "Sorry, we are unable to estimate shipping. Please contact Customer Care Live Chat to complete your order.\t",
+          "giftCardClosed": "Unfortunately, we are unable to process the order with the gift card. Please try again later or contact Customer Care Live Chat for help.",
+          "invalidGiftNumberOrPin": "The combination of Gift Card Number and PIN is incorrect. Please try again.",
+          "maxQuantityPresentInCart": "Sorry, the selected item is limited to {{maxQty}} per order. We added those to the cart.",
+          "outOfStock": "This item is out of stock.Please add it to your wishlist or remove it from your cart to proceed",
+          "fraudCheckFailure": "Unfortunately, we are unable to process the order at this time. Please contact Customer Care (Live Chat link) for help.",
+          "_COULD_NOT_REMOVE_GC_PAYMENT": "Could not remove the old Gift card associated with the order. Please try again later.",
+          "phoneNumberInvalid": "Please enter a valid 10 digit phone number",
+          "_RTS_GC_NOT_CONNECTED": "Unfortunately, the Gift Card service is down at this time. Please try again later. Or contact Customer Care {{liveChat}} or {{customercareNo}} for help.",
+          "_RTS_GC_ACCOUNT_LOCKED": "Unfortunately, the Gift Card account is locked at this time. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "_RTS_GC_GENERIC": "An error has occurred for this Gift card. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "fullNameEmailAddressBlank": "Full Name and Email Address is Blank",
+          "_DUPLICATE_GC_CARD": "The gift card you are trying to enter is already entered earlier.",
+          "paymentProcessingUnavailable": "Payment Processing is currently unavailable. We apologize for any inconvenience. Please try again later or visit your nearest Academy store.",
+          "_ERR_ITEM_STATE_RESTRICTION_ERROR": "Please update address to restricted state for existing items. ",
+          "totalExceedsAvailableBalance": "The order total exceeds available balance on the gift card(s). Please provide additional payment method.",
+          "paypalOrderError": " Sorry, we are having trouble placing the order through Paypal. Please try again.",
+          "blankSecurityCode": "Please enter the 3 or 4 digit security code printed on the front or back of the card.",
+          "unableRedirectToPaypal": "Sorry, we are having trouble connecting to PayPal. Please try again later.",
+          "specialHandlingForZipCode": "The item(s) {{productName1, productName2, productNameN}} need special handling and our carrier service cannot deliver to the given Zip Code.",
+          "limitedStock": "We are Sorry!! Due to Limited Stock,only part of your order can be fulfilled at this time",
+          "emailAddressIncorrectFormat": "Email address is in incorrect format",
+          "invalidGiftCardInsuffBalance": "Invalid Gift Card Number/Insufficient Funds",
+          "paypalTimeOut": "Sorry, we are having trouble placing the order through Paypal. Please try again.",
+          "invalidCardNumberLength": "Unrecognized card number",
+          "pastExpirationDate": "Past expiration date",
+          "invalidExpirationDate": "Unrecognized expiration date",
+          "invalidCVVLength": "Please enter a valid security code"
+        },
+        "successMsg": {
+          "promoCodeAppliedLabel": "Promo Code  added",
+          "itemRemoveFromCartLabel": "has been removed from your cart.",
+          "itemAddedToWishListLabel": "has been added to your wishlist"
+        },
+        "promotionalMsg": {
+          "itemShipForFreeLabel": "Item Ships for FREE",
+          "freeGiftLabel": "FREE GIFT"
+        },
+        "validationMsg": {
+          "invalidEmailText": "Invalid Email",
+          "combinePaypalMessageText": "You can combine Paypal with other payment"
+        },
+        "inStorePickupLabel": {
+          "inStorePickupInstruction2Label": "Bring your vaild government issued ID to the store",
+          "alternateEmailLabel": "Alternate's Email Address",
+          "pickupPersonLabel": "PICKUP PERSON",
+          "alternatePhoneNumberLabel": "Alternate's Phone Number",
+          "alternateFirstNameLabel": "Alternate's First Name",
+          "pickupLocationLabel": "PICKUP LOCATION",
+          "alternateLastNameLabel": "Alternate's Last Name",
+          "itemsForPickupLabel": "ITEMS FOR PICKUP",
+          "whoIsPickingupLabel": "WHO IS  PICKING UP THIS ORDER?",
+          "inStorePickupLabel": "IN-STORE PICKUP",
+          "inStorePickupInstruction1Label": "Before going to the store,wait for an email confirming it's ready",
+          "inStorePickupInstruction3Label": "Bring this confirmation email or your order number with you",
+          "inStorePickupOrderSummaryLabel": "ITEMS FOR PICKUP",
+          "seeInStorePickupInstructionsLabel": "See In-Store Pickup Instructions"
+        },
+        "checkoutTitle": "CHECKOUT",
+        "checkoutUnauthDescriptionText": "<p>You are checking out as a guest.<a href='http://www.google.com' title='sign'>Sign in</a> for a faster checkout experience</p>\r\n",
+        "shippingTitle": "SHIPPING",
+        "shippingAddressLabel": "SHIPPING ADDRESS",
+        "pickupLabel": "Pick up instead?",
+        "pickupURL": "#",
+        "firstNameLabel": "First Name",
+        "lastNameLabel": "Last Name",
+        "phoneNumberLabel": "Phone Number",
+        "addressLabel": "Address",
+        "addMoreDetailsOptionalLabel": "Add Company Name,Apt. Number,etc. (Optional)",
+        "zipCodeLabel": "ZIP Code",
+        "cityLabel": "City",
+        "stateLabel": "State",
+        "shippingMethodLabel": "SHIPPING METHOD",
+        "goToShippingMethodLabel": "Go To Shipping Method",
+        "shipmentLabel": "Shipment",
+        "arrivesLabel": "Arrives",
+        "addNewShippingAddressLabel": "Add a New Shipping Address",
+        "paymentTitle": "PAYMENT",
+        "billingInformation": "BILLING INFORMATION",
+        "visaEnding": "VISA Ending in",
+        "expiryLabel": "Exp",
+        "expiryDateFormat": "MM/YYYY",
+        "paymentMethod": "PAYMENT METHOD",
+        "giftCardLabel": "Enter a Gift Card",
+        "creditCardNumberLabel": "Credit Card Number",
+        "expirationDateLabel": "Expiration Date",
+        "cvvLabel": "CVV",
+        "cvvHintText": "The 3 digit code found on far right of signature box",
+        "sameAsShippingAddressText": "Same As Shipping Address",
+        "emailAddressForOrderConfirmation": "Email Address for Order Confirmation",
+        "promotionalSignupText": "Sign up to get Hot Deals. Weekly Ads, Local Eventsand more delivered straight to your inbox. You can unsubscribe at anytime.",
+        "reviewOrderText": "Review Order ",
+        "chooseCardLabel": "Choose Card",
+        "chooseGiftCardLabel": "Choose Gift Card",
+        "changeBillingInformationLabel": "Change Billing Information",
+        "savePaymentInfoLabel": "Save Payment Info for Later",
+        "addNewCreditCardLabel": "Add New Credit Card Label",
+        "reviewOrderTitle": "REVIEW ORDER",
+        "reviewOrderDescriptionText": "<p>By placing this order, I accept Academy's <a href='http://www.google.com'>Terms and Conditions</a> and <a href='http://www.google.com' title='Privacy Policy'>Privacy Policy</a></p>\r\n",
+        "disclaimerMessage": "",
+        "addressVerification": "Address Verification",
+        "addressVerificationUnableDescription": "We were unable to verify your address with the postal database. Using the address you entered may cause delaysreceiving your order.",
+        "suggestedAddressLabel": "Suggested Address",
+        "youEnteredAddressLabel": "You Entered",
+        "modifyAddressLabel": "Modify Address",
+        "useSelectedAddressLabel": "Use Selected Address",
+        "sg": "STANDARD GROUND",
+        "twod": "2 DAY SHIPPING",
+        "pov": "PRIORITY OVER NIGHT",
+        "dsv": "DROP SHIP ITEMS LABEL",
+        "wg": "WHITE GLOVE SHIPPING",
+        "ammo": "AMMO ITEMS SHIPPING",
+        "gc": "ACADEMY BULK GIFT CARDS",
+        "sts": "SHIP TO STORE",
+        "sendSmsLabel": "Send SMS text updates  about my order.This phone number will not be used for promotional purpose.",
+        "giftCardNumberLabel": "Gift Card Number",
+        "pinLabel": "Pin",
+        "addAnotherGiftCardLabel": "Add Another Gift Card",
+        "giftCardNumberHintTextLabel": "The Gift Card Number is located below the barcode",
+        "pinHintTextLabel": "The pin is located above the barcode",
+        "giftCardAddedLabel": "Gift Card {{giftcardnumber}} added. {{amount}} has been applied.",
+        "giftCardTextLabel": "Please keep your physical gift card for future reference to assit with any returns or oder cancellations.",
+        "hideGiftCardLabel": "Hide Gift Card",
+        "giftCardEndingInLabel": "Gift Card Ending In",
+        "remainingBalanceLabel": "Remaining Balance",
+        "addANewGiftCardLabel": "Add A New Gift Card",
+        "changeBillingAddressLabel": "Change Billing Address",
+        "checkoutWithPaypalLabel": "Checkout With Paypal",
+        "paypalPaymentTextLabel": "Paypal account for accept@academy.com. Amount to be charged:",
+        "applePayTextLabel": "Clicking on the Apple Pay Button will show you the payment sheet hosted by the Apple where you will choose your credit card...."
+      },
+      "isLoggedIn": true,
+      "detectedCityState": {
+        "city": "Cupertino",
+        "state": "California"
+      },
+      "orderDetails": {
+        "payments": {
+          "paymentMethod": ""
+        },
+        "orderId": "10001",
+        "hasSOFItems": false,
+        "numberOfItems": "2",
+        "orderStatus": "p",
+        "totals": {
+          "totalAdjustment": "0",
+          "totalShippingTax": "22.5",
+          "totalProductPrice": "100",
+          "orderCurrency": "USD",
+          "orderLocale": "en_US",
+          "totalShippingCharge": "10",
+          "orderTotal": "200",
+          "totalSalesTax": "20",
+          "orderGrandTotal": "10.00"
+        },
+        "orderItems": [
+          {
+            "orderItem": {
+              "orderItemId": "20001",
+              "unitPrice": "12",
+              "zipCode": "560066",
+              "quantity": "1",
+              "shipModeCode": "UPS Ground",
+              "shipModeId": "10551",
+              "orderItemPrice": "123",
+              "skuId": "111083697",
+              "isfreeGift": "",
+              "productId": "4686067",
+              "skuDetails": {
+                "inventory": {
+                  "store": [
+                    {
+                      "storeId": "1005",
+                      "availableQuantity": "2",
+                      "inventoryStatus": "OUT_OF_STOCK"
+                    }
+                  ],
+                  "online": [
+                    {
+                      "availableQuantity": "2",
+                      "inventoryStatus": "OUT_OF_STOCK"
+                    }
+                  ]
+                },
+                "skuInfo": {
+                  "name": "Mag M SS Laguna Madre:Grey:X Small",
+                  "shortDescription": "",
+                  "longDescription": "Just slip on the Magellan Outdoors Men's Laguna Madre Solid Short Sleeve Fishing Shirt, pack up your reel, rod and tackle box and you'll be ready to go. Made of lightweight, yet sturdy nylon, this short-sleeve shirt offers UPF 20+ protection from the sun's harmful rays. Plus, moisture-wicking fabric technology helps keep you cool and dry on especially hot days out on the water.",
+                  "sellable": "true",
+                  "fullImage": "//assets.academy.com/mgen/68/20004268.jpg",
+                  "thumbnail": "//assets.academy.com/mgen/68/20004268.jpg",
+                  "imageAltDescription": "Mag M SS Laguna Madre:Grey:X Small",
+                  "skuAttributes": [
+                    {
+                      "name": "color",
+                      "value": "blue"
+                    },
+                    {
+                      "name": "size",
+                      "value": "43"
+                    }
+                  ]
+                },
+                "availableShippingMethods:": [
+                  {
+                    "shipmodeId": "10551",
+                    "shipmodeDesc": "UPS Ground",
+                    "shippingType": "SG",
+                    "estimatedFromDate": "7-1",
+                    "estimatedToDate": "7-4"
+                  },
+                  {
+                    "shipmodeId": "10556",
+                    "shipmodeDesc": "Pickup In Store",
+                    "shippingType": "PICKUPINSTORE"
+                  },
+                  {
+                    "shipmodeId": "10556",
+                    "shipmodeDesc": "Ship To Store",
+                    "shippingType": "STS",
+                    "estimatedFromDate": "7-1",
+                    "estimatedToDate": "7-4"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "ShippingGroups": [
+          {
+            "groupSeqNum": "1",
+            "shippingModes": [
+              {
+                "shipmodeId": "11357",
+                "shipmodeDesc": "FEDX 2 Day",
+                "shippingType": "STANDARD",
+                "estimatedFromDate": "7-2",
+                "estimatedToDate": "7-5",
+                "saleShippingCharge": "50",
+                "baseShippingCharge": "60"
+              },
+              {
+                "shipmodeId": "11358",
+                "shipmodeDesc": "FEDX 1 Day",
+                "shippingType": "STANDARD",
+                "estimatedFromDate": "7-2",
+                "estimatedToDate": "7-5",
+                "saleShippingCharge": "50",
+                "baseShippingCharge": "60"
+              }
+            ],
+            "orderItems": [
+              {
+                "orderItemId": "1000"
+              },
+              {
+                "orderItemId": "1001"
+              }
+            ],
+            "addressIds": [
+              {
+                "addressId": "3457"
+              },
+              {
+                "addressId": "3458"
+              }
+            ]
+          },
+          {
+            "groupSeqNum": 2,
+            "shippingModes": [
+              {
+                "storeId": "12345",
+                "shipmodeId": "11357",
+                "shipmodeDesc": "PickupInStore",
+                "shippingType": "PICKUPINSTORE",
+                "saleShippingCharge": "50",
+                "baseShippingCharge": "60"
+              }
+            ],
+            "orderItems": [
+              {
+                "orderItemId": "1002"
+              },
+              {
+                "orderItemId": "1003"
+              }
+            ]
+          }
+        ],
+        "addresses": {
+          "shippingAddress": {
+            "firstName": "Academy",
+            "lastName": "Sports",
+            "phoneNumber": "1234567890",
+            "address": "7 times square",
+            "zipCode": "10007",
+            "city": "NY",
+            "state": "NY",
+            "companyName": "Academys"
+          },
+          "billingAddress": {
+            "firstName": "John",
+            "lastName": "Appleseed",
+            "phoneNumber": "1890787823",
+            "address": "1, Infinite Loop",
+            "zipCode": "95040",
+            "city": "Cupertino",
+            "state": "CA",
+            "companyName": "Nike"
+          }
+        },
+        "Addresses": [
+          {
+            "id": "3457",
+            "line1": "",
+            "line2": "",
+            "zipcode": "",
+            "type": "BIlling",
+            "name": "Home Address"
+          },
+          {
+            "id": "3458",
+            "line1": "",
+            "line2": "",
+            "zipcode": "",
+            "type": "Shipping",
+            "name": "Home Address"
+          }
+        ],
+        "promotions": [
+          {
+            "promotionId": "100533691",
+            "code": "Test10",
+            "description": ""
+          },
+          {
+            "promotionId": "100533692",
+            "code": "Test10",
+            "description": ""
+          }
+        ],
+        "giftCardDetails": [
+          {
+            "gcPiId": "1234",
+            "totalGCBalance": "00",
+            "GcAppliedAmount": "1",
+            "giftcard": "7777091989512621"
+          },
+          {
+            "gcPiId": "1254",
+            "totalGCBalance": "0",
+            "GcAppliedAmount": "2",
+            "giftcard": "7777091989512621"
+          },
+          {
+            "gcPiId": "5678",
+            "totalGCBalance": "10",
+            "GcAppliedAmount": "3",
+            "giftcard": "7777091989512621"
+          }
+        ]
+      },
+      "savedCreditCards": {
+        "isFetching": false,
+        "error": false,
+        "data": {
+          "creditCards": [
+            {
+              "billingAddress": {
+                "addressId": "testId",
+                "address": "addressLineTest",
+                "addressType": "addressTypeTest",
+                "city": "Bangalore",
+                "email": "test@abc.com",
+                "firstName": "John",
+                "lastName": "Lee",
+                "nickName": "Lee",
+                "phoneNumber": "1-541-754-3010",
+                "state": "AL",
+                "zipCode": "35005"
+              },
+              "correlationId": "228.3219095984413",
+              "creditCardNumber": "4900000000000003",
+              "defaultFlag": true,
+              "expiryDate": "10/20",
+              "savedCreditCardId": "aujio84747",
+              "token": "0245152126058291",
+              "type": "Visa"
+            },
+            {
+              "billingAddress": {
+                "addressId": "testId",
+                "address": "addressLineTest2",
+                "addressType": "addressTypeTest3",
+                "city": "Bangalore",
+                "email": "test@testing.com",
+                "firstName": "John",
+                "lastName": "Doe",
+                "nickName": "Doe",
+                "phoneNumber": "1-541-754-3010",
+                "state": "AL",
+                "zipCode": "55005"
+              },
+              "correlationId": "228.3219095984413",
+              "creditCardNumber": "6000000000000456",
+              "defaultFlag": true,
+              "expiryDate": "10/24",
+              "savedCreditCardId": "aujio84747",
+              "token": "0245152126058256",
+              "type": "Master"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

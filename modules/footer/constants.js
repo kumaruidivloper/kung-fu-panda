@@ -1,0 +1,12 @@
+export const NODE_TO_MOUNT = 'footer';
+export const DATA_COMP_ID = 'data-compId';
+export const SHOW_SIGNUP_MODAL = 'showSignupModal';
+export const HIDE_SIGNUP_MODAL = 'hideSignupModal';
+export const MOBILE_MAX_WIDTH = 992;
+export const DESKTOP_MIN_WIDTH = 993;
+export const OUTTER_GUTTER_SPACE_XS = '4px';
+export const OUTTER_GUTTER_SPACE_SM = '4px';
+export const OUTTER_GUTTER_SPACE_MD = '12px';
+export const CONTAINER_MAX_WIDTH_XS = '320px';
+export const CONTAINER_MAX_WIDTH_SM = '524px';
+export const CONTAINER_MAX_WIDTH_MD = '744px';

@@ -1,0 +1,1 @@
+The purpose of this code base is to have the components that can be developed and deployed individually. We are achieving this by having a concept of component registry where the component js gets delivered. Then, the node server does the assembly and send the html page to browser.

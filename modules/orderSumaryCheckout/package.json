@@ -1,0 +1,14 @@
+{
+  "name": "order-sumary-checkout",
+  "version": "1.0.0",
+  "description": "Order Sumary Checkout component",
+  "main": "orderSumaryCheckout.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}

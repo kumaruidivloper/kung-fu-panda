@@ -1,0 +1,14 @@
+{
+  "name": "wishlist-empty-state",
+  "version": "1.0.0",
+  "description": "Wishlist Empty State component",
+  "main": "wishlistEmptyState.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "^1.0.43"
+  }
+}

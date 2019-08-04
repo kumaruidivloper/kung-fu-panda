@@ -1,0 +1,19 @@
+{
+  "title": "Login Modal",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": { "emailaddressLabel": "Email Address", "signIn": "Sign In" },
+        "signInLabels": { "passwordLabel": "Password", "forgotYourPasswordLabel": "Forgot Your Password" },
+        "welcomeBackText": "Welcome Back!",
+        "welcomeBackSubText": "Sign In for a faster checkout experience",
+        "notAMemberText": "Not a member?",
+        "createAnAccountText": "Create an Account",
+        "forgotPasswordLink": "/shop/logonform?pageState=forgotPassword",
+        "signupLink": "/shop/logonform?pageState=signUp"
+      }
+    }
+  }
+}

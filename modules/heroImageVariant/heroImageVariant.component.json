@@ -1,0 +1,56 @@
+{
+  "title": "Hero Image Variant",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "desktopBackgroundImage": "http://35.224.16.202:4503/content/dam/academysports/Lighthouse.jpg",
+        "mobileBackgroundImage": "http://35.224.16.202:4503/content/dam/academysports/Test Image - 1.jpeg",
+        "desktopMiddleImage": "http://35.224.16.202:4503/content/dam/academysports/Test Image - 1.jpeg",
+        "mobileMiddleImage": "http://35.224.16.202:4503/content/dam/academysports/Lighthouse.jpg",
+        "middleImageOrientation": "left",
+        "middleImagePosition": "right",
+        "desktopForegroundImage": "http://35.224.16.202:4503/content/dam/academysports/Desert.jpg",
+        "mobileForegroundImage": "http://35.224.16.202:4503/content/dam/academysports/Test Image - 1.jpeg",
+        "foregroundImageOrientation": "left",
+        "mobileForegroundImagePosition": "center",
+        "boxColor": "#0055a6",
+        "boxPosition": "left",
+        "boxCategoryHeadline": "HIKING TRAIL SHOES",
+        "boxValueMessagingHeadline": "FIND YOUR STRIDE",
+        "boxSubtext": "LOREM IPSUM LONG TEXT",
+        "ctaLabel": "SHOP TRAIL RUNNING",
+        "ctaTarget": "www.academy.com"
+      }
+    }
+  },
+  "variants": [
+    {
+      "name": "v2",
+      "status": "wip",
+      "context": {
+        "data": {
+          "cms": {
+            "desktopBackgroundImage": "http://35.224.16.202:4503/content/dam/academysports/Lighthouse.jpg",
+            "mobileBackgroundImage": "http://35.224.16.202:4503/content/dam/academysports/SPACE.JPG",
+            "desktopMiddleImage": "http://35.224.16.202:4503/content/dam/academysports/SPACE.JPG",
+            "mobileMiddleImage": "http://35.224.16.202:4503/content/dam/academysports/Test Image - 1.jpeg",
+            "middleImageOrientation": "left",
+            "middleImagePosition": "left",
+            "desktopForegroundImage": "http://35.224.16.202:4503/content/dam/academysports/Desert.jpg",
+            "mobileForegroundImage": "http://35.224.16.202:4503/content/dam/academysports/Test Image - 1.jpeg",
+            "foregroundImageOrientation": "right",
+            "mobileForegroundImagePosition": "bottom",
+            "boxColor": "#29be93",
+            "boxPosition": "right",
+            "boxCategoryHeadline": "Headline",
+            "boxValueMessagingHeadline": "Value Messaging Headline",
+            "boxSubtext": "Subtext",
+            "ctaLabel": "CTA Label",
+            "ctaTarget": "www.academy.com"
+          }
+        }
+      }
+    }
+  ]
+}

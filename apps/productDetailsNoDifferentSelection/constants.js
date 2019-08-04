@@ -1,0 +1,16 @@
+export const NODE_TO_MOUNT = 'productDetailsNoDifferentSelection';
+export const DATA_COMP_ID = 'data-compid';
+export const DEFINING = 'Defining';
+export const COLOR = 'Color';
+export const SIZE = 'Size';
+export const SHOE_SIZE = 'Shoe Size';
+export const WAIST_SIZE = 'Waist Size';
+export const SHOE_WIDTH = 'Shoe Width';
+export const PATTERN = 'Pattern';
+export const SIZE_CHART_URL = 'sizeChartURL';
+export const NOT_APPLICABLE = 'N/A';
+export const CLEARANCE = 'Clearance';
+export const ACADEMY_GIFT_CARD = 'Academy Gift Cards';
+export const ACADEMY_BULK_GIFT_CARD = 'Academy Bulk Gift Cards';
+export const COOKIE_STORE_ID = 'WC_StLocId';
+export const DUMMY_SCENE7_TEST_ID = '1356333';

@@ -1,0 +1,224 @@
+{
+  "title": "Hero Image",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "mboxId": "target-global-mbox",
+        "legalLink": "",
+        "mobileImage": "/content/dam/academysports/homepage/ZeplinAssets/mobile/bg-image.jpg",
+        "imageAltText": "Everyday is gameday",
+        "legalCopy": "",
+        "textPosition": "left",
+        "ctaAlignment": "right",
+        "eyebrow": "BOGO SALE",
+        "cta": [
+          {
+            "ctaPath": "http://www.academy.com",
+            "ctaText": "SHOP NOW",
+            "ctaAlignment@Delete": "",
+            "ctaTarget@Delete": "",
+            "ctaTarget": "_blank"
+          },
+          {
+            "ctaPath": "http://www.academy.com",
+            "ctaText": "SHOP NOW",
+            "ctaAlignment@Delete": "",
+            "ctaTarget@Delete": "",
+            "ctaTarget": "_blank"
+          },
+          {
+            "ctaPath": "http://www.academy.com",
+            "ctaText": "SHOP NOW",
+            "ctaAlignment@Delete": "",
+            "ctaTarget@Delete": "",
+            "ctaTarget": "_blank"
+          }
+        ],
+        "subcopy": "Buy one, get one on our top-selling baseball & softball items",
+        "eyebrowColor": "blue",
+        "desktopImage": "/content/dam/academysports/homepage/ZeplinAssets/desktop/bg.jpg",
+        "textAlignment": "right",
+        "imageURL": "",
+        "headline": "Everyday is Gameday",
+        "isH1": false,
+        "height": "full"
+      }
+    }
+  },
+  "variants": [
+    {
+      "name": "full-LL",
+      "context": {
+        "data": {
+          "cms": {
+            "eyebrow": "BOGO SALE",
+            "headline": "Everyday is Gameday",
+            "isH1": false,
+            "cta": [
+              {
+                "ctaText": "SHOP NOW",
+                "ctaPath": "http://www.academy.com",
+                "ctaTarget": "_blank",
+                "ctaType": "primary"
+              }
+            ],
+            "heroVariation": true,
+            "ctaAlignment": "center",
+            "textAlignment": "",
+            "subcopy": "Buy one, get one on our top-selling baseball & softball items",
+            "desktopImage": "/content/dam/academysports/homepage/dc9e69525ee1f01fba34a26ba2fe7e34b1bb5768.jpg",
+            "mobileImage": "/content/dam/academysports/homepage/dc9e69525ee1f01fba34a26ba2fe7e34b1bb5768.jpg",
+            "imageUrl": "",
+            "imageAltText": "baseball",
+            "textPosition": "center bottom",
+            "height": "full",
+            "legalCopy": "Outdoors. All Rights Reserved",
+            "legalLink": "https://www.academy.com/shop/en/store/company-info",
+            "isErrorPage": false
+          },
+          "api": {}
+        }
+      }
+    },
+    {
+      "name": "Error-page-full-LL",
+      "context": {
+        "data": {
+          "cms": {
+            "eyebrow": "",
+            "headline": "UH, OH",
+            "isH1": false,
+            "cta": [
+              {
+                "ctaText": "LET'S FIND OUR WAY BACK",
+                "ctaPath": "http://www.academy.com",
+                "ctaTarget": "_blank",
+                "ctaType": "primary"
+              }
+            ],
+            "heroVariation": true,
+            "textAlignment": "center",
+            "subcopy": "Looks like we're lost in the woods.",
+            "desktopImage": "https://c2.staticflickr.com/2/1492/24075563634_a92871781f_b.jpg",
+            "mobileImage": "https://c2.staticflickr.com/2/1492/24075563634_a92871781f_b.jpg",
+            "imageUrl": "",
+            "imageAltText": "baseball",
+            "textPosition": "",
+            "ctaAlignment": "center",
+            "height": "full",
+            "legalCopy": "",
+            "legalLink": "",
+            "isErrorPage": true
+          },
+          "api": {}
+        }
+      }
+    },
+    {
+      "name": "full-left-center",
+      "context": {
+        "data": {
+          "cms": {
+            "eyebrow": "BOGO SALE",
+            "headline": "Everyday is Gameday",
+            "isH1": false,
+            "cta": [
+              {
+                "ctaText": "SHOP NOW",
+                "ctaPath": "http://www.academy.com",
+                "ctaTarget": "_blank",
+                "ctaType": "primary"
+              }
+            ],
+            "heroVariation": true,
+            "textAlignment": "center",
+            "subcopy": "Buy one, get one on our top-selling baseball & softball items",
+            "desktopImage": "/content/dam/academysports/homepage/dc9e69525ee1f01fba34a26ba2fe7e34b1bb5768.jpg",
+            "mobileImage": "/content/dam/academysports/homepage/dc9e69525ee1f01fba34a26ba2fe7e34b1bb5768.jpg",
+            "imageUrl": "",
+            "imageAltText": "baseball",
+            "textPosition": "center",
+            "ctaAlignment": "center",
+            "height": "three-quarter",
+            "legalCopy": "Outdoors. All Rights Reserved",
+            "legalLink": "https://www.academy.com/shop/en/store/company-info"
+          },
+          "api": {}
+        }
+      }
+    },
+    {
+      "name": "half",
+      "context": {
+        "data": {
+          "cms": {
+            "eyebrow": "BOGO SALE",
+            "headline": "Everyday is Gameday",
+            "isH1": false,
+            "cta": [
+              {
+                "ctaText": "SHOP NOW",
+                "ctaPath": "http://www.academy.com",
+                "ctaTarget": "_blank",
+                "ctaType": "primary"
+              },
+              {
+                "ctaText": "SHOP NOW",
+                "ctaPath": "http://www.academy.com",
+                "ctaTarget": "_blank",
+                "ctaType": "primary"
+              }
+            ],
+            "heroVariation": true,
+            "textAlignment": "right",
+            "ctaAlignment": "center",
+            "subcopy": "Buy one, get one on our top-selling baseball & softball items",
+            "desktopImage": "/content/dam/academysports/homepage/dc9e69525ee1f01fba34a26ba2fe7e34b1bb5768.jpg",
+            "mobileImage": "/content/dam/academysports/homepage/dc9e69525ee1f01fba34a26ba2fe7e34b1bb5768.jpg",
+            "imageUrl": "",
+            "imageAltText": "baseball",
+            "textPosition": "left",
+            "height": "half",
+            "legalCopy": "Outdoors. All Rights Reserved",
+            "legalLink": "https://www.academy.com/shop/en/store/company-info"
+          },
+          "api": {}
+        }
+      }
+    },
+    {
+      "name": "quarter",
+      "context": {
+        "data": {
+          "cms": {
+            "eyebrow": "BOGO SALE",
+            "headline": "Everyday is Gameday",
+            "isH1": true,
+            "cta": [
+              {
+                "ctaText": "SHOP NOW",
+                "ctaPath": "http://www.academy.com",
+                "ctaTarget": "_blank",
+                "ctaType": "primary"
+              }
+            ],
+            "heroVariation": true,
+            "textAlignment": "left",
+            "ctaAlignment": "left",
+            "subcopy": "Buy one, get one on our top-selling baseball & softball items",
+            "desktopImage": "/content/dam/academysports/homepage/dc9e69525ee1f01fba34a26ba2fe7e34b1bb5768.jpg",
+            "mobileImage": "/content/dam/academysports/homepage/dc9e69525ee1f01fba34a26ba2fe7e34b1bb5768.jpg",
+            "imageUrl": "",
+            "imageAltText": "baseball",
+            "textPosition": "left",
+            "height": "quarter",
+            "legalCopy": "Outdoors. All Rights Reserved",
+            "legalLink": "https://www.academy.com/shop/en/store/company-info"
+          },
+          "api": {}
+        }
+      }
+    }
+  ]
+}

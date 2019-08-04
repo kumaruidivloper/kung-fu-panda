@@ -1,0 +1,14 @@
+{
+  "name": "product-blade",
+  "version": "1.0.0",
+  "description": "Product Blade component",
+  "main": "productBlade.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "latest"
+  }
+}

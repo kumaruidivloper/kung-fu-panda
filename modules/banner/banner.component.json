@@ -1,0 +1,54 @@
+{
+  "title": "Banner",
+  "status": "ready",
+  "context": {
+    "data": {
+      "cms": {
+        "bannerType": "siteBanner",
+        "bannerCopy": "Honoring our Military with 10% Off",
+        "bannerColor": "blue",
+        "textColor": "red",
+        "bannerLinkText": "View Details",
+        "bannerLinkTextURL": "https://www.academy.com/shop/en/store/discount?intcmp=FW201814_20180516_HonoringMilitary|HP_PR01_2x0_P02",
+        "target": "_modal",
+        "bannerAlignment": "center",
+        "heading": "aaa",
+        "title": "BBB",
+        "items": [
+          {
+            "text": "BBB"
+          }
+        ],
+        "description": "BBB",
+        "disclaimer": "BBB",
+        "dimension83": "08/16/18",
+        "name": "campaign name",
+        "id": "campaign id",
+        "position": "slot1",
+        "isAuthoring": "N",
+        "creative": "site banner"
+      },
+      "api": {}
+    }
+  },
+  "variants": [
+    {
+      "name": "Page Banner",
+      "status": "ready",
+      "context": {
+        "data": {
+          "cms": {
+            "bannerType": "pageBanner",
+            "bannerCopy": "Honoring our Military with 10% Off",
+            "bannerColor": "red",
+            "bannerLinkText": "View Details",
+            "bannerLinkTextURL": "https://www.academy.com/shop/en/store/discount?intcmp=FW201814_20180516_HonoringMilitary|HP_PR01_2x0_P02",
+            "target": "_blank",
+            "bannerAlignment": "left"
+          },
+          "api": {}
+        }
+      }
+    }
+  ]
+}

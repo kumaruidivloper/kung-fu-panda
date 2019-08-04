@@ -1,0 +1,923 @@
+{
+  "title": "Product Details",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Product Details works!",
+        "swatchImgList": [
+          "/assets/images/demo/brands/adidas/category_adidas.png", 
+          "/assets/images/demo/brands/newbalance/category_newbalance.png", 
+          "/assets/images/demo/brands/nike/category_nike.png",
+          "/assets/images/demo/brands/reebok/category_reebok.png",
+          "/assets/images/demo/brands/underarmour/category_underarmour.png"
+        ],
+        "productinfo": {
+          "name": "Ariat Men's Flame Resistant Work Crew Shirt",
+          "id": "1042114",
+          "shortDescription": "The Ariat Men's Flame Resistant Work Crew Shirt is made of flame-resistant cotton jersey and features raglan long sleeves.",
+          "longDescription": "Spend your day at work in the Ariat Men's Flame Resistant Work Crew Shirt. Made of 100% flame-resistant cotton jersey for safety and soft, comfortable wear, the T-shirt features raglan long sleeves with an HRC2 logo on the left sleeve. HRC2 tab sewn into left side seam. HRC2 and NFPA 2112 compliant. Crew neck.",
+          "sellable": "true",
+          "colorCount": "2",
+          "bvRating": "3",
+          "manufacturer": "Ariat",
+          "defaultSku": "026991679",
+          "isSingleSkuProduct": false,
+          "partNumber": "201777856",
+          "seoURL": "ariat-mens-flame-resistant-work-crew-shirt-201777856--1",
+          "imageURL": "//assets.academy.com/mgen/05/10334505.jpg",
+          "keyword": "_Up to 25% Off Outdoor Apparel_2017",
+          "promoMessage": "Buy One Get One 50% Off",
+          "adBug": "C",
+          "productSpecifications": {
+            "featureBenefits": {
+              "value": [
+                "HRC2 and NFPA 2112 compliant",
+                "Crew neck",
+                "HRC2 tab sewn into left side seam",
+                "Made of 100% flame-resistant cotton jersey for safety and soft, comfortable wear",
+                "Raglan long sleeves with an HRC2 logo left sleeve"
+              ],
+              "key": "Features and Benefits"
+            },
+            "whatsIncluded": {
+              "value": "Ariat Men's Flame Resistant Work Crew Shirt",
+              "key": "What's in the Box"
+            },
+            "specifications": {
+              "value": {
+                "Flame Resistant": "Yes",
+                "Type": "Shirts",
+                "Special feature": "Flame Resistant",
+                "Style": "T-Shirts",
+                "Material": "100% cotton",
+                "Neckline": "Crew Neck",
+                "Sleeve length": "Long Sleeve",
+                "Compression": "No",
+                "Activity": "Work",
+                "Size Range": "Men's",
+                "Gender": "Men's",
+                "Pattern": "Solid",
+                "Collar style": "Crew neck",
+                "Care": "Machine wash cold"
+              },
+              "key": "Specifications"
+            }
+          },
+          "sKUs": [
+            {
+              "skuId": "026991679",
+              "itemId": "1042115",
+              "imageURL": "//assets.academy.com/mgen/05/10334505.jpg",
+              "thumbnail": "//assets.academy.com/mgen/05/10334505.jpg",
+              "sellable": "true",
+              "price": {
+                "listPrice": "74.99"
+              },
+              "alternateImages": [
+                
+              ],
+              "skuResolvingAttrIdentifiers": {
+                "Color": "35789",
+                "Size": "3798"
+              },
+              "adBug": "C",
+              "attributes": [
+                {
+                  "uniqueID": "35313",
+                  "name": "Tran_level",
+                  "usage": "Descriptive",
+                  "value": "2"
+                },
+                {
+                  "uniqueID": "35318",
+                  "name": "isSerialTrackedFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35317",
+                  "name": "shipFromStoreFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35321",
+                  "name": "SafetyStockLevel",
+                  "usage": "Descriptive",
+                  "value": "1"
+                },
+                {
+                  "uniqueID": "35319",
+                  "name": "labelPickFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "81813",
+                  "name": "vendorShipRestrictionFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35818",
+                  "name": "WMSShipAloneFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35315",
+                  "name": "Diff2",
+                  "usage": "Descriptive",
+                  "value": "MEDIUM"
+                },
+                {
+                  "uniqueID": "35314",
+                  "name": "Diff1",
+                  "usage": "Descriptive",
+                  "value": "MDBEIGE01"
+                },
+                {
+                  "uniqueID": "3707",
+                  "name": "Color",
+                  "usage": "Defining",
+                  "value": "Sand"
+                },
+                {
+                  "uniqueID": "3716",
+                  "name": "Color",
+                  "usage": "Descriptive",
+                  "value": ""
+                },
+                {
+                  "uniqueID": "3717",
+                  "name": "Size",
+                  "usage": "Defining",
+                  "value": "Medium"
+                },
+                {
+                  "uniqueID": "1202",
+                  "name": "vendorName",
+                  "usage": "Descriptive",
+                  "value": "ARIAT INTERNATIONAL"
+                },
+                {
+                  "uniqueID": "1201",
+                  "name": "vendor",
+                  "usage": "Descriptive",
+                  "value": "40733"
+                }
+              ]
+            },
+            {
+              "skuId": "026991695",
+              "itemId": "1042116",
+              "imageURL": "//assets.academy.com/mgen/05/10334505.jpg",
+              "thumbnail": "//assets.academy.com/mgen/05/10334505.jpg",
+              "sellable": "true",
+              "price": {
+                "listPrice": "74.99"
+              },
+              "alternateImages": [
+                
+              ],
+              "skuResolvingAttrIdentifiers": {
+                "Color": "35789",
+                "Size": "4286"
+              },
+              "adBug": "C",
+              "attributes": [
+                {
+                  "uniqueID": "35313",
+                  "name": "Tran_level",
+                  "usage": "Descriptive",
+                  "value": "2"
+                },
+                {
+                  "uniqueID": "35318",
+                  "name": "isSerialTrackedFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35317",
+                  "name": "shipFromStoreFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35321",
+                  "name": "SafetyStockLevel",
+                  "usage": "Descriptive",
+                  "value": "1"
+                },
+                {
+                  "uniqueID": "35319",
+                  "name": "labelPickFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "81813",
+                  "name": "vendorShipRestrictionFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35315",
+                  "name": "Diff2",
+                  "usage": "Descriptive",
+                  "value": "XLARGE"
+                },
+                {
+                  "uniqueID": "35818",
+                  "name": "WMSShipAloneFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35314",
+                  "name": "Diff1",
+                  "usage": "Descriptive",
+                  "value": "MDBEIGE01"
+                },
+                {
+                  "uniqueID": "3707",
+                  "name": "Color",
+                  "usage": "Defining",
+                  "value": "Sand"
+                },
+                {
+                  "uniqueID": "3716",
+                  "name": "Color",
+                  "usage": "Descriptive",
+                  "value": ""
+                },
+                {
+                  "uniqueID": "3717",
+                  "name": "Size",
+                  "usage": "Defining",
+                  "value": "X Large"
+                },
+                {
+                  "uniqueID": "1202",
+                  "name": "vendorName",
+                  "usage": "Descriptive",
+                  "value": "ARIAT INTERNATIONAL"
+                },
+                {
+                  "uniqueID": "3202",
+                  "name": "UPCcode",
+                  "usage": "Descriptive",
+                  "value": "0420000474982"
+                },
+                {
+                  "uniqueID": "1201",
+                  "name": "vendor",
+                  "usage": "Descriptive",
+                  "value": "40733"
+                },
+                {
+                  "uniqueID": "3202",
+                  "name": "UPCcode",
+                  "usage": "Descriptive",
+                  "value": "0884849607596"
+                }
+              ]
+            },
+            {
+              "skuId": "026991703",
+              "itemId": "1042117",
+              "imageURL": "//assets.academy.com/mgen/05/10334505.jpg",
+              "thumbnail": "//assets.academy.com/mgen/05/10334505.jpg",
+              "sellable": "true",
+              "price": {
+                "listPrice": "74.99"
+              },
+              "alternateImages": [
+                
+              ],
+              "skuResolvingAttrIdentifiers": {
+                "Color": "35789",
+                "Size": "4299"
+              },
+              "adBug": "C",
+              "attributes": [
+                {
+                  "uniqueID": "35313",
+                  "name": "Tran_level",
+                  "usage": "Descriptive",
+                  "value": "2"
+                },
+                {
+                  "uniqueID": "35318",
+                  "name": "isSerialTrackedFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35317",
+                  "name": "shipFromStoreFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35321",
+                  "name": "SafetyStockLevel",
+                  "usage": "Descriptive",
+                  "value": "1"
+                },
+                {
+                  "uniqueID": "35319",
+                  "name": "labelPickFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "81813",
+                  "name": "vendorShipRestrictionFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35818",
+                  "name": "WMSShipAloneFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35314",
+                  "name": "Diff1",
+                  "usage": "Descriptive",
+                  "value": "MDBEIGE01"
+                },
+                {
+                  "uniqueID": "35315",
+                  "name": "Diff2",
+                  "usage": "Descriptive",
+                  "value": "XXLARGE"
+                },
+                {
+                  "uniqueID": "3707",
+                  "name": "Color",
+                  "usage": "Defining",
+                  "value": "Sand"
+                },
+                {
+                  "uniqueID": "3717",
+                  "name": "Size",
+                  "usage": "Defining",
+                  "value": "XX Large"
+                },
+                {
+                  "uniqueID": "3716",
+                  "name": "Color",
+                  "usage": "Descriptive",
+                  "value": ""
+                },
+                {
+                  "uniqueID": "1202",
+                  "name": "vendorName",
+                  "usage": "Descriptive",
+                  "value": "ARIAT INTERNATIONAL"
+                },
+                {
+                  "uniqueID": "1201",
+                  "name": "vendor",
+                  "usage": "Descriptive",
+                  "value": "40733"
+                }
+              ]
+            },
+            {
+              "skuId": "026991687",
+              "itemId": "1042118",
+              "imageURL": "//assets.academy.com/mgen/05/10334505.jpg",
+              "thumbnail": "//assets.academy.com/mgen/05/10334505.jpg",
+              "sellable": "true",
+              "price": {
+                "listPrice": "74.99"
+              },
+              "alternateImages": [
+                
+              ],
+              "skuResolvingAttrIdentifiers": {
+                "Color": "35789",
+                "Size": "3851"
+              },
+              "adBug": "C",
+              "attributes": [
+                {
+                  "uniqueID": "35313",
+                  "name": "Tran_level",
+                  "usage": "Descriptive",
+                  "value": "2"
+                },
+                {
+                  "uniqueID": "35318",
+                  "name": "isSerialTrackedFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35317",
+                  "name": "shipFromStoreFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35321",
+                  "name": "SafetyStockLevel",
+                  "usage": "Descriptive",
+                  "value": "1"
+                },
+                {
+                  "uniqueID": "35319",
+                  "name": "labelPickFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "81813",
+                  "name": "vendorShipRestrictionFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35818",
+                  "name": "WMSShipAloneFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35315",
+                  "name": "Diff2",
+                  "usage": "Descriptive",
+                  "value": "LARGE"
+                },
+                {
+                  "uniqueID": "35314",
+                  "name": "Diff1",
+                  "usage": "Descriptive",
+                  "value": "MDBEIGE01"
+                },
+                {
+                  "uniqueID": "3707",
+                  "name": "Color",
+                  "usage": "Defining",
+                  "value": "Sand"
+                },
+                {
+                  "uniqueID": "3716",
+                  "name": "Color",
+                  "usage": "Descriptive",
+                  "value": ""
+                },
+                {
+                  "uniqueID": "3717",
+                  "name": "Size",
+                  "usage": "Defining",
+                  "value": "Large"
+                },
+                {
+                  "uniqueID": "1202",
+                  "name": "vendorName",
+                  "usage": "Descriptive",
+                  "value": "ARIAT INTERNATIONAL"
+                },
+                {
+                  "uniqueID": "3202",
+                  "name": "UPCcode",
+                  "usage": "Descriptive",
+                  "value": "0884849607589"
+                },
+                {
+                  "uniqueID": "1201",
+                  "name": "vendor",
+                  "usage": "Descriptive",
+                  "value": "40733"
+                }
+              ]
+            },
+            {
+              "skuId": "105359811",
+              "itemId": "3080769",
+              "imageURL": "//assets.academy.com/mgen/57/10521057.jpg",
+              "thumbnail": "//assets.academy.com/mgen/57/10521057.jpg",
+              "sellable": "true",
+              "price": {
+                "listPrice": "74.99"
+              },
+              "alternateImages": [
+                
+              ],
+              "skuResolvingAttrIdentifiers": {
+                "Color": "5512",
+                "Size": "3798"
+              },
+              "adBug": "C",
+              "attributes": [
+                {
+                  "uniqueID": "35313",
+                  "name": "Tran_level",
+                  "usage": "Descriptive",
+                  "value": "2"
+                },
+                {
+                  "uniqueID": "35318",
+                  "name": "isSerialTrackedFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35317",
+                  "name": "shipFromStoreFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35321",
+                  "name": "SafetyStockLevel",
+                  "usage": "Descriptive",
+                  "value": "1"
+                },
+                {
+                  "uniqueID": "35319",
+                  "name": "labelPickFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "81813",
+                  "name": "vendorShipRestrictionFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35314",
+                  "name": "Diff1",
+                  "usage": "Descriptive",
+                  "value": "NAVY"
+                },
+                {
+                  "uniqueID": "35315",
+                  "name": "Diff2",
+                  "usage": "Descriptive",
+                  "value": "MEDIUM"
+                },
+                {
+                  "uniqueID": "3707",
+                  "name": "Color",
+                  "usage": "Defining",
+                  "value": "Navy"
+                },
+                {
+                  "uniqueID": "3716",
+                  "name": "Color",
+                  "usage": "Descriptive",
+                  "value": ""
+                },
+                {
+                  "uniqueID": "3717",
+                  "name": "Size",
+                  "usage": "Defining",
+                  "value": "Medium"
+                },
+                {
+                  "uniqueID": "1202",
+                  "name": "vendorName",
+                  "usage": "Descriptive",
+                  "value": "ARIAT INTERNATIONAL"
+                },
+                {
+                  "uniqueID": "1201",
+                  "name": "vendor",
+                  "usage": "Descriptive",
+                  "value": "40733"
+                },
+                {
+                  "uniqueID": "3202",
+                  "name": "UPCcode",
+                  "usage": "Descriptive",
+                  "value": "0884849607626"
+                }
+              ]
+            },
+            {
+              "skuId": "105359829",
+              "itemId": "3080770",
+              "imageURL": "//assets.academy.com/mgen/57/10521057.jpg",
+              "thumbnail": "//assets.academy.com/mgen/57/10521057.jpg",
+              "sellable": "true",
+              "price": {
+                "listPrice": "74.99"
+              },
+              "alternateImages": [
+                
+              ],
+              "skuResolvingAttrIdentifiers": {
+                "Color": "5512",
+                "Size": "3851"
+              },
+              "adBug": "C",
+              "attributes": [
+                {
+                  "uniqueID": "35313",
+                  "name": "Tran_level",
+                  "usage": "Descriptive",
+                  "value": "2"
+                },
+                {
+                  "uniqueID": "35318",
+                  "name": "isSerialTrackedFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35317",
+                  "name": "shipFromStoreFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35321",
+                  "name": "SafetyStockLevel",
+                  "usage": "Descriptive",
+                  "value": "1"
+                },
+                {
+                  "uniqueID": "35319",
+                  "name": "labelPickFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "81813",
+                  "name": "vendorShipRestrictionFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35314",
+                  "name": "Diff1",
+                  "usage": "Descriptive",
+                  "value": "NAVY"
+                },
+                {
+                  "uniqueID": "35315",
+                  "name": "Diff2",
+                  "usage": "Descriptive",
+                  "value": "LARGE"
+                },
+                {
+                  "uniqueID": "3707",
+                  "name": "Color",
+                  "usage": "Defining",
+                  "value": "Navy"
+                },
+                {
+                  "uniqueID": "3716",
+                  "name": "Color",
+                  "usage": "Descriptive",
+                  "value": ""
+                },
+                {
+                  "uniqueID": "3717",
+                  "name": "Size",
+                  "usage": "Defining",
+                  "value": "Large"
+                },
+                {
+                  "uniqueID": "1202",
+                  "name": "vendorName",
+                  "usage": "Descriptive",
+                  "value": "ARIAT INTERNATIONAL"
+                },
+                {
+                  "uniqueID": "1201",
+                  "name": "vendor",
+                  "usage": "Descriptive",
+                  "value": "40733"
+                },
+                {
+                  "uniqueID": "3202",
+                  "name": "UPCcode",
+                  "usage": "Descriptive",
+                  "value": "0884849607633"
+                }
+              ]
+            },
+            {
+              "skuId": "105359837",
+              "itemId": "3080771",
+              "imageURL": "//assets.academy.com/mgen/57/10521057.jpg",
+              "thumbnail": "//assets.academy.com/mgen/57/10521057.jpg",
+              "sellable": "true",
+              "price": {
+                "listPrice": "74.99"
+              },
+              "alternateImages": [
+                
+              ],
+              "skuResolvingAttrIdentifiers": {
+                "Color": "5512",
+                "Size": "4286"
+              },
+              "adBug": "C",
+              "attributes": [
+                {
+                  "uniqueID": "35313",
+                  "name": "Tran_level",
+                  "usage": "Descriptive",
+                  "value": "2"
+                },
+                {
+                  "uniqueID": "35318",
+                  "name": "isSerialTrackedFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35317",
+                  "name": "shipFromStoreFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35321",
+                  "name": "SafetyStockLevel",
+                  "usage": "Descriptive",
+                  "value": "1"
+                },
+                {
+                  "uniqueID": "35319",
+                  "name": "labelPickFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "81813",
+                  "name": "vendorShipRestrictionFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35315",
+                  "name": "Diff2",
+                  "usage": "Descriptive",
+                  "value": "XLARGE"
+                },
+                {
+                  "uniqueID": "35314",
+                  "name": "Diff1",
+                  "usage": "Descriptive",
+                  "value": "NAVY"
+                },
+                {
+                  "uniqueID": "3707",
+                  "name": "Color",
+                  "usage": "Defining",
+                  "value": "Navy"
+                },
+                {
+                  "uniqueID": "3716",
+                  "name": "Color",
+                  "usage": "Descriptive",
+                  "value": ""
+                },
+                {
+                  "uniqueID": "3717",
+                  "name": "Size",
+                  "usage": "Defining",
+                  "value": "X Large"
+                },
+                {
+                  "uniqueID": "1202",
+                  "name": "vendorName",
+                  "usage": "Descriptive",
+                  "value": "ARIAT INTERNATIONAL"
+                },
+                {
+                  "uniqueID": "1201",
+                  "name": "vendor",
+                  "usage": "Descriptive",
+                  "value": "40733"
+                },
+                {
+                  "uniqueID": "3202",
+                  "name": "UPCcode",
+                  "usage": "Descriptive",
+                  "value": "0884849607640"
+                }
+              ]
+            },
+            {
+              "skuId": "105359845",
+              "itemId": "3080772",
+              "imageURL": "//assets.academy.com/mgen/57/10521057.jpg",
+              "thumbnail": "//assets.academy.com/mgen/57/10521057.jpg",
+              "sellable": "true",
+              "price": {
+                "listPrice": "74.99"
+              },
+              "alternateImages": [
+                
+              ],
+              "skuResolvingAttrIdentifiers": {
+                "Color": "5512",
+                "Size": "4299"
+              },
+              "adBug": "C",
+              "attributes": [
+                {
+                  "uniqueID": "35313",
+                  "name": "Tran_level",
+                  "usage": "Descriptive",
+                  "value": "2"
+                },
+                {
+                  "uniqueID": "35318",
+                  "name": "isSerialTrackedFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35317",
+                  "name": "shipFromStoreFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35321",
+                  "name": "SafetyStockLevel",
+                  "usage": "Descriptive",
+                  "value": "1"
+                },
+                {
+                  "uniqueID": "35319",
+                  "name": "labelPickFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "81813",
+                  "name": "vendorShipRestrictionFlag",
+                  "usage": "Descriptive",
+                  "value": "N"
+                },
+                {
+                  "uniqueID": "35314",
+                  "name": "Diff1",
+                  "usage": "Descriptive",
+                  "value": "NAVY"
+                },
+                {
+                  "uniqueID": "35315",
+                  "name": "Diff2",
+                  "usage": "Descriptive",
+                  "value": "XXLARGE"
+                },
+                {
+                  "uniqueID": "3707",
+                  "name": "Color",
+                  "usage": "Defining",
+                  "value": "Navy"
+                },
+                {
+                  "uniqueID": "3717",
+                  "name": "Size",
+                  "usage": "Defining",
+                  "value": "XX Large"
+                },
+                {
+                  "uniqueID": "3716",
+                  "name": "Color",
+                  "usage": "Descriptive",
+                  "value": ""
+                },
+                {
+                  "uniqueID": "1202",
+                  "name": "vendorName",
+                  "usage": "Descriptive",
+                  "value": "ARIAT INTERNATIONAL"
+                },
+                {
+                  "uniqueID": "1201",
+                  "name": "vendor",
+                  "usage": "Descriptive",
+                  "value": "40733"
+                },
+                {
+                  "uniqueID": "3202",
+                  "name": "UPCcode",
+                  "usage": "Descriptive",
+                  "value": "0884849607657"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

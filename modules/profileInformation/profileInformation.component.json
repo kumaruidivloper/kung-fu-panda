@@ -1,0 +1,52 @@
+{
+  "title": "Profile Information",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "commonLabels": {
+          "cancelLabel": "cancel",
+          "passwordMustContainLabel": "Password Must Contain Label",
+          "weakLabel": "Weak",
+          "passwordStrengthLabel": "Password Strength",
+          "undoLabel": "undo",
+          "showLabel": "Show",
+          "setAsDefault": "Set as Default",
+          "strongLabel": "Strong",
+          "saveLabel": "save",
+          "passwordStrengthCopyLabel": "Password Strength",
+          "updateLabel": "Update",
+          "editLabel": "Edit",
+          "defaultLabel": "Default",
+          "removeLabel": "Remove"
+        },
+        "checkoutLabels": {
+          "lastNameLabel": "Last Name",
+          "firstNameLabel": "First Name"
+        },
+        "profileLabel": "PROFILE",
+        "notificationLabel": "NOTIFICATIONS",
+        "profileInformationLabel": "PROFILE INFORMATION",
+        "unsubscribeLabel": "You can unsubscribe to this service at any time",
+        "editProfileLabel": "EDIT PROFILE",
+        "nameLabel": "Name",
+        "emailLabel": "Email",
+        "emailNotifiationAlertLabel": "I would like to recieve email notifications",
+        "changeEmailLabel": "CHANGE EMAIL",
+        "changeEmailAlertText":
+          "By using the form below, you will change the email address for your Academy.com account. Use the new email address the next time you log in.",
+        "currentEmailLabel": "Current Email",
+        "newEmailLabel": "New Email",
+        "confirmEmailLabel": "Confirm Email",
+        "changePasswordLabel": "CHANGE YOUR PASSWORD",
+        "yourPasswordLabel": "Your Password",
+        "currentPasswordLabel": "",
+        "newPasswordLabel": "New Password",
+        "changeYourPasswordLabel": "Change Password",
+        "changePasswordMessage": "You have successfully reset your password",
+        "successfullyResetPasswordText": "You have successfully reset your password"
+      },
+      "profileId": "8"
+    }
+  }
+}

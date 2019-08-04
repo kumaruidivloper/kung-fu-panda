@@ -1,0 +1,13 @@
+@mixin defaultZIndex() {
+  position: relative;
+  z-index: 1;
+}
+
+body > .wrapper {
+  @include defaultZIndex();
+}
+
+body > .ReactModalPortal {
+  position: relative;
+  z-index: 14;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "share-delete-wishlist",
+  "version": "1.0.0",
+  "description": "Share Delete Wishlist component",
+  "main": "shareDeleteWishlist.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}

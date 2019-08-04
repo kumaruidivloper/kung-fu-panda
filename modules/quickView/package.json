@@ -1,0 +1,15 @@
+{
+  "name": "quick-view",
+  "version": "1.0.0",
+  "description": "Quick View component",
+  "main": "quickView.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17",
+    "react-modal": "3.6.1"
+  }
+}

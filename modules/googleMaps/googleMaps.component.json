@@ -1,0 +1,24 @@
+{
+  "title": "Google Maps",
+  "status": "wip",
+  "context": {
+    "data": {
+      "radius": 200,
+      "centerPoint": {
+        "lat": 28.5106443,
+        "lng": 77.07264529999998
+      },
+      "markers": [{
+        "position": {
+          "lat": 28.57217058122251,
+          "lng": 77.14118110474851
+        }
+      }, {
+        "position": {
+          "lat": 28.579228328429482,
+          "lng": 77.01847029932082
+        }
+      }]
+    }
+  }
+}

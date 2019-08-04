@@ -1,0 +1,14 @@
+{
+  "name": "order-listing",
+  "version": "1.0.0",
+  "description": "Order Listing component",
+  "main": "orderListing.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "^1.0.52"
+  },
+  "author": "",
+  "license": "ISC"
+}

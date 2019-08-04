@@ -1,0 +1,13 @@
+{
+    "presets": [
+        [
+            "env",
+            {
+                "modules": "umd"
+            }
+        ],
+        "react",
+        "stage-2"
+    ],
+    "plugins": ["transform-decorators-legacy", "external-helpers", "transform-runtime", "emotion", "styled-components"]
+}

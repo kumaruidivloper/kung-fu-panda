@@ -1,0 +1,20 @@
+.fade-grow-enter {
+  opacity: 0.01;
+  height: 0;
+  overflow: hidden;
+}
+.fade-grow-enter-active {
+  opacity: 1;
+  height: 54px;
+  transition: height 400ms ease-in, opacity 400ms ease-in;
+}
+.fade-grow-exit {
+  opacity: 1;
+  height: 54px;
+  overflow: hidden;
+}
+.fade-grow-exit-active {
+  opacity: 0.01;
+  height: 0;
+  transition: height 400ms ease-in, opacity 400ms ease-in;
+}

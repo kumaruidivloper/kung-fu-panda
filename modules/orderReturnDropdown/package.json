@@ -1,0 +1,14 @@
+{
+  "name": "order-return-dropdown",
+  "version": "1.0.0",
+  "description": "Order Return Dropdown component",
+  "main": "orderReturnDropdown.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}

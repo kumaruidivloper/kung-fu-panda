@@ -1,0 +1,11 @@
+{
+  "name": "true-fit",
+  "version": "1.0.0",
+  "description": "True Fit component",
+  "main": "trueFit.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

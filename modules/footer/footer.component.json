@@ -1,0 +1,105 @@
+{
+    "title": "Footer",
+    "status": "wip",
+    "context": {
+        "data": {
+            "cms": {
+                "columnHeading1": "THIS IS ACADEMY",
+                "footerLinks1": [{
+                        "label": "Our History",
+                        "url": "www.google.com"
+                    },
+                    {
+                        "label": "Career",
+                        "url": "www.google.com"
+                    },
+                    {
+                        "label": "Press Room",
+                        "url": "www.google.com"
+                    },
+                    {
+                        "label": "Giving Back",
+                        "url": "www.google.com"
+                    }
+                ],
+                "columnHeading2": "NEED HELP?",
+                "footerLinks2": [{
+                        "label": "Check Order Status",
+                        "url": "www.yahoo.com"
+                    },
+                    {
+                        "label": "Return Policy",
+                        "url": "www.yahoo.com"
+                    },
+                    {
+                        "label": "Product Recalls",
+                        "url": "www.yahoo.com"
+                    },
+                    {
+                        "label": "Rebates",
+                        "url": "www.yahoo.com"
+                    },
+                    {
+                        "label": "Contact Us",
+                        "url": "www.yahoo.com"
+                    },
+                    {
+                        "label": "Customer Care",
+                        "url": "www.yahoo.com"
+                    }
+                ],
+                "columnHeading3": "SERVICES",
+                "footerLinks3": [{
+                        "label": "Gift Cards",
+                        "url": "www.yahoo.com"
+                    },
+                    {
+                        "label": "Academy Credit",
+                        "url": "www.yahoo.com"
+                    },
+                    {
+                        "label": "Card",
+                        "url": "www.yahoo.com"
+                    },
+                    {
+                        "label": "Store Services",
+                        "url": "www.yahoo.com"
+                    }
+                ],
+                "fb": "true",
+                "fbLink": "fb.com",
+                "tw": "true",
+                "twLink": "tw.com",
+                "pt": "true",
+                "ptLink": "pt.com",
+                "yt": "true",
+                "ytLink": "yt.com",
+                "in": "true",
+                "instaLink":"it.com",
+                "findStore": "FIND A STORE",
+                "findStoreUrl": "/content/academy",
+                "findStoreTarget": "_blank",
+                "dealsSignUp": "SIGN UP FOR MORE DEALS",
+                "dealsSignUpUrl": "deal.com",
+                "chatLabel": "CHAT NOW",
+                "chatUrl": "//academy.custhelp.com/app/chat/chat_launch/",
+                "chatTarget": "_blank",
+                "legalUrl": [
+                    {
+                        "label": "Privacy Policy",
+                        "url": "privacy.com"
+                    },
+                    {
+                        "label": "Terms & Conditions",
+                        "url": "terms.com"
+                    },
+                    {
+                        "label":"California Proposition 65 California Transparency in Supply Chain Act(SB 657)",
+                        "url":"/content/academy"
+                    }
+                ],
+                "legalLabels": "© Academy Sports + Outdoors. All Rights Reserved"
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "My Account Payment",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "commonLabels": {
+          "addLabel": "Add",
+          "cancelLabel": "cancel",
+          "updateLabel": "Update",
+          "editLabel": "Edit",
+          "defaultLabel": "Default",
+          "removeLabel": "Remove",
+          "undoLabel": "undo",
+          "setAsDefault": "Set as Default",
+          "cardsAccepted": [{
+              "label": "Visa",
+              "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/visa.jpg"
+            },
+            {
+              "label": "Master Card",
+              "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/visa.jpg"
+            },
+            {
+              "label": "Paypal",
+              "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/visa.jpg"
+            }
+          ],
+          "cardEndingInLabel": "ending in",
+          "cardEndingDeletedText": "ending in {{cardNo}} has been deleted."
+        },
+        "checkoutLabels": {
+          "lastNameLabel": "Last Name",
+          "cityLabel": "City",
+          "creditCardNumberLabel": "Credit Card Number",
+          "stateLabel": "State",
+          "addressLabel": "Address",
+          "phoneNumberLabel": "Phone Number",
+          "billingInformation": "BILLING INFORMATION",
+          "firstNameLabel": "First Name",
+          "cvvLabel": "CVV",
+          "zipCodeLabel": "ZIP Code",
+          "addMoreDetailsOptionalLabel": "Add Company Name,Apt. Number,etc. (Optional)"
+        },
+        "inStorePickupLabel": {
+          "inStorePickupInstruction2Label": "Bring your vaild government issued ID to the store",
+          "estimatedPickupDateLabel": "Estimated pick up date",
+          "inStorePickupInstructionsLabel": "IN-STORE PICKUP INSTRUCTIONS",
+          "storeHoursLabel": "Store Hours",
+          "inStorePickupFromLabel": "In-Store Pickup at ",
+          "inStorePickupLabel": "IN-STORE PICKUP",
+          "inStorePickupInstruction1Label": "Before going to the store,wait for an email confirming it's ready",
+          "inStorePickupInstruction3Label": "Bring this confirmation email or your order number with you",
+          "readyToPickupOnLabel": "Ready to pick up on ",
+          "pickedUpOnLabel": "Picked up on",
+          "pickupInformationLabel": "PICKUP INFORMATION",
+          "readyToPickupOnHintText": "You have until {date} to pick up your order. If you do not pick up your order by that date,it will be cancelled."
+        },
+        "errorMsg": {
+          "invalidEmailText": "Invalid Email",
+          "outOfStock": "This item is out of stock.Please add it to your wishlist or remove it from your cart to proceed",
+          "creditCardExpiredLabel": "This credit card has expired",
+          "_RTS_INVALID_NUMBER_OR_PIN":"The combination of Gift Card Number and PIN is incorrect. Please try again.",
+		      "giftCardNumber":"Enter Gift Card Number",
+		      "giftCardPin":"Enter PIN",
+		      "enteredGiftCardNumberWithEither":"The number you entered is an in-store merchandise credit. Please visit your local store to redeem."
+        },
+        "paymentsLabel": "PAYMENTS",
+        "creditCardLabel": "CREDIT CARDS",
+        "youHaveNoCreditLabel": "You have no credit cards listed.",
+        "addNewCreditCardLabelUpper": "ADD NEW CREDIT CARD",
+        "addNewCreditCardLabelLower": "Add New Credit Card",
+
+        "giftCardEndingInLabel": "Gift Card Ending in",
+        "availableBalanceLabel": "AVAILABLE BALANCE",
+
+        "expiryDateLabel": "Exp. Date",
+        "youHaveNoGiftCardListedLabel": "You Have No Gift Card Listed.",
+        "addNewGiftCardLabel": "Add New Gift Card",
+        "pinLabel": "PIN",
+        "editCreditCardLabel": "EDIT CREDIT CARD",
+        "giftCardsLabel": "GIFT CARDS",
+        "giftCardNumberLabel": "GIFT CARD NUMBER",
+        "endingHasBeenDeletedLabel":"Gift Card ending in {{giftCardNo}} has been deleted"
+      },
+      "profileID": "10001",
+      "giftID": "1001",
+      "gcID": "100"
+    }
+  }
+}

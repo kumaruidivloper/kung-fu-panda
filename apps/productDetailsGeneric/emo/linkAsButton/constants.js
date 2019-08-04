@@ -1,0 +1,11 @@
+const BTN_SIZE_SMALL = 'S';
+const BTN_SIZE_MEDIUM = 'M';
+const BTN_SIZE_LARGE = 'L';
+const BTN_SIZE_XSMALL = 'XS';
+
+export default {
+  BTN_SIZE_XSMALL,
+  BTN_SIZE_SMALL,
+  BTN_SIZE_MEDIUM,
+  BTN_SIZE_LARGE
+};

@@ -1,0 +1,17 @@
+{
+  "name": "email-signup",
+  "version": "1.0.0",
+  "description": "Email Signup component",
+  "main": "emailSignup.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17",
+    "classnames": "2.2.6",
+    "react-modal": "3.6.1",
+    "redux-mock-store": "1.5.3"
+  }
+}

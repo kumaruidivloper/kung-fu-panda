@@ -1,0 +1,22 @@
+{
+  "name": "hot-market",
+  "version": "1.0.0",
+  "description": "Hot Market component",
+  "main": "hotMarket.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17",
+    "classnames": "2.2.6",
+    "emotion": "9.2.10",
+    "react-emotion": "9.2.10"
+  },
+  "devDependencies": {
+    "babel-plugin-emotion": "9.2.10",
+    "babel-plugin-styled-components": "1.7.1",
+    "babel-preset-stage-2": "6.24.1"
+  }
+}

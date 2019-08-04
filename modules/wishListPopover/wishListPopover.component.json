@@ -1,0 +1,11 @@
+{
+  "title": "Wish List Popover",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Wish List Popover works!"
+      }
+    }
+  }
+}

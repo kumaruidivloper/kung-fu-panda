@@ -1,0 +1,29 @@
+{
+  "title": "Shop Collection",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "N",
+        "collectionName": "ACADEMY EXCLUSIVE",
+        "brandCollectionName": "LOCK AND LOAD",
+        "callOut": "LOCK AND LOAD",
+        "backgroundDesktopImage": "/content/dam/academysports/promotional-assets/2018/outdoors/shooting/firearms/rifles/35935-Winchester-d.jpg",
+        "backgroundMobileImage": "/content/dam/academysports/promotional-assets/2018/clothing/hunting-and-camo/camo-under30-sm-kermit.jpg",
+        "productId1": "169841",
+        "productId2": "169834",
+        "productId3": "931121",
+        "cta": "Shop collection",
+        "ctaUrl": "/content/dam/academysports/cornfield_orig.jpg",
+        "collectionNameBackgroundColor": "#0255cc",
+        "imageAltText": "rifles",
+        "imageUrl": "",
+        "id": "JUNE_PROMO13",
+        "name": "June Sale",
+        "creative": "banner1",
+        "position": "slot1",
+        "dimension83": "08/10/18"
+      }
+    }
+  }
+}

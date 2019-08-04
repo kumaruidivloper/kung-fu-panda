@@ -1,0 +1,16 @@
+{
+  "name": "product-action-items",
+  "version": "1.0.0",
+  "description": "Product Action Items component",
+  "main": "productActionItems.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17",
+    "react-modal": "3.6.1",
+    "react-responsive": "5.0.0"
+  }
+}

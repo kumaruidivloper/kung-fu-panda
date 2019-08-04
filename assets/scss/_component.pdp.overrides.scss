@@ -1,0 +1,20 @@
+@mixin set-pdp-gutters {
+  @media (max-width: 768px) {
+    max-width: 100% !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+@mixin remove-left-right-gutters {
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+.pdp-container {
+  @include set-pdp-gutters;
+}
+[data-component='productDetailsNoDifferentSelection'] {
+  @include remove-left-right-gutters;
+  & .breadCrumbComponent {
+    @include remove-left-right-gutters;
+  }
+}

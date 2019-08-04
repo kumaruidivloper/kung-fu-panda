@@ -1,0 +1,6 @@
+/**
+* Css for hiding internet explorer's eye-icon and clear-icon
+*/
+input::-ms-clear, input::-ms-reveal {
+    display: none;
+  }

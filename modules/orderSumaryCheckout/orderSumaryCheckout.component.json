@@ -1,0 +1,303 @@
+{
+  "title": "Order Sumary Checkout",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "shipItemsLabel": "Ship Items",
+          "employeeDiscountLabel": "Employee Discount",
+          "shippingItemsLabel": "Shipping items Available",
+          "continueShoppingLabel": "Contine Shopping",
+          "signInLabel": "Sign in",
+          "itemsLabel": "Items",
+          "doneLabel": "Done",
+          "removeFromCartLabel": "Remove from Cart",
+          "placeOrderLabel": "Place Order",
+          "colorLabel": "Color",
+          "addPromoCodeLabel": "Add Promo code",
+          "promoCodeAddedLabel": "Promo code added",
+          "submitLabel": "Submit",
+          "inStorePickUpLabel": "in store pick up",
+          "addToWishlistLabel": "Add to Wishlist",
+          "emailAddressLabel": "Email adreess",
+          "estimatedTaxesLabel": "Esimated Taxes",
+          "promoCodeLabel": "Promocode",
+          "shippingLabel": "Shipping",
+          "taxesLabel": "Taxes",
+          "quantityLabel": "Quantity",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "secureLabel": "Secure",
+          "totalLabel": "Total",
+          "goToPaymentLabel": "Go to Payment",
+          "checkoutLabel": "Checkout",
+          "sizeLabel": "Size",
+          "printLabel": "Print",
+          "checkoutWithPaypalLabel": "Checkout",
+          "editLabel": "Edit",
+          "militaryDiscountLabel": "Military Discount",
+          "subTotalLabel": "sub total",
+          "removeLabel": "Remove",
+          "freeLabel": "Free ",
+          "orderSummaryLabel": "dsf",
+          "editMyCartLabel": "Edit my cart"
+        },
+        "errorMsg": {
+          "outOfStock": "This item is out of stock.Please add it to your wishlist or remove it from your cart to proceed",
+          "limitedStock": "We are Sorry!! Due to Limited Stock,only part of your order can be fulfilled at this time"
+        },
+        "successMsg": {
+          "promoCodeAppliedLabel": "Promo Code  added",
+          "itemRemoveFromCartLabel": "has been removed from your cart.",
+          "itemAddedToWishListLabel": "has been added to your wishlist"
+        },
+        "promotionalMsg": {
+          "itemShipForFreeLabel": "Item Ships for FREE",
+          "freeGiftLabel": "FREE GIFT"
+        },
+        "validationMsg": {
+          "invalidEmailText": "In valid Email",
+          "combinePaypalMessageText": "You can combine Paypal with other payment"
+        },
+        "checkoutTitle": "CHECKOUT",
+        "checkoutUnauthDescriptionText": "<p>&nbsp; &nbsp;</p>\r\n",
+        "shippingTitle": "SHIPPING Information",
+        "shippingAddressLabel": "SHIPPING ADDRESS",
+        "pickupLabel": "Pick up instead?",
+        "pickupURL": "/content/academy/pages/homepage/checkoutPage.html",
+        "firstNameLabel": "First Name",
+        "lastNameLabel": "Last Name",
+        "phoneNumberLabel": "Phone Number",
+        "addressLabel": "Address",
+        "addMoreDetailsOptionalLabel": "Add Company Name,Apt. Number,etc. (Optional)",
+        "zipCodeLabel": "ZIP Code",
+        "cityLabel": "City",
+        "stateLabel": "State",
+        "shippingMethodLabel": "SHIPPING METHOD",
+        "shipmentLabel": "Shipment",
+        "arrivesLabel": "Arrives",
+        "addNewShippingAddressLabel": "Add a New Shipping Address",
+        "paymentTitle": "PAYMENT",
+        "billingInformation": "BILLING INFORMATION",
+        "visaEnding": "VISA Ending in",
+        "expiryLabel": "expired",
+        "expiryDateFormat": "MM/YYYY",
+        "paymentMethod": "PAYMENT METHOD",
+        "giftCardLabel": "Enter a Gift Card",
+        "paymentOptions": [
+          {
+            "text": "Credit Card"
+          },
+          {
+            "text": "Pay Pal"
+          }
+        ],
+        "creditCardNumberLabel": "Credit Card Number",
+        "expirationDateLabel": "Expiration Date",
+        "cvvLabel": "CVV",
+        "cvvHintText": "The 3 digit code found on far right of signature box",
+        "sameAsShippingAddressText": "Same As Shipping Address",
+        "emailAddressForOrderConfirmation": "Email Address for Order Confirmation",
+        "promotionalSignupText": "Sign up to get Hot Deals. Weekly Ads, Local Events and more delivered straight to your inbox. You can unsubscribe at anytime.",
+        "reviewOrderText": "Review Order ",
+        "chooseCardLabel": "Choose Card",
+        "changeBillingInformationLabel": "Change Billing Information",
+        "savePaymentInfoLabel": "Save Payment Info for Later",
+        "addNewCreditCardLabel": "Add a New Credit Card",
+        "reviewOrderTitle": "REVIEW ORDER",
+        "reviewOrderDescriptionText": "<p>&nbsp; &nbsp;</p>\r\n",
+        "disclaimerMessage": "",
+        "addressVerification": "Address Verification",
+        "addressVerificationUnableDescription": "We were unable to verify your address with the postal database. Using the address you entered may cause delays receiving your order.",
+        "suggestedAddressLabel": "Suggested Address",
+        "youEnteredAddressLabel": "You Entered",
+        "modifyAddressLabel": "Modify Address",
+        "useSelectedAddressLabel": "Use Selected Address"
+      },
+      "isLoggedIn": false,
+      "order": {
+        "orderId": "1000",
+        "numberOfItems": "2",
+        "orderStatus": "p",
+        "totals": {
+          "totalAdjustment": "0",
+          "totalShippingTax": "22.5",
+          "totalProductPrice": "100",
+          "orderCurrency": "USD",
+          "orderLocale": "en_US",
+          "totalShippingCharge": "0",
+          "orderTotal": "200",
+          "totalSalesTax": "20"
+        },
+        "orderItems": [
+          {
+            "orderItem": {
+              "orderItemId": "20001",
+              "unitPrice": "12",
+              "zipCode": "560066",
+              "quantity": "1",
+              "shipModeCode": "UPS Ground",
+              "shipModeId": "10551",
+              "orderItemPrice": "123",
+              "skuId": "111083697",
+              "isfreeGift": "",
+              "productId": "4686067",
+              "skuDetails": {
+                "inventory": {
+                  "store": [
+                    {
+                      "storeId": "1005",
+                      "availableQuantity": "2",
+                      "inventoryStatus": "OUT_OF_STOCK"
+                    }
+                  ],
+                  "online": [
+                    {
+                      "availableQuantity": "2",
+                      "inventoryStatus": "OUT_OF_STOCK"
+                    }
+                  ]
+                },
+                "skuInfo": {
+                  "name": "Mag M SS Laguna Madre:Grey:X Small",
+                  "shortDescription": "",
+                  "longDescription": "Just slip on the Magellan Outdoors Men's Laguna Madre Solid Short Sleeve Fishing Shirt, pack up your reel, rod and tackle box and you'll be ready to go. Made of lightweight, yet sturdy nylon, this short-sleeve shirt offers UPF 20+ protection from the sun's harmful rays. Plus, moisture-wicking fabric technology helps keep you cool and dry on especially hot days out on the water.",
+                  "sellable": "true",
+                  "fullImage": "//assets.academy.com/mgen/68/20004268.jpg",
+                  "thumbnail": "//assets.academy.com/mgen/68/20004268.jpg",
+                  "imageAltDescription": "Mag M SS Laguna Madre:Grey:X Small",
+                  "skuAttributes": [
+                    {
+                      "name": "color",
+                      "value": "blue"
+                    },
+                    {
+                      "name": "size",
+                      "value": "43"
+                    }
+                  ]
+                },
+                "availableShippingMethods:": [
+                  {
+                    "shipmodeId": "10551",
+                    "shipmodeDesc": "UPS Ground",
+                    "shippingType": "SG",
+                    "estimatedFromDate": "7-1",
+                    "estimatedToDate": "7-4"
+                  },
+                  {
+                    "shipmodeId": "10556",
+                    "shipmodeDesc": "Pickup In Store",
+                    "shippingType": "PICKUPINSTORE"
+                  },
+                  {
+                    "shipmodeId": "10556",
+                    "shipmodeDesc": "Ship To Store",
+                    "shippingType": "STS",
+                    "estimatedFromDate": "7-1",
+                    "estimatedToDate": "7-4"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "ShippingGroups": [
+          {
+            "groupSeqNum": "1",
+            "shippingModes": [
+              {
+                "shipmodeId": "11357",
+                "shipmodeDesc": "FEDX 2 Day",
+                "shippingType": "STANDARD",
+                "estimatedFromDate": "7-2",
+                "estimatedToDate": "7-5",
+                "saleShippingCharge": "50",
+                "baseShippingCharge": "60",
+                "isSelected": false
+              },
+              {
+                "shipmodeId": "11358",
+                "shipmodeDesc": "FEDX 1 Day",
+                "shippingType": "STANDARD",
+                "estimatedFromDate": "7-2",
+                "estimatedToDate": "7-5",
+                "saleShippingCharge": "50",
+                "baseShippingCharge": "60",
+                "isSelected": true
+              }
+            ],
+            "orderItems": [
+              {
+                "orderItemId": "1000"
+              },
+              {
+                "orderItemId": "1001"
+              }
+            ],
+            "addressIds": [
+              {
+                "addressId": "3457"
+              },
+              {
+                "addressId": "3458"
+              }
+            ]
+          },
+          {
+            "groupSeqNum": 2,
+            "shippingModes": [
+              {
+                "storeId": "12345",
+                "shipmodeId": "11357",
+                "shipmodeDesc": "PickupInStore",
+                "shippingType": "PICKUPINSTORE",
+                "saleShippingCharge": "50",
+                "baseShippingCharge": "60"
+              }
+            ],
+            "orderItems": [
+              {
+                "orderItemId": "1002"
+              },
+              {
+                "orderItemId": "1003"
+              }
+            ]
+          }
+        ],
+        "Addresses": [
+          {
+            "id": "3457",
+            "line1": "",
+            "line2": "",
+            "zipcode": "",
+            "type": "BIlling",
+            "name": "Home Address"
+          },
+          {
+            "id": "3458",
+            "line1": "",
+            "line2": "",
+            "zipcode": "",
+            "type": "Shipping",
+            "name": "Home Address"
+          }
+        ],
+        "promotions": [
+          {
+            "promotionId": "100533691",
+            "code": "Test10",
+            "description": ""
+          },
+          {
+            "promotionId": "100533692",
+            "code": "Test10",
+            "description": ""
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Video Player",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "videoImage": "/assets/images/demo/mountains/mt1.jpg",
+        "videoUrl": "https://ss7.vzw.com/is/content/VerizonWireless/2018/Videos/Vz-Up-HPM-Maroon5-05292018_FROM LOS YORK_2MB.mp4"
+      }
+    }
+  }
+}

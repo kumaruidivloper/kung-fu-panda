@@ -1,0 +1,700 @@
+{
+  "title": "Show Shipping Method",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "cardsAccepted": [
+            {
+              "label": "Visa",
+              "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/visa.jpg"
+            },
+            {
+              "label": "Master Card",
+              "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/visa.jpg"
+            },
+            {
+              "label": "Paypal",
+              "url": "/content/dam/academysports/cart-and-checkout/cards-accepted/visa.jpg"
+            }
+          ],
+          "employeeDiscountLabel": "Employee Discount",
+          "shippingItemsLabel": "Shipping items Available",
+          "weakLabel": "Weak",
+          "passwordStrengthLabel": "Password Strength",
+          "continueShoppingLabel": "Contine Shopping",
+          "signInLabel": "Sign in",
+          "itemsLabel": "Items",
+          "addLabel": "Add",
+          "saveLabel": "save",
+          "passwordStrengthCopyLabel": "Password Strength",
+          "doneLabel": "Done",
+          "removeFromCartLabel": "Remove from Cart",
+          "updateLabel": "Update",
+          "defaultLabel": "Default",
+          "colorLabel": "Color",
+          "addPromoCodeLabel": "Add Promo code",
+          "promoCodeAddedLabel": "Promo code {{promocode}}  added",
+          "submitLabel": "Submit",
+          "addToWishlistLabel": "Add to Wishlist",
+          "cancelLabel": "cancel",
+          "shippingLabel": "Shipping",
+          "goToPaymentLabel": "Go to Payment",
+          "strongLabel": "Strong",
+          "skuLabel": "SKU",
+          "checkoutWithPaypalLabel": "Paypal",
+          "editLabel": "Edit",
+          "militaryDiscountLabel": "Military Discount",
+          "subTotalLabel": "Subtotal",
+          "removeLabel": "Remove",
+          "orderSummaryLabel": "ORDER SUMMARY",
+          "shipItemsLabel": "Ship Items",
+          "orderSummaryLinks": [
+            {
+              "label": "Cancel Order",
+              "url": "#"
+            },
+            {
+              "label": "Order History",
+              "url": "#"
+            }
+          ],
+          "addMilitaryDiscount": "Add Military Discount",
+          "readMore": "Read More",
+          "undoLabel": "undo",
+          "setAsDefault": "Set as Default",
+          "emailaddressLabel": "Email Address",
+          "outOfStockImageURL": "/content/dam/academysports/cart-and-checkout/out-of-stock/ProductGreyOut@4x.png",
+          "placeOrderLabel": "Place Order",
+          "inStorePickUpLabel": "In Store Pick Up",
+          "emailAddressLabel": "Email adreess",
+          "estimatedTaxesLabel": "Esimated Taxes",
+          "promoCodeLabel": "Promocode",
+          "taxesLabel": "Taxes",
+          "quantityLabel": "Quantity",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "secureLabel": "Secure",
+          "totalLabel": "Total",
+          "checkoutLabel": "Checkout",
+          "sizeLabel": "Size",
+          "printLabel": "Print",
+          "freeLabel": "Free ",
+          "helloLabel": "Hello",
+          "editMyCartLabel": "Edit my cart",
+          "confirmLabel": "Confirm",
+          "applyLabel": "APPLY",
+          "changeLocationLabel": "Change Location"
+        },
+        "errorMsg": {
+          "updateShippingAddressRestriction": "Please update address to restricted state for existing items. ",
+          "_RTS_GC_INACTIVE":
+            "This gift card is currently inactive. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "_RTS_GC_INVALID_TRANS":
+            "Requested transaction is not permitted for this Gift Card. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "creditCardPaymentFailure":
+            "Sorry, the order cannot be processed at this time. Please contact your Credit Card customer service for assistance. Or try a different payment method.",
+          "_RESTRICTED_SHIPPING_ADDRESS": "Please update shipping Address",
+          "backendSystemFailure":
+            "Unfortunately, we are unable to process the order at this time. Please try again later or contact Customer Care Live Chat for help",
+          "systemError":
+            "Sorry, we are having trouble processing the order, please try again or choose a different payment method. You may contact Customer Care at {{customerCareNo}} or through Live Chat.",
+          "promotionAlreadyApplied": "The Promo code has already been applied before and cannot be used again",
+          "invalidZipCode": "Invalid Zip Code",
+          "formFieldFormatIncorrect": "Form Fields Format Invalid",
+          "promocodeNotAvailable": "Sorry, the Promo code is not available at this time. Please try again later.",
+          "giftCardServiceUnavailable":
+            " Unfortunately, the Gift Card service is down at this time. Please try again later or contact Customer Care Live Chat for help.",
+          "updateShippingAddress": "Please update shipping Address",
+          "promocodeBlankOrInvalid": "Please enter a valid Promo code",
+          "cmpiOrderFailed": "Sorry, we could not process the payment information. Please go back and try another payment method.",
+          "_RTS_GC_DECLINED":
+            "The gift card provided has been declined. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "invalidCreditCard":
+            "Unrecognized card number, please check the number and try again. We accept Visa, Mastercard, Discover, and American Express.",
+          "_RTS_MERCH_GC_REDEM_NOT":
+            "Merchandise Credit Gift Card cannot be used for redemption in an e-commerce transaction. Please visit a physical store to redeem Merchandise Credit Gift Card.",
+          "creditCardExpiredLabel": "This credit card has expired",
+          "firstNameLastNameContainLetters": "First name and Last name can only contain letters",
+          "invalidSecurityCode": "Unrecognized security code. Please enter the 3 or 4 digit security code printed on the front or back of the card.",
+          "_RTS_INVALID_NUMBER_OR_PIN": "The combination of Gift Card Number and PIN is incorrect. Please try again.",
+          "BackendSystemFailure":
+            "Unfortunately, we are unable to process the order at this time. Please try again later or contact Customer Care Live Chat for help",
+          "giftServiceUnavailable":
+            "Unfortunately, the Gift Card service is down at this time. Please try again later or contact Customer Care (Live Chat link) for help.",
+          "checkoutSessionExpired": "Sorry, the checkout session has expired due to inactivity. Please try again.",
+          "noGiftCardBalance": "The Gift Card has a balance of $0.00 and cannot be used",
+          "giftCardInactive":
+            "Unfortunately, we are unable to process the order with the gift card. Please try again later or contact Customer Care Live Chat for help.",
+          "promotionApplicationLimit": "The Promo code has already been applied before and cannot be used again",
+          "giftCardProcessingUnavailable":
+            " Unfortunately, the Gift Card service is down at this time. Please try again later or contact Customer Care Live Chat for help.",
+          "itemPriceChanged": "Price has been updated for some items in your cart. Please review and continue to checkout.\t",
+          "mandatoryFormFieldsBlank": "Please fill mandatory fields",
+          "_GC_INVALID_NUMBER_OR_PIN": "The combination of Gift Card Number and PIN is incorrect. Please try again.",
+          "firstLastNameCannotBeBlank": "First name and Last name cannot be blank",
+          "promotionProcessingFailure": "Sorry, the Promo code cannot be processed at this time. Please contact Customer Care Live Chat for help.",
+          "lowGiftCardBalance": "The order total exceeds available balance on the gift card(s). Please provide additional payment method",
+          "timeout": "Time Out Message",
+          "_COULD_NOT_FETCH_GC_INFO": "Unable to fetch gift card information.",
+          "fetchShippingChargesFailure": "Sorry, we are unable to estimate shipping. Please contact Customer Care Live Chat to complete your order.\t",
+          "giftCardClosed":
+            "Unfortunately, we are unable to process the order with the gift card. Please try again later or contact Customer Care Live Chat for help.",
+          "invalidGiftNumberOrPin": "The combination of Gift Card Number and PIN is incorrect. Please try again.",
+          "maxQuantityPresentInCart": "Sorry, the selected item is limited to {{maxQty}} per order. We added those to the cart.",
+          "outOfStock": "This item is out of stock.Please add it to your wishlist or remove it from your cart to proceed",
+          "fraudCheckFailure": "Unfortunately, we are unable to process the order at this time. Please contact Customer Care (Live Chat link) for help.",
+          "_COULD_NOT_REMOVE_GC_PAYMENT": "Could not remove the old Gift card associated with the order. Please try again later.",
+          "phoneNumberInvalid": "Please enter a valid 10 digit phone number",
+          "_RTS_GC_NOT_CONNECTED":
+            "Unfortunately, the Gift Card service is down at this time. Please try again later. Or contact Customer Care {{liveChat}} or {{customercareNo}} for help.",
+          "_RTS_GC_ACCOUNT_LOCKED":
+            "Unfortunately, the Gift Card account is locked at this time. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "_RTS_GC_GENERIC":
+            "An error has occurred for this Gift card. Please contact Customer Care {{liveChat}} or {{customercareNo}} for further assistance.",
+          "fullNameEmailAddressBlank": "Full Name and Email Address is Blank",
+          "_DUPLICATE_GC_CARD": "The gift card you are trying to enter is already entered earlier.",
+          "paymentProcessingUnavailable":
+            "Payment Processing is currently unavailable. We apologize for any inconvenience. Please try again later or visit your nearest Academy store.",
+          "_ERR_ITEM_STATE_RESTRICTION_ERROR": "Please update address to restricted state for existing items. ",
+          "totalExceedsAvailableBalance": "The order total exceeds available balance on the gift card(s). Please provide additional payment method.",
+          "paypalOrderError": " Sorry, we are having trouble placing the order through Paypal. Please try again.",
+          "blankSecurityCode": "Please enter the 3 or 4 digit security code printed on the front or back of the card.",
+          "unableRedirectToPaypal": "Sorry, we are having trouble connecting to PayPal. Please try again later.",
+          "specialHandlingForZipCode":
+            "The item(s) {{productName1, productName2, productNameN}} need special handling and our carrier service cannot deliver to the given Zip Code.",
+          "limitedStock": "We are Sorry!! Due to Limited Stock,only part of your order can be fulfilled at this time",
+          "emailAddressIncorrectFormat": "Email address is in incorrect format",
+          "invalidGiftCardInsuffBalance": "Invalid Gift Card Number/Insufficient Funds",
+          "paypalTimeOut": "Sorry, we are having trouble placing the order through Paypal. Please try again."
+        },
+        "successMsg": {
+          "promoCodeAppliedLabel": "Promo Code  added",
+          "itemRemoveFromCartLabel": "has been removed from your cart.",
+          "itemAddedToWishListLabel": "has been added to your wishlist"
+        },
+        "promotionalMsg": {
+          "itemShipForFreeLabel": "Item Ships for FREE",
+          "freeGiftLabel": "FREE GIFT"
+        },
+        "validationMsg": {
+          "invalidEmailText": "Invalid Email",
+          "combinePaypalMessageText": "You can combine Paypal with other payment"
+        },
+        "inStorePickupLabel": {
+          "inStorePickupInstruction2Label": "Bring your vaild government issued ID to the store",
+          "alternateEmailLabel": "Alternate's Email Address",
+          "pickupPersonLabel": "PICKUP PERSON",
+          "alternatePhoneNumberLabel": "Alternate's Phone Number",
+          "alternateFirstNameLabel": "Alternate's First Name",
+          "pickupLocationLabel": "PICKUP LOCATION",
+          "alternateLastNameLabel": "Alternate's Last Name",
+          "itemsForPickupLabel": "ITEMS FOR PICKUP",
+          "whoIsPickingupLabel": "WHO IS  PICKING UP THIS ORDER?",
+          "inStorePickupLabel": "IN-STORE PICKUP",
+          "inStorePickupInstruction1Label": "Before going to the store,wait for an email confirming it's ready",
+          "inStorePickupInstruction3Label": "Bring this confirmation email or your order number with you",
+          "inStorePickupOrderSummaryLabel": "ITEMS FOR PICKUP",
+          "seeInStorePickupInstructionsLabel": "See In-Store Pickup Instructions",
+          "meLabel": "Me",
+          "meAlternatePersonLabel": "Me+Alternate Person Pick Up"
+        },
+        "orderSummaryGiftCardText": "Gift Cards",
+        "checkoutTitle": "CHECKOUT",
+        "checkoutUnauthDescriptionText":
+          "<p>You are checking out as a guest.<a href='http://www.google.com' title='sign'>Sign in</a> for a faster checkout experience</p>\r\n",
+        "shippingTitle": "SHIPPING",
+        "shippingAddressLabel": "SHIPPING ADDRESS",
+        "firstNameLabel": "First Name",
+        "lastNameLabel": "Last Name",
+        "phoneNumberLabel": "Phone Number",
+        "addressLabel": "Address",
+        "addMoreDetailsOptionalLabel": "Add Company Name,Apt. Number,etc. (Optional)",
+        "zipCodeLabel": "ZIP Code",
+        "cityLabel": "City",
+        "stateLabel": "State",
+        "shippingMethodLabel": "SHIPPING METHOD",
+        "goToShippingMethodLabel": "GO TO SHIPPING METHOD",
+        "shipmentLabel": "Shipment",
+        "arrivesLabel": "Arrives",
+        "addNewShippingAddressLabel": "Add a New Shipping Address",
+        "paymentTitle": "PAYMENT",
+        "billingInformation": "BILLING INFORMATION",
+        "visaEnding": "VISA Ending in",
+        "expiryLabel": "Exp",
+        "expiryDateFormat": "MM/YYYY",
+        "paymentMethod": "PAYMENT METHOD",
+        "giftCardLabel": "Enter a Gift Card",
+        "creditCardNumberLabel": "Credit Card Number",
+        "expirationDateLabel": "Expiration Date",
+        "cvvLabel": "CVV",
+        "cvvHintText": "The 3 digit code found on far right of signature box",
+        "sameAsShippingAddressText": "Same As Shipping Address",
+        "emailAddressForOrderConfirmation": "Email Address for Order Confirmation",
+        "promotionalSignupText":
+          "Sign up to get Hot Deals. Weekly Ads, Local Events and more delivered straight to your inbox. You can unsubscribe at anytime.",
+        "reviewOrderText": "Review Order ",
+        "reviewOrderSubText":
+          "By selecting this checkbox I agree that I understand I must be 18 or older to purchase Rifle or shotgun Ammunition and 21 or older to purchase Handgun Ammunition.By ordering this product I certify that I am of legal age and satisfy my jurisdiction's legal requirements to purchase this product.",
+        "chooseCardLabel": "Choose Card",
+        "changeBillingInformationLabel": "Change Billing Information",
+        "saveShippingInfoLabel": "Save Shipping Info to My Account",
+        "savePaymentInfoLabel": "Save Payment Info for Later",
+        "addNewCreditCardLabel": "Add New Credit Card Label",
+        "reviewOrderTitle": "REVIEW ORDER",
+        "reviewOrderDescriptionText":
+          "<p>By placing this order, I accept Academy's <a href='http://www.google.com'>Terms and Conditions</a> and <a href='http://www.google.com' title='Privacy Policy'>Privacy Policy</a></p>\r\n",
+        "disclaimerMessage": "",
+        "addressVerification": "Address Verification",
+        "addressVerificationUnableDescription":
+          "We were unable to verify your address with the postal database. Using the address you entered may cause delays receiving your order.",
+        "suggestedAddressLabel": "Suggested Address",
+        "youEnteredAddressLabel": "You Entered",
+        "modifyAddressLabel": "Modify Address",
+        "useSelectedAddressLabel": "Use Selected Address",
+        "shipmentTypes": [
+          {
+            "type": "SG",
+            "title": "",
+            "subTitle": "If ordered by 2 PM CST.Ground shipping"
+          },
+          {
+            "type": "2D",
+            "title": "Two Day Shipping",
+            "subTitle": "Two Day Shipping SubText"
+          },
+          {
+            "type": "POV",
+            "title": "Priority Over Night",
+            "subTitle": "Priority Over Night Sub Text"
+          },
+          {
+            "type": "STS",
+            "title": "Ship To Store",
+            "subTitle": "Ship To Store SubText"
+          },
+          {
+            "type": "DSV",
+            "title": "Drop Ship Items ",
+            "subTitle": "Drop Ship Items Subtext"
+          },
+          {
+            "type": "AMMO",
+            "title": "Ammo Items Shipping",
+            "subTitle": "Ammo Items Shipping Subtext"
+          },
+          {
+            "type": "GC",
+            "title": "Academy Bulk Gift Cards",
+            "subTitle": "Academy Bulk Gift Cards Subtext"
+          },
+          {
+            "type": "WG",
+            "title": "White Clove Shipping",
+            "subTitle": "White Clove Shipping SubText"
+          },
+          {
+            "type": "WG_BD",
+            "title": "Basic Delivery",
+            "subTitle":
+              "We will deliver to your door with no appointment or signature required.Note:If you're shipping to an appartment or multi-unit building , please select another option."
+          },
+          {
+            "type": "WG_SD",
+            "title": "Scheduled Delivery",
+            "subTitle": "We will call and schedule to deliver inside your main entrance."
+          },
+          {
+            "type": "WG_RC",
+            "title": "Room of Choice",
+            "subTitle": "We will call and schedule delivery to your room of choice."
+          },
+          {
+            "type": "PICKUPINSTORE",
+            "title": "Pick Up In Store",
+            "subTitle": "Pick Up In Store Subtext"
+          }
+        ],
+        "sendSmsLabel": "Send SMS text updates  about my order.This phone number will not be used for promotional purpose.",
+        "giftCardNumberLabel": "Gift Card Number",
+        "pinLabel": "Pin",
+        "addAnotherGiftCardLabel": "Add Another Gift Card",
+        "giftCardNumberHintTextLabel": "The Gift Card Number is located below the barcode",
+        "pinHintTextLabel": "The pin is located above the barcode",
+        "giftCardAddedLabel": "Gift Card {{giftcardnumber}} added.{{amount}} has been applied.",
+        "giftCardTextLabel": "Please keep your physical gift card for future reference to assit with any returns or oder cancellations.",
+        "hideGiftCardLabel": "Hide Gift Card",
+        "giftCardEndingInLabel": "Gift Card Ending In",
+        "remainingBalanceLabel": "Remaining Balance",
+        "changeBillingAddressLabel": "Change Billing Address",
+        "checkoutWithPaypalLabel": "Checkout With Paypal",
+        "paypalPaymentTextLabel": "Paypal account for accept@academy.com. Amount to be charged:",
+        "applePayTextLabel":
+          "Clicking on ApplePay Button will show you the payment sheet hosted by the Apple where you will choose your credit card.\r\n\r\nPlease make sure that your order details are correct and you have entered any promotion codes before click on Applepay Button.\r\n\r\nOnce you press Buy with ApplePay,your order will be placed and your card will be authorized.",
+        "learnMoreLabel": "Learn More",
+        "tellMeMoreLabel": "Tell me more",
+        "checkoutWithVisaText": "Check Out Faster With Visa",
+        "checkoutWithVisaSubText":
+          "Its fast use your visa.com user ID and password to fly through checkout with just few clicks.\r\nIts easy-Visa Checkout will autofill your payment information for you!.Just confirm and be on your way."
+      },
+      "isLoggedIn": false,
+      "orderDetails": {
+        "orderId": "1000",
+        "numberOfItems": "2",
+        "orderStatus": "p",
+        "totals": {
+          "totalAdjustment": "0",
+          "totalShippingTax": "22.5",
+          "totalProductPrice": "100",
+          "orderCurrency": "USD",
+          "orderLocale": "en_US",
+          "totalShippingCharge": "10",
+          "orderTotal": "200",
+          "totalSalesTax": "20"
+        },
+        "orderItems": [
+          {
+            "orderItemId": "1000",
+            "unitPrice": 19.99,
+            "totalAdjustment": -10.07,
+            "zipCode": "77449",
+            "quantity": 1,
+            "shipModeCode": "UPS Ground",
+            "shipModeId": "10551",
+            "orderItemPrice": 19.99,
+            "orderItemDiscountedPrice": 19.99,
+            "skuId": "020879136",
+            "isfreeGift": false,
+            "productId": "428638",
+            "skuDetails": {
+              "inventory": {
+                "online": [
+                  {
+                    "availableQuantity": "20.0",
+                    "inventoryStatus": "IN_STOCK"
+                  }
+                ]
+              },
+              "skuInfo": {
+                "name": "Under Armour Men's Tech Short Sleeve T-shirt",
+                "shortDescription": "",
+                "longDescription": "Made with 100% UA Techâ¢ polyester and ArmourBlockÂ® anti-odor technology, the Under Armourâ¢ Men's Techâ¢ Short Sleeve T-shirt offers a comfortable option that helps keep you feeling fresh during high-intensity training sessions. The Moisture Transport System and HeatGearÂ® fabric technology combine to move moisture away from the body, while the raglan construction and flat seams promote mobility. Short sleeves. Loose fit.",
+                "imageAltDescription": "Under Armour Men's Tech Short Sleeve T-shirt",
+                "sellable": "true",
+                "imageURL": "//assets.academy.com/mgen/59/10183059.jpg",
+                "thumbnail": "//assets.academy.com/mgen/59/10183059.jpg",
+                "skuAttributes": [
+                  {
+                    "name": "Color",
+                    "value": "Royal/White"
+                  },
+                  {
+                    "name": "Size",
+                    "value": "Small"
+                  }
+                ]
+              }
+            },
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDes": "SG",
+                "shippingType": "SG",
+                "estimatedFromDate": "2018-07-31",
+                "estimatedToDate": "2018-08-02"
+              }
+            ]
+          },
+          {
+            "orderItemId": "1000",
+            "unitPrice": 40,
+            "totalAdjustment": -15.67,
+            "zipCode": "77449",
+            "quantity": 1,
+            "shipModeCode": "UPS Ground",
+            "shipModeId": "10551",
+            "orderItemPrice": 40,
+            "orderItemDiscountedPrice": 36,
+            "skuId": "103412876",
+            "isfreeGift": false,
+            "productId": "1311822",
+            "skuDetails": {
+              "inventory": {
+                "store": [
+                  {
+                    "storeId": "false"
+                  }
+                ],
+                "online": [
+                  {
+                    "availableQuantity": "26.0",
+                    "inventoryStatus": "IN_STOCK"
+                  }
+                ]
+              },
+              "skuInfo": {
+                "name": "M NIKE NET 11\"SHORT:Black:Small",
+                "shortDescription": "",
+                "longDescription": "Stay cool and comfortable on the court in the Nikeâ¢ Men's Woven Tennis Short. Made of stretchy 88% polyester and 12% spandex, this short features moisture-wicking Dri-FIT fabric technology and a mesh yoke and gusset to provide ventilation. The elastic waistband with a draw cord offers a secure fit. Left zip pocket and side-slit ball pockets. 11\" inseam based on size medium.",
+                "imageAltDescription": "M NIKE NET 11\"SHORT:Black:Small",
+                "sellable": "true",
+                "imageURL": "//assets.academy.com/mgen/92/10411292.jpg",
+                "thumbnail": "//assets.academy.com/mgen/92/10411292.jpg",
+                "skuAttributes": [
+                  {
+                    "name": "Color",
+                    "value": "Black"
+                  },
+                  {
+                    "name": "Size",
+                    "value": "Small"
+                  }
+                ]
+              }
+            },
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDes": "SG",
+                "shippingType": "SG",
+                "estimatedFromDate": "2018-07-31",
+                "estimatedToDate": "2018-08-02"
+              }
+            ]
+          }
+        ],
+        "shippingGroups": [
+          {
+          "orderItems": [
+          {
+          "partnumber": "109384626",
+          "catentryId": "3964553",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "103128381",
+          "catentryId": "1589860",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "SG",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "10551",
+          "shipmodeDesc": "3-5 business days",
+          "baseShippingCharge": "15",
+          "isSelected": true
+          },
+          {
+          "shippingType": "2D",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "11357",
+          "shipmodeDesc": "2 business days",
+          "baseShippingCharge": "20",
+          "isSelected": false
+          },
+          {
+          "shippingType": "POV",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "11358",
+          "shipmodeDesc": "1 business day",
+          "baseShippingCharge": "20",
+          "isSelected": false
+          }
+          ],
+          "groupSeqNum": 1
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "109733005",
+          "catentryId": "4178720",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "109733013",
+          "catentryId": "4178721",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "DSV",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "0",
+          "shipmodeId": "10551",
+          "shipmodeDesc": "STANDARD GROUND (3-5 BUSINESS DAYS)",
+          "baseShippingCharge": "0",
+          "isSelected": true
+          }
+          ],
+          "groupSeqNum": 2
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "108454021",
+          "catentryId": "3513873",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "WG",
+          "estimatedFromDate": "",
+          "estimatedToDate": "",
+          "saleShippingCharge": "",
+          "shipmodeId": "10555",
+          "shipmodeDesc": "ACADEMY BULK CARRIER SERVICE",
+          "baseShippingCharge": "",
+          "isSelected": true
+          }
+          ],
+          "groupSeqNum": 3
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "007318769",
+          "catentryId": "124256",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "110417878",
+          "catentryId": "3812588",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "111820651",
+          "catentryId": "4193288",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "110417843",
+          "catentryId": "3812637",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "AMMO",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "10551",
+          "shipmodeDesc": "STANDARD GROUND (3-5 BUSINESS DAYS)",
+          "baseShippingCharge": "",
+          "isSelected": true
+          }
+          ],
+          "groupSeqNum": 4
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "110417878",
+          "catentryId": "3812588",
+          "orderItemId": "1000"
+          },
+          {
+          "partnumber": "110417843",
+          "catentryId": "3812637",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "GC",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "10554",
+          "shipmodeDesc": "STANDARD GROUND (3-5 BUSINESS DAYS)",
+          "baseShippingCharge": "",
+          "isSelected": true
+          }
+          ],
+          "groupSeqNum": 5
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "007318769",
+          "catentryId": "007318769",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "STS",
+          "estimatedFromDate": "2018-07-31",
+          "estimatedToDate": "2018-08-02",
+          "saleShippingCharge": "10.95",
+          "shipmodeId": "10560",
+          "shipmodeDesc": "SHIP TO STORE",
+          "baseShippingCharge": "",
+          "isSelected": true
+          }
+          ],
+          "groupSeqNum": 6
+          },
+          {
+          "orderItems": [
+          {
+          "partnumber": "109442849",
+          "catentryId": "4325502",
+          "orderItemId": "1000"
+          }
+          ],
+          "shippingModes": [
+          {
+          "shippingType": "PICKUPINSTORE",
+          "estimatedFromDate": "",
+          "estimatedToDate": "",
+          "saleShippingCharge": "",
+          "shipmodeId": "10556",
+          "shipmodeDesc": "PICKUP IN STORE",
+          "baseShippingCharge": "",
+          "isSelected": true
+          }
+          ],
+          "groupSeqNum": 7
+          }
+          ],
+        "addresses": {
+          "shippingAddress": {
+            "firstName": "",
+            "lastName": "",
+            "phoneNumber": "",
+            "address": "",
+            "zipCode": "",
+            "city": "",
+            "state": "",
+            "companyName": ""
+          }
+        },
+        "promotions": [
+          {
+            "promotionId": "100533691",
+            "code": "Test10",
+            "description": ""
+          },
+          {
+            "promotionId": "100533692",
+            "code": "Test10",
+            "description": ""
+          }
+        ]
+      }
+    }
+  }
+}

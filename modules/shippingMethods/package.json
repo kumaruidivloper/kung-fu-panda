@@ -1,0 +1,14 @@
+{
+  "name": "shippingMethods",
+  "version": "1.0.0",
+  "description": "ShippingMethods component",
+  "main": "shippingMethods.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@academysports/fusion-components": "1.0.107"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Select",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Select works!"
+      },
+      "options": [
+        { "value": "Brand", "label": "Brand" },
+        { "value": "Sold Out", "label": "Sold Out", "disabled": true },
+        { "value": "Best Selling", "label": "Best Selling" },
+        { "value": "Most Relevant", "label": "Most Relevant" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "title": "CheckoutReviewOrder",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "address": {
+          "firstName": "Joe",
+          "lastName": "McNeil",
+          "zipCode": "77493",
+          "city": "Katy",
+          "state": "TX",
+          "address": "1234 Street Address",
+          "phoneNumber": "Phone number",
+          "companyName": null
+        },
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "shipItemsLabel": "Ship Items",
+          "employeeDiscountLabel": "Employee Discount",
+          "shippingItemsLabel": "Shipping items Available",
+          "continueShoppingLabel": "Contine Shopping",
+          "signInLabel": "Sign in",
+          "itemsLabel": "Items",
+          "doneLabel": "Done",
+          "removeFromCartLabel": "Remove from Cart",
+          "placeOrderLabel": "Place Order",
+          "colorLabel": "Color",
+          "addPromoCodeLabel": "Add Promo code",
+          "promoCodeAddedLabel": "Promo code added",
+          "submitLabel": "Submit",
+          "inStorePickUpLabel": "in store pick up",
+          "addToWishlistLabel": "Add to Wishlist",
+          "emailAddressLabel": "Email adreess",
+          "estimatedTaxesLabel": "Esimated Taxes",
+          "promoCodeLabel": "Promocode",
+          "shippingLabel": "Shipping",
+          "taxesLabel": "Taxes",
+          "quantityLabel": "Quantity",
+          "estimatedShippingLabel": "Estimated Shipping",
+          "secureLabel": "Secure",
+          "totalLabel": "Total",
+          "goToPaymentLabel": "Go to Payment",
+          "checkoutLabel": "Checkout",
+          "sizeLabel": "Size",
+          "printLabel": "Print",
+          "checkoutWithPaypalLabel": "Checkout",
+          "editLabel": "Edit",
+          "militaryDiscountLabel": "Military Discount",
+          "subTotalLabel": "sub total",
+          "removeLabel": "Remove",
+          "freeLabel": "Free ",
+          "orderSummaryLabel": "dsf",
+          "editMyCartLabel": "Edit my cart"
+        },
+        "errorMsg": {
+          "outOfStock": "This item is out of stock.Please add it to your wishlist or remove it from your cart to proceed",
+          "limitedStock": "We are Sorry!! Due to Limited Stock,only part of your order can be fulfilled at this time"
+        },
+        "successMsg": {
+          "promoCodeAppliedLabel": "Promo Code  added",
+          "itemRemoveFromCartLabel": "has been removed from your cart.",
+          "itemAddedToWishListLabel": "has been added to your wishlist"
+        },
+        "promotionalMsg": {
+          "itemShipForFreeLabel": "Item Ships for FREE",
+          "freeGiftLabel": "FREE GIFT"
+        },
+        "validationMsg": {
+          "invalidEmailText": "In valid Email",
+          "combinePaypalMessageText": "You can combine Paypal with other payment"
+        },
+        "checkoutTitle": "CHECKOUT",
+        "checkoutUnauthDescriptionText": "<p>&nbsp; &nbsp;</p>\r\n",
+        "shippingTitle": "SHIPPING Information",
+        "shippingAddressLabel": "SHIPPING ADDRESS",
+        "pickupLabel": "Pick up instead?",
+        "pickupURL": "/content/academy/pages/homepage/checkoutPage.html",
+        "firstNameLabel": "First Name",
+        "lastNameLabel": "Last Name",
+        "phoneNumberLabel": "Phone Number",
+        "addressLabel": "Address",
+        "addMoreDetailsOptionalLabel": "Add Company Name,Apt. Number,etc. (Optional)",
+        "zipCodeLabel": "ZIP Code",
+        "cityLabel": "City",
+        "stateLabel": "State",
+        "shippingMethodLabel": "SHIPPING METHOD",
+        "shipmentLabel": "Shipment",
+        "arrivesLabel": "Arrives",
+        "addNewShippingAddressLabel": "Add a New Shipping Address",
+        "paymentTitle": "PAYMENT",
+        "billingInformation": "BILLING INFORMATION",
+        "visaEnding": "VISA Ending in",
+        "expiryLabel": "expired",
+        "expiryDateFormat": "MM/YYYY",
+        "paymentMethod": "PAYMENT METHOD",
+        "giftCardLabel": "Enter a Gift Card",
+        "paymentOptions": [
+          {
+            "text": "Credit Card"
+          },
+          {
+            "text": "Pay Pal"
+          }
+        ],
+        "creditCardNumberLabel": "Credit Card Number",
+        "expirationDateLabel": "Expiration Date",
+        "cvvLabel": "CVV",
+        "cvvHintText": "The 3 digit code found on far right of signature box",
+        "sameAsShippingAddressText": "Same As Shipping Address",
+        "emailAddressForOrderConfirmation": "Email Address for Order Confirmation",
+        "promotionalSignupText": "Sign up to get Hot Deals. Weekly Ads, Local Events and more delivered straight to your inbox. You can unsubscribe at anytime.",
+        "reviewOrderText": "Review Order ",
+        "chooseCardLabel": "Choose Card",
+        "changeBillingInformationLabel": "Change Billing Information",
+        "savePaymentInfoLabel": "Save Payment Info for Later",
+        "addNewCreditCardLabel": "Add a New Credit Card",
+        "reviewOrderTitle": "REVIEW ORDER",
+        "reviewOrderDescriptionText": "<p>By placing this order, I accept Academy's <a href='https://academy.custhelp.com/app/answers/detail/a_id/206/kw/condition'>Terms and Conditions</a> and <a href='https://academy.custhelp.com/app/answers/detail/a_id/206/kw/condition'>Privacy policy</a>.</p>",
+        "disclaimerMessage": "",
+        "addressVerification": "Address Verification",
+        "addressVerificationUnableDescription": "We were unable to verify your address with the postal database. Using the address you entered may cause delays receiving your order.",
+        "suggestedAddressLabel": "Suggested Address",
+        "youEnteredAddressLabel": "You Entered",
+        "modifyAddressLabel": "Modify Address",
+        "useSelectedAddressLabel": "Use Selected Address"
+      },
+      "isLoggedIn": false,
+      "orderDetails": {
+        "checkoutStates": {
+          "shippingAddressRequired": false,
+          "shippingMethodRequired": false,
+          "paymentRequired": false,
+          "billingAddressRequired": true,
+          "hasAgeRestrictedItems": false
+        },
+        "orderId": "550060016",
+        "numberOfItems": "2",
+        "orderStatus": "P",
+        "totals": {
+          "orderTotal": "$229.93",
+          "totalShippingTax": "$0.00",
+          "totalShippingCharge": "0.00000",
+          "totalAdjustment": 0,
+          "totalSalesTax": 0,
+          "totalProductPrice": 229.93,
+          "orderCurrency": "USD"
+        },
+        "orderItems": [
+          {
+            "orderItemId": "550216027",
+            "unitPrice": 34.99,
+            "totalAdjustment": 0,
+            "zipCode": null,
+            "quantity": 6,
+            "shipModeCode": "UPS Ground",
+            "shipModeId": "10551",
+            "orderItemPrice": 209.94,
+            "orderItemDiscountedPrice": 209.94,
+            "skuId": "110241067",
+            "isfreeGift": false,
+            "productId": "3956033",
+            "skuDetails": {
+              "inventory": {
+                "store": [
+                  {
+                    "storeId": "false"
+                  }
+                ],
+                "online": [
+                  {
+                    "availableQuantity": "507.0",
+                    "inventoryStatus": "IN_STOCK"
+                  }
+                ]
+              },
+              "skuInfo": {
+                "name": "ADI B TIRO PANT:Black 03:X Small",
+                "shortDescription": "",
+                "longDescription": "Designed with side stripes and an adidas™ brandmark, the adidas Boys' Tiro 17 Training Pant offers a sporty look that he will love. The pant is made of 100% polyester double knit for comfortable wear and features CLIMACOOL® fabric technology to provide heat and moisture management and help him stay cool and dry. Zip pockets.",
+                "imageAltDescription": "ADI B TIRO PANT:Black 03:X Small",
+                "sellable": "true",
+                "imageURL": "//assets.academy.com/mgen/94/10757894.jpg",
+                "thumbnail": "//assets.academy.com/mgen/94/10757894.jpg",
+                "skuAttributes": [
+                  {
+                    "name": "Color",
+                    "value": "Black/White"
+                  },
+                  {
+                    "name": "Size",
+                    "value": "X Small"
+                  }
+                ]
+              }
+            },
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDes": "SG",
+                "shippingType": "SG",
+                "estimatedFromDate": "01-07-2018",
+                "estimatedToDate": "07-07-2018"
+              }
+            ]
+          },
+          {
+            "orderItemId": "550216034",
+            "unitPrice": 19.99,
+            "totalAdjustment": 0,
+            "zipCode": null,
+            "quantity": 1,
+            "shipModeCode": "UPS Ground",
+            "shipModeId": "10551",
+            "orderItemPrice": 19.99,
+            "orderItemDiscountedPrice": 19.99,
+            "skuId": "113014951",
+            "isfreeGift": false,
+            "productId": "5037538",
+            "skuDetails": {
+              "inventory": {
+                "store": [
+                  {
+                    "storeId": "false"
+                  }
+                ],
+                "online": [
+                  {
+                    "availableQuantity": "23.0",
+                    "inventoryStatus": "IN_STOCK"
+                  }
+                ]
+              },
+              "skuInfo": {
+                "name": "Under Armour Women's Tech Graphic Twist T-shirt",
+                "shortDescription": "",
+                "longDescription": "Treat yourself to the comfort of the Under Armour Women's Tech Graphic Twist T-shirt. The sweat-wicking UA Tech™ fabric dries quickly and feels ultra soft, while the anti-odor technology helps keep the shirt odor free. The Under Armour™ graphic with an allover twist effect creates a cool, sporty look.",
+                "imageAltDescription": "Under Armour Women's Tech Graphic Twist T-shirt",
+                "sellable": "true",
+                "imageURL": "//assets.academy.com/mgen/63/20075363.jpg",
+                "thumbnail": "//assets.academy.com/mgen/63/20075363.jpg",
+                "skuAttributes": [
+                  {
+                    "name": "Color",
+                    "value": "Grey"
+                  },
+                  {
+                    "name": "Size",
+                    "value": "X Small"
+                  }
+                ]
+              }
+            },
+            "availableShippingMethods": [
+              {
+                "shipmodeId": "10551",
+                "shipmodeDes": "SG",
+                "shippingType": "SG",
+                "estimatedFromDate": "01-07-2018",
+                "estimatedToDate": "07-07-2018"
+              }
+            ]
+          }
+        ],
+        "shippingGroups": [],
+        "addresses": {
+          "shippingAddress": {
+            "firstName": "Academy",
+            "lastName": "Sports",
+            "phoneNumber": "9786765456",
+            "address": "7 times square",
+            "zipCode": "10007",
+            "city": "NY",
+            "state": "NY",
+            "companyName": "Academys"
+          },
+          "billingAddress": {
+            "firstName": "John",
+            "lastName": "Appleseed",
+            "phoneNumber": "9786765456",
+            "address": "1, Infinite Loop",
+            "zipCode": "95040",
+            "city": "Cupertino",
+            "state": "CA",
+            "companyName": "Nike"
+          }
+        },
+        "promotions": [],
+        "giftCardDetails": [
+          {
+            "gcPiId": "1234",
+            "totalGCBalance": "0",
+            "GcAppliedAmount": "14",
+            "giftcard": "7777091989512621"
+          },
+          {
+            "gcPiId": "5678",
+            "totalGCBalance": "0",
+            "GcAppliedAmount": "14",
+            "giftcard": "7777091989512621"
+          }
+        ]
+      }    
+    }
+  }
+}

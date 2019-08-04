@@ -1,0 +1,21 @@
+/*
+* Stylings allowing us to adhere to ADA requirements https://adata.org/publication/ADA-faq-booklet
+*/
+
+@mixin ada-disguised-button {
+  background: none;
+  border: 0;
+  border-color: transparent;
+  padding: 0;
+  margin: 0;
+}
+
+button.ada-span {
+  @include ada-disguised-button;
+  display: inline;
+}
+
+button.ada-div {
+  @include ada-disguised-button;
+  display: block;
+}

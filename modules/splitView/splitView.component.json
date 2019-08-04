@@ -1,0 +1,28 @@
+{
+  "title": "Split View",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "headlineText": "Cookout Ready",
+        "headlineSubText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiumod tempor",
+        "color": "white",
+        "desktopImage": "/assets/images/demo/splitview/grill-large.png",
+        "mobileImage": "/assets/images/demo/splitview/grill-small.png",
+        "imageAltText": "Backyard grilling",
+        "cta": [
+          { "ctaText": "Grills", "ctaPath": "/content/academy/includes/globalcomponentspage1" },
+          { "ctaText": "Cookware", "ctaPath": "/content/academy/includes/globalcomponentspage2" },
+          { "ctaText": "fryers", "ctaPath": "/content/academy/includes/globalcomponentspage3" },
+          { "ctaText": "smokers", "ctaPath": "/content/academy/includes/globalcomponentspage4" },
+          { "ctaText": "Accessories", "ctaPath": "/content/academy/includes/globalcomponentspage5" }
+        ],
+        "id": "AUGUST_PROMO18",
+        "name": "August Sale",
+        "creative": "splitview1",
+        "position": "slot1",
+        "dimension83": "09/02/18"
+      }
+    }
+  }
+}

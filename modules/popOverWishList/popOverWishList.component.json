@@ -1,0 +1,55 @@
+{
+  "title": "Pop Over Wish List",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "isAuthoring": "Y",
+        "commonLabels": {
+          "saveLabel": "SAVE",
+          "undoLabel": "Undo"
+        },
+        "wishlistLabel": "WISHLIST",
+        "wishlistOptions": [
+          {
+            "text": "Kids Stuff"
+          },
+          {
+            "text": "My Personal Wish List"
+          },
+          {
+            "text": "Birthday Wish List"
+          }
+        ],
+        "createListLabel": "Create a list",
+        "createNewWishlistLabel": "Create a New Wish List",
+        "createLabel": "CREATE",
+        "renameListLabel": "Rename List",
+        "yourWishlistEmpty": "Your wish list is empty.",
+        "browseProductsLabel": "Browse products",
+        "shareListLabel": "Share List",
+        "deleteListLabel": "Delete List",
+        "moveToCartLabel": "MOVE TO CART",
+        "productRemovedText": "This product has either been removed or is no longer available for sale.",
+        "wishlistNotCreatedMessage":
+          "You haven’t created a wish list yet.Browse our selection of great products and click the Add to Wish List button to save your selections.",
+        "createFirstWishlistLabel": "CREATE YOUR FIRST WISHLIST",
+        "deleteWishlistLabel": "DELETE WISHLIST",
+        "areYouSureText": "Are you sure you want to delete this wish list?",
+        "keepWishlistLabel": "KEEP WISHLIST",
+        "renameWishlistLabel": "Rename Wish List",
+        "shareYourWishlistLabel": "SHARE YOUR WISHLIST",
+        "enterEmailToShare": "Enter an email address below to share your wish list",
+        "allFieldRequired": "All fields required unless noted",
+        "recipientEmailLabel": "Recipient Email",
+        "youCanSeperateText": "You can separate multiple recipients with a comma, for example: friend@email.com, name@store.com",
+        "messageLabel": "Message (optional)",
+        "shareWishlistLabel": "SHARE WISH LIST",
+        "cancel": "CANCEL",
+        "yourWishlistSharedText": "Your wish list has been shared to the given email address",
+        "removedLabel": "Removed"
+      },
+      "popOverPosition": "popoverModal"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "wish-list-popover",
+  "version": "1.0.0",
+  "description": "Wish List Popover component",
+  "main": "wishListPopover.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@academysports/fusion-components": "1.1.17"
+  },
+  "peerDependencies": {
+    "react-responsive": "5.0.0"
+  }
+}

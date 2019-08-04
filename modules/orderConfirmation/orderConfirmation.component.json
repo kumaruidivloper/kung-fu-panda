@@ -1,0 +1,19 @@
+{
+  "title": "Order Confirmation",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "title": "Order Confirmation works!",
+        "isAuthoring": "Y",
+        "commonLabels": { "printLabel": "Print" },
+        "backgroundImage": "/content/dam/academysports/Test Image - 1.jpeg",
+        "thankYouMessage": "Thank You For Placing Your Order",
+        "confirmationMail": "Confirmation Mail on It's Way",
+        "orderNumber": "ORDER NUMBER",
+        "createAccount": "Create Account",
+        "seeMyAccount": "My Account"
+      }
+    }
+  }
+}

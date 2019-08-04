@@ -1,0 +1,13 @@
+{
+  "title": "Search Result",
+  "status": "wip",
+  "context": {
+    "data": {
+      "cms": {
+        "sectionTitle": "Results for %SEARCHTERM%",    
+        "helpTextVar1": "We couldnt find anything for %SEARCHTERM%. Please try another search",    
+        "helpTextVar2": "Hmm we couldnt find anything for %SEARCHTERM%. Here are some other products you may like or try another search"
+      }
+    }
+  }
+}

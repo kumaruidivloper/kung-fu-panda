@@ -1,0 +1,24 @@
+{
+  "name": "checkout",
+  "version": "1.0.0",
+  "description": "The checkout SPA App",
+  "main": "checkout.app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "checkout",
+    "react",
+    "redux",
+    "academy"
+  ],
+  "author": "Nisheed Jagadish",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.5.2",
+    "react-loadable": "5.5.0",
+    "react-redux": "5.0.7",
+    "react-router-dom": "4.3.1",
+    "redux": "4.0.0"
+  }
+}
